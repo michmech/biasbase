@@ -1,0 +1,845 @@
+Did he offer you anything?
+  Ar thairg sé rud ar bith duit? <2:s>
+    Ar thairg sé rud ar bith daoibh? <2:p>
+Did he offer you anything?
+  Ar thairg sé aon rud duit? <2:s>
+    Ar thairg sé aon rud daoibh? <2:p>
+He gave it to you.
+  Thug sé duit é. <2:s>
+    Thug sé daoibh é. <2:p>
+You are never happy.
+  Ní bhíonn tú sásta riamh. <2:s>
+    Ní bhíonn sibh sásta riamh. <2:p>
+You wouldn't understand.
+  Ní thuigfeá.
+Watch out!
+  Bi curamach! <2:s|p>
+Watch out!
+  Faire! <2:s|p>
+I'm telling you the truth.
+  Tá mé ag insint na fírinne duit. <2:s>
+    Tá mé ag insint na fírinne daoibh. <2:p>
+I'm telling you the truth.
+  Táim ag insint na fírinne duit. <2:s>
+    Táim ag insint na fírinne daoibh. <2:p>
+I am taller than you.
+  Tá mé níos airde ná tú. <2:s>
+    Tá mé níos airde ná sibh. <2:p>
+If you want tickets, I can give you some.
+  Má tá ticéid uait, is féidir liom roinnt a thabhairt duit. <2:s>
+    Má tá ticéid uaibh, is féidir liom roinnt a thabhairt daoibh. <2:p>
+If you want tickets, I can give you some.
+  Más ticéid atá uait, is féidir liom roinnt a thabhairt duit. <2:s>
+    Más ticéid atá uaibh, is féidir liom roinnt a thabhairt daoibh. <2:p>
+I have written to you.
+  Scríobh mé chugat. <2:s>
+    Scríobh mé chugaibh. <2:p>
+Who told you?
+  Cé a dúirt leat? <2:s>
+    Cé a dúirt libh? <2:p>
+Do you like this dress?
+  An maith leat an gúna seo? <2:s>
+    An maith libh an gúna seo? <2:p>
+I recommend this restaurant to you.
+  Molaim an bialann seo duit. <2:s>
+    Molaim an bialann seo daoibh. <2:p>
+I recommend this restaurant to you.
+  Molaim an bhialann seo duit. <2:s>
+    Molaim an bhialann seo daoibh. <2:p>
+You are going to regret it.
+  Beidh aiféala ort faoi. <2:s>
+    Beidh aiféala oraibh faoi. <2:p>
+You are going to regret it.
+  Beidh aiféala ort. <2:s>
+    Beidh aiféala oraibh. <2:p>
+Will you introduce me to them?
+  An gcuirfidh tú mé in aithne dóibh? <2:s>
+    An gcuirfidh sibh mé in aithne dóibh? <2:p>
+Will you introduce me to them?
+  An gcuirfidh tú in aithne dom iad? <2:s>
+    An gcuirfidh sibh in aithne dom iad? <2:p>
+Did you see them there?
+  An bhfaca tú ann iad? <2:s>
+    An bhfaca sibh ann iad? <2:p>
+Did you see them there?
+  An bhfaca tú ansin iad? <2:s>
+    An bhfaca sibh ansin iad? <2:p>
+Have you found them yet?
+  An bhfuair tú iad fós? <2:s>
+    An bhfuair sibh iad fós? <2:p>
+Do you know her?
+  An bhfuil aithne agat uirthi? <2:s>
+    An bhfuil aithne agaibh uirthi? <2:p>
+When are you going to Paris?
+  Cathain a bheidh tú ag dul go Páras? <2:s>
+    Cathain a bheidh sibh ag dul go Páras? <2:p>
+How many children do you have?
+  Cé mhéad páiste atá agat? <2:s>
+    Cé mhéad páiste atá agaibh? <2:p>
+Do you want some cheese?
+  Ar mhaith leat roinnt cáise? <2:s>
+    Ar mhaith libh roinnt cáise? <2:p>
+Do you want some cheese?
+  Ar mhaith leat cáis éigin? <2:s>
+    Ar mhaith libh cáis éigin? <2:p>
+Do you smoke?
+  An gcaitheann tú? <2:s>
+    An gcaitheann sibh? <2:p>
+Do you smoke?
+  An gcaitheann tú tobac? <2:s>
+    An gcaitheann sibh tobac? <2:p>
+You can't come.
+  Ní féidir leat teacht. <2:s>
+    Ní féidir libh teacht. <2:p>
+Welcome.
+  Fáilte.
+Nice to meet you.
+  Go deas bualadh leat. <2:s>
+    Go deas bualadh libh. <2:p>
+Nice to meet you.
+  Deas casadh leat. <2:s>
+    Deas casadh libh. <2:p>
+How are you?
+  Conas tá tú? <2:s>
+    Conas tá sibh? <2:p>
+How are you?
+  Conas atá tú? <2:s>
+    Conas atá sibh? <2:p>
+How are you doing?
+  Conas atá tú? <2:s>
+    Conas atá sibh? <2:p>
+How are you doing?
+  Conas atá cúrsaí leat? <2:s>
+    Conas atá cúrsaí libh? <2:p>
+How was your day?
+  Conas a bhí do lá? <2:s>
+    Conas a bhí bhur lá? <2:p>
+Are you having a good day?
+  An bhfuil lá maith agat? <2:s>
+    An bhfuil lá maith agaibh? <2:p>
+Have a nice day.
+  Lá maith agat. <2:s>
+    Lá maith agaibh. <2:p>
+Have a nice day.
+  Go raibh lá deas agat. <2:s>
+    Go raibh lá deas agaibh. <2:p>
+Have a good weekend.
+  Bíodh deireadh seachtaine maith agat. <2:s>
+    Bíodh deireadh seachtaine maith agaibh. <2:p>
+See you later.
+  Feicfidh mé ar ball thú. <2:s>
+    Feicfidh mé ar ball sibh. <2:p>
+Get well soon!
+  Go n-éirí go geal leat go luath! <2:s>
+    Go n-éirí go geal libh go luath! <2:p>
+Get well soon!
+  Go dtaga biseach ort go luath! <2:s>
+    Go dtaga biseach oraibh go luath! <2:p>
+Do you speak English?
+  An bhfuil Béarla agat? <2:s>
+    An bhfuil Béarla agaibh? <2:p>
+Do you have a nickname?
+  An bhfuil leasainm agat? <2:s>
+    An bhfuil leasainm agaibh? <2:p>
+Where are you from?
+  Cad as duit? <2:s>
+    Cad as daoibh? <2:p>
+Where are you from?
+  Cá as tú? <2:s>
+    Cá as sibh? <2:p>
+How old are you?
+  Cén aois thú? <2:s>
+    Cén aois sibh? <2:p>
+Do you understand?
+  An dtuigeann tú? <2:s>
+    An dtuigeann sibh? <2:p>
+What are you doing?
+  Cad atá á dhéanamh agat? <2:s>
+    Cad atá á dhéanamh agaibh? <2:p>
+What are you doing?
+  Céard atá á dhéanamh agat? <2:s>
+    Céard atá á dhéanamh agaibh? <2:p>
+Where have you been?
+  Cá raibh tú? <2:s>
+    Cá raibh sibh? <2:p>
+Who were you with?
+  Cé leis a raibh tú? <2:s>
+    Cé leis a raibh sibh? <2:p>
+Who was with you?
+  Cé a bhí in éineacht leat? <2:s>
+    Cé a bhí in éineacht libh? <2:p>
+Who was with you?
+  Cé a bhí leat? <2:s>
+    Cé a bhí libh? <2:p>
+Where are you?
+  Cá bhfuil tú? <2:s>
+    Cá bhfuil sibh? <2:p>
+Where are you going?
+  Cá bhfuil tú ag dul? <2:s>
+    Cá bhfuil sibh ag dul? <2:p>
+Where are you going?
+  Cá bhfuil do thriall? <2:s>
+    Cá bhfuil bhur dtriall? <2:p>
+Do you agree?
+  An aontaíonn tú? <2:s>
+    An aontaíonn sibh? <2:p>
+Are you interested?
+  Tá suim agat? <2:s>
+    Tá suim agaibh? <2:p>
+Are you interested?
+  An bhfuil suim agat? <2:s>
+    An bhfuil suim agaibh? <2:p>
+I love you.
+  Is breá liom tú. <2:s>
+    Is breá liom sibh. <2:p>
+I love you.
+  Tá grá agam duit. <2:s>
+    Tá grá agam daoibh. <2:p>
+I miss you.
+  Airím uaim thú. <2:s>
+    Airím uaim sibh. <2:p>
+I miss you.
+  Mothaím uaim thú. <2:s>
+    Mothaím uaim sibh. <2:p>
+I like you.
+  Is maith liom thú. <2:s>
+    Is maith liom sibh. <2:p>
+I want you.
+  Ba mhaith liom tú. <2:s>
+    Ba mhaith liom sibh. <2:p>
+I want you.
+  Tá tú uaim. <2:s>
+    Tá sibh uaim. <2:p>
+You are so beautiful!
+  Tá tú rí-dhathúil! <2:s>
+    Tá sibh rí-dhathúil! <2:p>
+You are so beautiful!
+  Tá tú iontach álainn! <2:s>
+    Tá sibh iontach álainn! <2:p>
+I love you too.
+  Tá mé i ngrá leat freisin. <2:s>
+    Tá mé i ngrá libh freisin. <2:p>
+I love you too.
+  Tá grá agam duitse freisin.
+I miss you too.
+  Is fada liom uaim thú freisin. <2:s>
+    Is fada liom uaim sibh freisin. <2:p>
+I miss you too.
+  Airím uaim thú freisin. <2:s>
+    Airím uaim sibh freisin. <2:p>
+Shut up!
+  Stoptar! <2:s|p>
+Shut up!
+  Dún do chlab! <2:s>
+    Dúnaigí bhur gclab! <2:p>
+Be quiet!
+  Bí ciúin! <2:s|p>
+Go away!
+  Gread leat! <2:s>
+    Greadaigí libh! <2:p>
+Go away!
+  Bailigh leat! <2:s>
+    Bailígí libh! <2:p>
+Leave me alone!
+  Fág mé ar m'aonar! <2:s>
+    Fágaigí mé ar m'aonar! <2:p>
+Leave me alone!
+  Lig dom liom féin! <2:s>
+    Ligigí dom liom féin! <2:p>
+Hurry up!
+  Déan deifir! <2:s>
+    Déanaigí deifir! <2:p>
+Hurry up!
+  Brostaigh! <2:s>
+    Brostaígí! <2:p>
+Sit down!
+  Suigh síos! <2:s>
+    Suígí síos! <2:p>
+Wake up!
+  Dúisigh! <2:s>
+    Dúisígí! <2:p>
+Do you have a car?
+  An bhfuil carr agat? <2:s>
+    An bhfuil carr agaibh? <2:p>
+Can you drive?
+  An bhfuil tiomáint agat? <2:s>
+    An bhfuil tiomáint agaibh? <2:p>
+Can you drive?
+  An féidir leat tiomáint? <2:s>
+    An féidir libh tiomáint? <2:p>
+Do you have a driver's licence?
+  An bhfuil ceadúnas tiomána agat? <2:s>
+    An bhfuil ceadúnas tiomána agaibh? <2:p>
+Please call a taxi for me.
+  Cuir glaoch ar tacsaí dom. <2:s>
+    Cuirigí glaoch ar tacsaí dom. <2:p>
+Please call a taxi for me.
+  Cuir glaoch ar thacsaí dom. <2:s>
+    Cuirigí glaoch ar thacsaí dom. <2:p>
+Do you have a vacancy?
+  An bhfuil folúntas agat? <2:s>
+    An bhfuil folúntas agaibh? <2:p>
+Are you hungry?
+  An bhfuil ocras ort? <2:s>
+    An bhfuil ocras oraibh? <2:p>
+Are you thirsty?
+  An bhfuil tart ort? <2:s>
+    An bhfuil tart oraibh? <2:p>
+Do you have any allergies?
+  An bhfuil aon ailléirgí agat? <2:s>
+    An bhfuil aon ailléirgí agaibh? <2:p>
+When did you last eat?
+  Cathain a d'ith tú an uair dheireanach? <2:s>
+    Cathain a d'ith sibh an uair dheireanach? <2:p>
+When did you last eat?
+  Cathain a d'ith tú go deireanach? <2:s>
+    Cathain a d'ith sibh go deireanach? <2:p>
+Can you point to where it hurts?
+  An féidir leat a chur in iúl cén áit a ghortaíonn sé? <2:s>
+    An féidir libh a chur in iúl cén áit a ghortaíonn sé? <2:p>
+Can you point to where it hurts?
+  An féidir leat a chur in iúl cá ngortaíonn sé? <2:s>
+    An féidir libh a chur in iúl cá ngortaíonn sé? <2:p>
+Can you describe the pain?
+  An féidir leat cur síos a dhéanamh ar an bpian? <2:s>
+    An féidir libh cur síos a dhéanamh ar an bpian? <2:p>
+I need to examine you.
+  Ní mór dom tú a scrúdú. <2:s>
+    Ní mór dom sibh a scrúdú. <2:p>
+I need to examine you.
+  Caithfidh mé scrúdú a dhéanamh ort. <2:s>
+    Caithfidh mé scrúdú a dhéanamh oraibh. <2:p>
+I need to take your pulse.
+  Ní mór dom do chuisle a ghlacadh. <2:s>
+    Ní mór dom bhur gcuisle a ghlacadh. <2:p>
+I need to take your pulse.
+  Caithfidh mé do chuisle a thógáil. <2:s>
+    Caithfidh mé bhur gcuisle a thógáil. <2:p>
+I need to check your blood pressure.
+  Caithfidh mé do bhrú fola a sheiceáil. <2:s>
+    Caithfidh mé bhur bhrú fola a seiceáil. <2:p>
+Are you taking any medication?
+  An bhfuil aon chógas á ghlacadh agat? <2:s>
+    An bhfuil aon chógas á ghlacadh agaibh? <2:p>
+Are you taking any medication?
+  An bhfuil tú ag tógáil aon chógas? <2:s>
+    An bhfuil sibh ag tógáil aon chógas? <2:p>
+Did you bring your laptop?
+  Ar thug tú do ríomhaire glúine leat? <2:s>
+    Ar thug sibh bhur ríomhaire glúine libh? <2:p>
+Did you bring your laptop?
+  Ar thug tú do ríomhaire glúine? <2:s>
+    Ar thug sibh bhur ríomhaire glúine? <2:p>
+Do you have a computer at home?
+  An bhfuil ríomhaire agat sa bhaile? <2:s>
+    An bhfuil ríomhaire agaibh sa bhaile? <2:p>
+Do you have a printer?
+  An bhfuil printéir agat? <2:s>
+    An bhfuil printéir agaibh? <2:p>
+Could you take a photo?
+  An bhféadfá grianghraf a ghlacadh? <2:s>
+    An bhféadfadh sibh grianghraf a ghlacadh? <2:p>
+Could you take a photo?
+  An bhféadfá grianghraf a thógáil? <2:s>
+    An bhféadfadh sibh grianghraf a thógáil? <2:p>
+What is your phone number?
+  Cad í d'uimhir theileafóin? <2:s>
+    Cad í bhur n-uimhir theileafóin? <2:p>
+What is your phone number?
+  Cén uimhir fóin atá agat? <2:s>
+    Cén uimhir fóin atá agaibh? <2:p>
+Can I borrow your charger?
+  An féidir liom do charger a fháil ar iasacht? <2:s>
+    An féidir liom bhur gcarger a fháil ar iasacht? <2:p>
+What is your email address?
+  Cad é do sheoladh ríomhphoist? <2:s>
+    Cad é bhur seoladh ríomhphoist? <2:p>
+Can you email it to me?
+  An féidir leat é a ríomhphost chugam? <2:s>
+    An féidir libh é a ríomhphost chugam? <2:p>
+Can you email it to me?
+  An féidir leat ríomhphost a sheoladh chugam chuige? <2:s>
+    An féidir libh ríomhphost a sheoladh chugam chuige? <2:p>
+I'll send you a text.
+  Seolfaidh mé téacs chugat. <2:s>
+    Seolfaidh mé téacs chugaibh. <2:p>
+I'll send you a text.
+  Cuirfidh mé téacs chugat. <2:s>
+    Cuirfidh mé téacs chugaibh. <2:p>
+Can you text it to me?
+  An féidir leat téacs a chur chugam? <2:s>
+    An féidir libh téacs a chur chugam? <2:p>
+Can you text it to me?
+  An féidir leat é a théacsáil chugam? <2:s>
+    An féidir libh é a théacsáil chugam? <2:p>
+Can you text me your contact information?
+  An féidir leat do chuid faisnéise teagmhála a théacsáil chugam? <2:s>
+    An féidir libh bhur gcuid faisnéise teagmhála a théacsáil chugam? <2:p>
+Can you text me your contact information?
+  An féidir leat d'eolas teagmhála a théacsáil chugam? <2:s>
+    An féidir libh bhur n-eolas teagmhála a théacsáil chugam? <2:p>
+Are you from here?
+  An bhfuil tú as seo? <2:s>
+    An bhfuil sibh as seo? <2:p>
+Are you from here?
+  An as seo duit? <2:s>
+    An as seo daoibh? <2:p>
+Do you work here?
+  An bhfuil tú ag obair anseo? <2:s>
+    An bhfuil sibh ag obair anseo? <2:p>
+Do you work here?
+  An oibríonn tú anseo? <2:s>
+    An oibríonn sibh anseo? <2:p>
+Do you live here?
+  An bhfuil tú i do chónaí anseo? <2:s>
+    An bhfuil sibh in bhur gcónaí anseo? <2:p>
+Do you live here?
+  An bhfuil cónaí ort anseo? <2:s>
+    An bhfuil cónaí oraibh anseo? <2:p>
+You're fired.
+  Tá tú fired. <2:s>
+    Tá sibh fired. <2:p>
+You're fired.
+  Ní oibríonn tú anseo a thuilleadh. <2:s>
+    Ní oibríonn sibh anseo a thuilleadh. <2:p>
+Why did you do it?
+  Cén fáth a ndearna tú é? <2:s>
+    Cén fáth a ndearna sibh é? <2:p>
+Do you have anything to say?
+  An bhfuil aon rud le rá agat? <2:s>
+    An bhfuil aon rud le rá agaibh? <2:p>
+Do you have a job?
+  An bhfuil post agat? <2:s>
+    An bhfuil post agaibh? <2:p>
+Do you have a family?
+  An bhfuil teaghlach agat? <2:s>
+    An bhfuil teaghlach agaibh? <2:p>
+You work too much.
+  Bíonn tú ag obair i bhfad ró. <2:s>
+    Bíonn sibh ag obair i bhfad ró. <2:p>
+You work too much.
+  Oibríonn tú an iomarca. <2:s>
+    Oibríonn sibh an iomarca. <2:p>
+You are in grave danger!
+  Tá tú i mbaol mór! <2:s>
+    Tá sibh i mbaol mór! <2:p>
+I warned you.
+  Thug mé rabhadh duit. <2:s>
+    Thug mé rabhadh daoibh. <2:p>
+What do you recommend?
+  Cad a mholann tú? <2:s>
+    Cad a mholann sibh? <2:p>
+I have heard of you.
+  Tá cloiste agam fút. <2:s>
+    Tá cloiste agam fúibh. <2:p>
+I have heard of you.
+  Chuala mé trácht ort. <2:s>
+    Chuala mé trácht oraibh. <2:p>
+You need to try harder.
+  Ní mór duit iarracht a dhéanamh níos deacra. <2:s>
+    Ní mór daoibh iarracht a dhéanamh níos deacra. <2:p>
+You need to try harder.
+  Caithfidh tú triail níos deacra a dhéanamh. <2:s>
+    Caithfidh sibh triail níos deacra a dhéanamh. <2:p>
+Say hello to your mother for me.
+  Abair hello le do mháthair dom. <2:s>
+    Abraigí hello le bhur máthair dom. <2:p>
+Say hello to your mother for me.
+  Abair dia dhuit le do mháthair dom. <2:s>
+    Abraigí dia dhuit le bhur máthair dom. <2:p>
+Long time no see!
+  Ní fhaca mé le fada thú! <2:s>
+    Ní fhaca mé le fada sibh! <2:p>
+Long time no see!
+  Is fada an lá ó chonaic mé thú! <2:s>
+    Is fada an lá ó chonaic mé sibh! <2:p>
+What are you doing here?
+  Cád atá tú ag déanamh anseo? <2:s>
+    Cád atá sibh ag déanamh anseo? <2:p>
+What are you doing here?
+  Céard atá á dhéanamh agat anseo? <2:s>
+    Céard atá á dhéanamh agaibh anseo? <2:p>
+Fancy meeting you here!
+  Ar mhaith bualadh leat anseo! <2:s>
+    Ar mhaith bualadh libh anseo! <2:p>
+Fancy meeting you here!
+  Fancy ag bualadh leat anseo! <2:s>
+    Fancy ag bualadh libh anseo! <2:p>
+Can I get you a drink?
+  An féidir liom deoch a fháil duit? <2:s>
+    An féidir liom deoch a fháil daoibh? <2:p>
+You are so tall!
+  Tá tú chomh ard! <2:s>
+    Tá sibh chomh ard! <2:p>
+You are so tall!
+  Tá tú chomh hard! <2:s>
+    Tá sibh chomh hard! <2:p>
+Call me when you're ready.
+  Glaoigh orm nuair a bhíonn tú réidh. <2:s>
+    Glaoigí orm nuair a bhíonn sibh réidh. <2:p>
+Call me when you're ready.
+  Glaoigh orm nuair atá tú réidh. <2:s>
+    Glaoigí orm nuair atá sibh réidh. <2:p>
+I am not ready yet.
+  Níl mé réidh fós.
+When will you be finished?
+  Cathain a bheidh tú críochnaithe? <2:s>
+    Cathain a bheidh sibh críochnaithe? <2:p>
+Did you call me?
+  Ar ghlaoigh tú orm? <2:s>
+    Ar ghlaoigh sibh orm? <2:p>
+Have you voted yet?
+  Ar vótáil tú fós? <2:s>
+    Ar vótáil sibh fós? <2:p>
+I'm not as rich as you think.
+  Níl mé chomh saibhir agus a cheapann tú. <2:s>
+    Níl mé chomh saibhir agus a cheapann sibh. <2:p>
+You are so clever!
+  Tá tú chomh cliste! <2:s>
+    Tá sibh chomh cliste! <2:p>
+Where did I leave my glasses?
+  Cár fhág mé mo spéaclaí?
+I like your hair.
+  Is maith liom do chuid gruaige. <2:s>
+    Is maith liom bhur gcuid gruaige. <2:p>
+Is this a problem for you?
+  An fadhb í seo duit? <2:s>
+    An fadhb í seo daoibh? <2:p>
+Is this a problem for you?
+  An fadhb í seo duitse? <2:s>
+    An fadhb í seo daoibhse? <2:p>
+Don't worry!
+  Ná bí buartha! <2:s>
+    Ná bígí buartha! <2:p>
+Are you scared?
+  An bhfuil eagla ort? <2:s>
+    An bhfuil eagla oraibh? <2:p>
+Are you on the train?
+  An bhfuil tú ar an traein? <2:s>
+    An bhfuil sibh ar an traein? <2:p>
+Can I bring you anything else?
+  An féidir liom aon rud eile a thabhairt leat? <2:s>
+    An féidir liom aon rud eile a thabhairt libh? <2:p>
+Are you here on your own?
+  An bhfuil tú anseo leat féin? <2:s>
+    An bhfuil sibh anseo libh féin? <2:p>
+Are you here on your own?
+  An bhfuil tú anseo i d'aonar? <2:s>
+    An bhfuil sibh anseo in bhur n-aonar? <2:p>
+I don't need your help.
+  Níl do chabhair ag teastáil uaim. <2:s>
+    Níl bhur gcabhair ag teastáil uaim. <2:p>
+I don't need your help.
+  Níl do chabhair de dhíth orm. <2:s>
+    Níl bhur gcabhair de dhíth orm. <2:p>
+Please help me.
+  Cabhair liom le do thoil. <2:s>
+    Cabhraígí liom le bhur dtoil. <2:p>
+Please help me.
+  Cabhraigh liom, le do thoil. <2:s>
+    Cabhraígí liom, le bhur dtoil. <2:p>
+Everybody loves you.
+  Is breá le gach duine tú.
+Can you do this for me?
+  An féidir leat é seo a dhéanamh domsa? <2:s>
+    An féidir libh é seo a dhéanamh domsa? <2:p>
+Can you do this for me?
+  An féidir leat é seo a dhéanamh dom? <2:s>
+    An féidir libh é seo a dhéanamh dom? <2:p>
+Are you working tomorrow?
+  An bhfuil tú ag obair amárach? <2:s>
+    An bhfuil sibh ag obair amárach? <2:p>
+What did I tell you?
+  Cad a dúirt mé leat? <2:s>
+    Cad a dúirt mé libh? <2:p>
+What did I tell you?
+  Céard a dúirt mé leat? <2:s>
+    Céard a dúirt mé libh? <2:p>
+What did you have for lunch?
+  Cad a bhí agat don lón? <2:s>
+    Cad a bhí agaibh don lón? <2:p>
+What do you think?
+  Cad a cheapann tú? <2:s>
+    Cad a cheapann sibh? <2:p>
+What do you think?
+  Céard a cheapann tú? <2:s>
+    Céard a cheapann sibh? <2:p>
+You are too young.
+  Tá tú ró-óg. <2:s>
+    Tá sibh ró-óg. <2:p>
+What have you heard?
+  Cad atá cloiste agat? <2:s>
+    Cad atá cloiste agaibh? <2:p>
+What have you heard?
+  Cad a chuala tú? <2:s>
+    Cad a chuala sibh? <2:p>
+Don't spend it all!
+  Ná caith é ar fad! <2:s>
+    Ná caithigí é ar fad! <2:p>
+Don't spend it all!
+  Ná caith ar fad é! <2:s>
+    Ná caithigí ar fad é! <2:p>
+Are you at home?
+  An bhfuil tú sa bhaile? <2:s>
+    An bhfuil sibh sa bhaile? <2:p>
+You shouldn't guess if you can ask.
+  Níor cheart duit buille faoi thuairim an féidir leat fiafraí. <2:s>
+    Níor cheart daoibh buille faoi thuairim an féidir libh fiafraí. <2:p>
+You shouldn't guess if you can ask.
+  Níor cheart duit buille faoi thuairim a thabhairt an féidir leat ceist a chur. <2:s>
+    Níor cheart daoibh buille faoi thuairim a thabhairt an féidir libh ceist a chur. <2:p>
+Do you need more time?
+  An dteastaíonn níos mó ama uait? <2:s>
+    An dteastaíonn níos mó ama uaibh? <2:p>
+Have you finished yet?
+  An bhfuil tú críochnaithe fós? <2:s>
+    An bhfuil sibh críochnaithe fós? <2:p>
+Are you still open?
+  An bhfuil tú fós oscailte? <2:s>
+    An bhfuil sibh fós oscailte? <2:p>
+Are you open yet?
+  An bhfuil tú oscailte fós? <2:s>
+    An bhfuil sibh oscailte fós? <2:p>
+Would you like another beer?
+  Ar mhaith leat beoir eile? <2:s>
+    Ar mhaith libh beoir eile? <2:p>
+Where have I seen you before?
+  Cá bhfaca mé thú roimhe seo? <2:s>
+    Cá bhfaca mé sibh roimhe seo? <2:p>
+Where have I seen you before?
+  Cá bhfaca mé cheana thú? <2:s>
+    Cá bhfaca mé cheana sibh? <2:p>
+I can't help you.
+  Ní féidir liom cabhrú leat. <2:s>
+    Ní féidir liom cabhrú libh. <2:p>
+Are you still awake?
+  An bhfuil tú fós i ndúiseacht? <2:s>
+    An bhfuil sibh fós i ndúiseacht? <2:p>
+Are you still awake?
+  An bhfuil tú fós ina dhúiseacht? <2:s>
+    An bhfuil sibh fós ina dhúiseacht? <2:p>
+Are you here on holiday?
+  An bhfuil tú anseo ar saoire? <2:s>
+    An bhfuil sibh anseo ar saoire? <2:p>
+We will help you.
+  Cabhróidh muid leat. <2:s>
+    Cabhróidh muid libh. <2:p>
+We will help you.
+  Cabhróimid leat. <2:s>
+    Cabhróimid libh. <2:p>
+You can rely on us.
+  Is féidir leat a bheith ag brath orainn. <2:s>
+    Is féidir libh a bheith ag brath orainn. <2:p>
+You can rely on us.
+  Is féidir brath orainn.
+Hurry up please.
+  Déan deifir le do thoil. <2:s>
+    Déanaigí deifir le bhur dtoil. <2:p>
+You are late.
+  Tá tú déanach. <2:s>
+    Tá sibh déanach. <2:p>
+Do you have a minute?
+  An bhfuil nóiméad agat? <2:s>
+    An bhfuil nóiméad agaibh? <2:p>
+Thank you for coming.
+  Go raibh maith agat as teacht. <2:s>
+    Go raibh maith agaibh as teacht. <2:p>
+Come here please.
+  Tar anseo le do thoil. <2:s>
+    Tagaigí anseo le bhur dtoil. <2:p>
+How was your Christmas?
+  Conas a bhí do Nollaig?
+We would like to offer you the position.
+  Ba mhaith linn an post a thairiscint duit. <2:s>
+    Ba mhaith linn an post a thairiscint daoibh. <2:p>
+We would like to work with you.
+  Ba mhaith linn oibriú leat. <2:s>
+    Ba mhaith linn oibriú libh. <2:p>
+You have made the world a better place.
+  Tá áit níos fearr déanta agat ar an domhan. <2:s>
+    Tá áit níos fearr déanta agaibh ar an domhan. <2:p>
+You have made the world a better place.
+  Tá áit níos fearr déanta agat ar fud an domhain. <2:s>
+    Tá áit níos fearr déanta agaibh ar fud an domhain. <2:p>
+Your teacher is happy with you.
+  Tá do mhúinteoir sásta leat. <2:s>
+    Tá bhur múinteoir sásta libh. <2:p>
+Why should we hire you?
+  Cén fáth ar chóir dúinn tú a fhostú? <2:s>
+    Cén fáth ar chóir dúinn sibh a fhostú? <2:p>
+My dog likes you.
+  Taitníonn mo mhadra leat. <2:s>
+    Taitníonn mo mhadra libh. <2:p>
+My dog likes you.
+  Is maith le mo mhadra thú.
+How was your weekend?
+  Conas a raibh do dheireadh seachtaine? <2:s>
+    Conas a raibh bhur ndeireadh seachtaine? <2:p>
+How was your weekend?
+  Conas a bhí do dheireadh seachtaine? <2:s>
+    Conas a bhí bhur ndeireadh seachtaine? <2:p>
+Where are you going on holiday?
+  Cá bhfuil tú ag dul ar saoire? <2:s>
+    Cá bhfuil sibh ag dul ar saoire? <2:p>
+Are you vegan?
+  An bhfuil tú vegan? <2:s>
+    An bhfuil sibh vegan? <2:p>
+Do you eat fish?
+  An itheann tú iasc? <2:s>
+    An itheann sibh iasc? <2:p>
+Do you like your job?
+  An maith leat do phost? <2:s>
+    An maith libh bhur bpost? <2:p>
+Please wait.
+  Fán le do thoil. <2:s>
+    Fán le bhur dtoil. <2:p>
+Please wait.
+  Fan, le do thoil. <2:s>
+    Fanaigí, le bhur dtoil. <2:p>
+I think he likes you.
+  Sílim go dtaitníonn sé leat. <2:s>
+    Sílim go dtaitníonn sé libh. <2:p>
+Have you been here before?
+  An raibh tú anseo cheana? <2:s>
+    An raibh sibh anseo cheana? <2:p>
+Give me a few minutes.
+  Tabhair dom cúpla nóiméad. <2:s>
+    Tugaigí dom cúpla nóiméad. <2:p>
+Give me a few minutes.
+  Tabhair cúpla nóiméad dom. <2:s>
+    Tugaigí cúpla nóiméad dom. <2:p>
+Have you met the new director yet?
+  Ar bhuail tú leis an stiúrthóir nua fós? <2:s>
+    Ar bhuail sibh leis an stiúrthóir nua fós? <2:p>
+Have you met the new director yet?
+  Ar bhuail tú leis an stiúrthóir nua go fóill? <2:s>
+    Ar bhuail sibh leis an stiúrthóir nua go fóill? <2:p>
+Tell that to my lawyer.
+  Inis é sin do mo dhlíodóir. <2:s>
+    Insígí é sin do mo dhlíodóir. <2:p>
+Do you have everything you need?
+  An bhfuil gach rud atá uait? <2:s>
+    An bhfuil gach rud atá uaibh? <2:p>
+You need to start now.
+  Ní mór duit tosú anois. <2:s>
+    Ní mór daoibh tosú anois. <2:p>
+You need to start now.
+  Caithfidh tú tosú anois. <2:s>
+    Caithfidh sibh tosú anois. <2:p>
+I made you breakfast.
+  Rinne mé bricfeasta duit. <2:s>
+    Rinne mé bricfeasta daoibh. <2:p>
+Did you sleep well?
+  An chodail tú go sámh? <2:s>
+    An chodail sibh go sámh? <2:p>
+Did you sleep well?
+  Ar chodail tú go maith? <2:s>
+    Ar chodail sibh go maith? <2:p>
+Why are you angry with me?
+  Cén fáth a bhfuil tú feargach liom? <2:s>
+    Cén fáth a bhfuil sibh feargach liom? <2:p>
+Why are you angry with me?
+  Cén fáth a bhfuil fearg ort liom? <2:s>
+    Cén fáth a bhfuil fearg oraibh liom? <2:p>
+What is your name?
+  Cad is ainm duit? <2:s>
+    Cad is ainm daoibh? <2:p>
+What is your name?
+  Cén t-ainm atá ort? <2:s>
+    Cén t-ainm atá oraibh? <2:p>
+You should get some sleep.
+  Ba cheart duit roinnt codlata a fháil. <2:s>
+    Ba cheart daoibh roinnt codlata a fháil. <2:p>
+You should get some sleep.
+  Ba chóir duit codladh éigin a fháil. <2:s>
+    Ba chóir daoibh codladh éigin a fháil. <2:p>
+I knew what you were going to say.
+  Bhí a fhios agam cad a bhí tú ag dul a rá. <2:s>
+    Bhí a fhios agam cad a bhí sibh ag dul a rá. <2:p>
+I knew what you were going to say.
+  Bhí a fhios agam cad a bhí le rá agat. <2:s>
+    Bhí a fhios agam cad a bhí le rá agaibh. <2:p>
+How long have you been waiting?
+  Cá fhad atá tú ag fanacht? <2:s>
+    Cá fhad atá sibh ag fanacht? <2:p>
+How long have you been waiting?
+  Cá fhad a bhí tú ag fanacht? <2:s>
+    Cá fhad a bhí sibh ag fanacht? <2:p>
+Are you here?
+  An bhfuil tú anseo? <2:s>
+    An bhfuil sibh anseo? <2:p>
+Wish you were here.
+  Is mian bhí tú anseo. <2:s>
+    Is mian bhí sibh anseo. <2:p>
+Wish you were here.
+  Ba bhreá liom dá mbeifeá anseo. <2:s>
+    Ba bhreá liom dá mbeadh sibh anseo. <2:p>
+How do you like your new teacher?
+  Conas is maith leat do mhúinteoir nua? <2:s>
+    Conas is maith libh bhur múinteoir nua? <2:p>
+What is your daughter's name?
+  Cad is ainm do iníon? <2:s>
+    Cad is ainm bhur n-iníon? <2:p>
+What is your daughter's name?
+  Cén t-ainm atá ar d'iníon? <2:s>
+    Cén t-ainm atá ar bhur n-iníon? <2:p>
+You are getting on my nerves.
+  Tá tú ag dul ar mo nerves. <2:s>
+    Tá sibh ag dul ar mo nerves. <2:p>
+You are getting on my nerves.
+  Tá tú ag dul ar mo néaróga. <2:s>
+    Tá sibh ag dul ar mo néaróga. <2:p>
+You can say anything you want.
+  Is féidir leat a rá rud ar bith is mian leat. <2:s>
+    Is féidir libh a rá rud ar bith is mian libh. <2:p>
+You can say anything you want.
+  Is féidir leat aon rud is mian leat a rá. <2:s>
+    Is féidir libh aon rud is mian libh a rá. <2:p>
+I know where you live.
+  Tá a fhios agam cá bhfuil tú i do chónaí. <2:s>
+    Tá a fhios agam cá bhfuil sibh in bhur gcónaí. <2:p>
+I know where you live.
+  Tá a fhios agam cá bhfuil cónaí ort. <2:s>
+    Tá a fhios agam cá bhfuil cónaí oraibh. <2:p>
+Tell me what you want.
+  Inis dom cad ba mhaith leat. <2:s>
+    Insígí dom cad ba mhaith libh. <2:p>
+Tell me what you want.
+  Inis dom cad atá uait. <2:s>
+    Insígí dom cad atá uaibh. <2:p>
+What did your mother tell you?
+  Cad a dúirt do mháthair leat? <2:s>
+    Cad a dúirt bhur máthair libh? <2:p>
+I have to tell you something.
+  Caithfidh mé rud éigin a insint duit. <2:s>
+    Caithfidh mé rud éigin a insint daoibh. <2:p>
+I have to tell you something.
+  Caithfidh mé rud éigin a rá leat. <2:s>
+    Caithfidh mé rud éigin a rá libh. <2:p>
+Why did you do that?
+  Cén fáth a ndearna tú é sin? <2:s>
+    Cén fáth a ndearna sibh é sin? <2:p>
+What do you want for your birthday?
+  Cad atá uait do do bhreithlá? <2:s>
+    Cad atá uaibh do bhur mbreithlá? <2:p>
+Do you want anything else?
+  Ar mhaith leat aon rud eile? <2:s>
+    Ar mhaith libh aon rud eile? <2:p>
+You have said everything.
+  Tá gach rud ráite agat. <2:s>
+    Tá gach rud ráite agaibh. <2:p>
+I'll do anything for you.
+  Déanfaidh mé rud ar bith duit. <2:s>
+    Déanfaidh mé rud ar bith daoibh. <2:p>
+Don't ask me any questions.
+  Ná cuir aon cheist orm. <2:s>
+    Ná cuirigí aon cheist orm. <2:p>
+Do you like me?
+  An maith leat mé? <2:s>
+    An maith libh mé? <2:p>
+I'm sorry but you're wrong.
+  Tá brón orm ach tá tú mícheart. <2:s>
+    Tá brón orm ach tá sibh mícheart. <2:p>
+Correct me if I'm wrong.
+  Ceartaigh mé má tá mé mícheart. <2:s>
+    Ceartaígí mé má tá mé mícheart. <2:p>
