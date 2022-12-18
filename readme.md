@@ -42,7 +42,7 @@ Biasbase is a by-product of the [Fairslator](https://www.fairslator.com/) projec
 
 ## Contributing to Biasbase
 
-Like Fairslator, Biasbase is mostly the work of me, [Michal Měchura](http://www.lexiconista.com/). Biasbase is an open-source dataset and I will be happy to welcome contributions from others, especially in language pairs Biasbase doesn't have yet. Your contribution will help me implement your language pair in Fairslator, and will also be available to anyone else who may be studying machine translation bias or developing tools for mitigating bias in machine translation. If you're thinking of contributing, it's best if you contact me first though, to clarify a few organisational things.
+Like Fairslator, Biasbase is mostly the work of me, [Michal Měchura](http://www.lexiconista.com/). Biasbase is an open-source dataset and I will be happy to welcome corrections and contributions, especially in language pairs Biasbase doesn't have yet. Your contribution will help me implement your language pair in Fairslator, and will also be available to anyone else who may be studying machine translation bias or developing tools for mitigating bias in machine translation. If you're thinking of contributing, it's best if you contact me first though, to clarify a few organisational things.
 
 ## Background on machine translation bias
 
