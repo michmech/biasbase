@@ -11,11 +11,11 @@ You are never happy.
   Ní bhíonn tú sásta riamh. <2:s>
     Ní bhíonn sibh sásta riamh. <2:p>
 You wouldn't understand.
-  Ní thuigfeá.
+  Ní thuigfeá. <2:s>
+    Ní thuigfeadh sibh. <2:p>
 Watch out!
-  Bi curamach! <2:s|p>
-Watch out!
-  Faire! <2:s|p>
+  Bí cúramach! <2:s>
+    Bígí cúramach! <2p>
 I'm telling you the truth.
   Tá mé ag insint na fírinne duit. <2:s>
     Tá mé ag insint na fírinne daoibh. <2:p>
@@ -40,9 +40,6 @@ Who told you?
 Do you like this dress?
   An maith leat an gúna seo? <2:s>
     An maith libh an gúna seo? <2:p>
-I recommend this restaurant to you.
-  Molaim an bialann seo duit. <2:s>
-    Molaim an bialann seo daoibh. <2:p>
 I recommend this restaurant to you.
   Molaim an bhialann seo duit. <2:s>
     Molaim an bhialann seo daoibh. <2:p>
@@ -80,8 +77,8 @@ Do you want some cheese?
   Ar mhaith leat roinnt cáise? <2:s>
     Ar mhaith libh roinnt cáise? <2:p>
 Do you want some cheese?
-  Ar mhaith leat cáis éigin? <2:s>
-    Ar mhaith libh cáis éigin? <2:p>
+  Ar mhaith leat cáis? <2:s>
+    Ar mhaith libh cáis? <2:p>
 Do you smoke?
   An gcaitheann tú? <2:s>
     An gcaitheann sibh? <2:p>
@@ -91,8 +88,6 @@ Do you smoke?
 You can't come.
   Ní féidir leat teacht. <2:s>
     Ní féidir libh teacht. <2:p>
-Welcome.
-  Fáilte.
 Nice to meet you.
   Go deas bualadh leat. <2:s>
     Go deas bualadh libh. <2:p>
@@ -129,9 +124,9 @@ Have a good weekend.
 See you later.
   Feicfidh mé ar ball thú. <2:s>
     Feicfidh mé ar ball sibh. <2:p>
-Get well soon!
-  Go n-éirí go geal leat go luath! <2:s>
-    Go n-éirí go geal libh go luath! <2:p>
+Good luck!
+  Go n-éirí go geal leat! <2:s>
+    Go n-éirí go geal libh! <2:p>
 Get well soon!
   Go dtaga biseach ort go luath! <2:s>
     Go dtaga biseach oraibh go luath! <2:p>
@@ -184,9 +179,6 @@ Do you agree?
   An aontaíonn tú? <2:s>
     An aontaíonn sibh? <2:p>
 Are you interested?
-  Tá suim agat? <2:s>
-    Tá suim agaibh? <2:p>
-Are you interested?
   An bhfuil suim agat? <2:s>
     An bhfuil suim agaibh? <2:p>
 I love you.
@@ -205,9 +197,6 @@ I like you.
   Is maith liom thú. <2:s>
     Is maith liom sibh. <2:p>
 I want you.
-  Ba mhaith liom tú. <2:s>
-    Ba mhaith liom sibh. <2:p>
-I want you.
   Tá tú uaim. <2:s>
     Tá sibh uaim. <2:p>
 You are so beautiful!
@@ -220,7 +209,8 @@ I love you too.
   Tá mé i ngrá leat freisin. <2:s>
     Tá mé i ngrá libh freisin. <2:p>
 I love you too.
-  Tá grá agam duitse freisin.
+  Tá grá agam duitse freisin. <2:s>
+    Tá grá agam daoibhse freisin. <2:p>
 I miss you too.
   Is fada liom uaim thú freisin. <2:s>
     Is fada liom uaim sibh freisin. <2:p>
@@ -228,12 +218,11 @@ I miss you too.
   Airím uaim thú freisin. <2:s>
     Airím uaim sibh freisin. <2:p>
 Shut up!
-  Stoptar! <2:s|p>
-Shut up!
   Dún do chlab! <2:s>
     Dúnaigí bhur gclab! <2:p>
 Be quiet!
-  Bí ciúin! <2:s|p>
+  Bí ciúin! <2:s>
+    Bígí ciúin! <2:p>
 Go away!
   Gread leat! <2:s>
     Greadaigí libh! <2:p>
@@ -241,8 +230,8 @@ Go away!
   Bailigh leat! <2:s>
     Bailígí libh! <2:p>
 Leave me alone!
-  Fág mé ar m'aonar! <2:s>
-    Fágaigí mé ar m'aonar! <2:p>
+  Fág mé i m'aonar! <2:s>
+    Fágaigí mé i m'aonar! <2:p>
 Leave me alone!
   Lig dom liom féin! <2:s>
     Ligigí dom liom féin! <2:p>
@@ -317,7 +306,7 @@ I need to take your pulse.
     Caithfidh mé bhur gcuisle a thógáil. <2:p>
 I need to check your blood pressure.
   Caithfidh mé do bhrú fola a sheiceáil. <2:s>
-    Caithfidh mé bhur bhrú fola a seiceáil. <2:p>
+    Caithfidh mé bhur mbrú fola a seiceáil. <2:p>
 Are you taking any medication?
   An bhfuil aon chógas á ghlacadh agat? <2:s>
     An bhfuil aon chógas á ghlacadh agaibh? <2:p>
@@ -350,16 +339,13 @@ What is your phone number?
     Cén uimhir fóin atá agaibh? <2:p>
 Can I borrow your charger?
   An féidir liom do charger a fháil ar iasacht? <2:s>
-    An féidir liom bhur gcarger a fháil ar iasacht? <2:p>
+    An féidir liom bhur charger a fháil ar iasacht? <2:p>
 What is your email address?
   Cad é do sheoladh ríomhphoist? <2:s>
     Cad é bhur seoladh ríomhphoist? <2:p>
 Can you email it to me?
-  An féidir leat é a ríomhphost chugam? <2:s>
-    An féidir libh é a ríomhphost chugam? <2:p>
-Can you email it to me?
-  An féidir leat ríomhphost a sheoladh chugam chuige? <2:s>
-    An féidir libh ríomhphost a sheoladh chugam chuige? <2:p>
+  An féidir leat é a sheoladh chugam le ríomhphost? <2:s>
+    An féidir libh é a sheoladh chugam le ríomhphost? <2:p>
 I'll send you a text.
   Seolfaidh mé téacs chugat. <2:s>
     Seolfaidh mé téacs chugaibh. <2:p>
@@ -379,11 +365,8 @@ Can you text me your contact information?
   An féidir leat d'eolas teagmhála a théacsáil chugam? <2:s>
     An féidir libh bhur n-eolas teagmhála a théacsáil chugam? <2:p>
 Are you from here?
-  An bhfuil tú as seo? <2:s>
-    An bhfuil sibh as seo? <2:p>
-Are you from here?
-  An as seo duit? <2:s>
-    An as seo daoibh? <2:p>
+  An as an áit seo duit? <2:s>
+    An as an áit seo daoibh? <2:p>
 Do you work here?
   An bhfuil tú ag obair anseo? <2:s>
     An bhfuil sibh ag obair anseo? <2:p>
@@ -396,9 +379,6 @@ Do you live here?
 Do you live here?
   An bhfuil cónaí ort anseo? <2:s>
     An bhfuil cónaí oraibh anseo? <2:p>
-You're fired.
-  Tá tú fired. <2:s>
-    Tá sibh fired. <2:p>
 You're fired.
   Ní oibríonn tú anseo a thuilleadh. <2:s>
     Ní oibríonn sibh anseo a thuilleadh. <2:p>
@@ -414,9 +394,6 @@ Do you have a job?
 Do you have a family?
   An bhfuil teaghlach agat? <2:s>
     An bhfuil teaghlach agaibh? <2:p>
-You work too much.
-  Bíonn tú ag obair i bhfad ró. <2:s>
-    Bíonn sibh ag obair i bhfad ró. <2:p>
 You work too much.
   Oibríonn tú an iomarca. <2:s>
     Oibríonn sibh an iomarca. <2:p>
@@ -436,17 +413,11 @@ I have heard of you.
   Chuala mé trácht ort. <2:s>
     Chuala mé trácht oraibh. <2:p>
 You need to try harder.
-  Ní mór duit iarracht a dhéanamh níos deacra. <2:s>
-    Ní mór daoibh iarracht a dhéanamh níos deacra. <2:p>
-You need to try harder.
-  Caithfidh tú triail níos deacra a dhéanamh. <2:s>
-    Caithfidh sibh triail níos deacra a dhéanamh. <2:p>
+  Caithfidh tú iarracht níos deacra a dhéanamh. <2:s>
+    Caithfidh sibh iarracht níos deacra a dhéanamh. <2:p>
 Say hello to your mother for me.
-  Abair hello le do mháthair dom. <2:s>
-    Abraigí hello le bhur máthair dom. <2:p>
-Say hello to your mother for me.
-  Abair dia dhuit le do mháthair dom. <2:s>
-    Abraigí dia dhuit le bhur máthair dom. <2:p>
+  Abair hello le do mháthair ar mo shon. <2:s>
+    Abraigí hello le bhur máthair ar mo shon. <2:p>
 Long time no see!
   Ní fhaca mé le fada thú! <2:s>
     Ní fhaca mé le fada sibh! <2:p>
@@ -459,29 +430,15 @@ What are you doing here?
 What are you doing here?
   Céard atá á dhéanamh agat anseo? <2:s>
     Céard atá á dhéanamh agaibh anseo? <2:p>
-Fancy meeting you here!
-  Ar mhaith bualadh leat anseo! <2:s>
-    Ar mhaith bualadh libh anseo! <2:p>
-Fancy meeting you here!
-  Fancy ag bualadh leat anseo! <2:s>
-    Fancy ag bualadh libh anseo! <2:p>
 Can I get you a drink?
   An féidir liom deoch a fháil duit? <2:s>
     An féidir liom deoch a fháil daoibh? <2:p>
 You are so tall!
-  Tá tú chomh ard! <2:s>
-    Tá sibh chomh ard! <2:p>
-You are so tall!
   Tá tú chomh hard! <2:s>
     Tá sibh chomh hard! <2:p>
 Call me when you're ready.
-  Glaoigh orm nuair a bhíonn tú réidh. <2:s>
-    Glaoigí orm nuair a bhíonn sibh réidh. <2:p>
-Call me when you're ready.
-  Glaoigh orm nuair atá tú réidh. <2:s>
-    Glaoigí orm nuair atá sibh réidh. <2:p>
-I am not ready yet.
-  Níl mé réidh fós.
+  Glaoigh orm nuair a bheidh tú réidh. <2:s>
+    Glaoigí orm nuair a bheidh sibh réidh. <2:p>
 When will you be finished?
   Cathain a bheidh tú críochnaithe? <2:s>
     Cathain a bheidh sibh críochnaithe? <2:p>
@@ -497,17 +454,15 @@ I'm not as rich as you think.
 You are so clever!
   Tá tú chomh cliste! <2:s>
     Tá sibh chomh cliste! <2:p>
-Where did I leave my glasses?
-  Cár fhág mé mo spéaclaí?
 I like your hair.
   Is maith liom do chuid gruaige. <2:s>
     Is maith liom bhur gcuid gruaige. <2:p>
 Is this a problem for you?
-  An fadhb í seo duit? <2:s>
-    An fadhb í seo daoibh? <2:p>
+  An fadhb é seo duit? <2:s>
+    An fadhb é seo daoibh? <2:p>
 Is this a problem for you?
-  An fadhb í seo duitse? <2:s>
-    An fadhb í seo daoibhse? <2:p>
+  An fadhb é seo duitse? <2:s>
+    An fadhb é seo daoibhse? <2:p>
 Don't worry!
   Ná bí buartha! <2:s>
     Ná bígí buartha! <2:p>
@@ -539,7 +494,8 @@ Please help me.
   Cabhraigh liom, le do thoil. <2:s>
     Cabhraígí liom, le bhur dtoil. <2:p>
 Everybody loves you.
-  Is breá le gach duine tú.
+  Is breá le gach duine tú. <2:s>
+    Is breá le gach duine sibh. <2:p>
 Can you do this for me?
   An féidir leat é seo a dhéanamh domsa? <2:s>
     An féidir libh é seo a dhéanamh domsa? <2:p>
@@ -583,11 +539,8 @@ Are you at home?
   An bhfuil tú sa bhaile? <2:s>
     An bhfuil sibh sa bhaile? <2:p>
 You shouldn't guess if you can ask.
-  Níor cheart duit buille faoi thuairim an féidir leat fiafraí. <2:s>
-    Níor cheart daoibh buille faoi thuairim an féidir libh fiafraí. <2:p>
-You shouldn't guess if you can ask.
-  Níor cheart duit buille faoi thuairim a thabhairt an féidir leat ceist a chur. <2:s>
-    Níor cheart daoibh buille faoi thuairim a thabhairt an féidir libh ceist a chur. <2:p>
+  Níor cheart duit buille faoi thuairim a thabhairt más féidir leat fiafraí. <2:s>
+    Níor cheart daoibh buille faoi thuairim a thabhairt más féidir libh fiafraí. <2:p>
 Do you need more time?
   An dteastaíonn níos mó ama uait? <2:s>
     An dteastaíonn níos mó ama uaibh? <2:p>
@@ -613,11 +566,8 @@ I can't help you.
   Ní féidir liom cabhrú leat. <2:s>
     Ní féidir liom cabhrú libh. <2:p>
 Are you still awake?
-  An bhfuil tú fós i ndúiseacht? <2:s>
-    An bhfuil sibh fós i ndúiseacht? <2:p>
-Are you still awake?
-  An bhfuil tú fós ina dhúiseacht? <2:s>
-    An bhfuil sibh fós ina dhúiseacht? <2:p>
+  An bhfuil tú fós i do dhúiseacht? <2:s>
+    An bhfuil sibh fós in bhur ndúiseacht? <2:p>
 Are you here on holiday?
   An bhfuil tú anseo ar saoire? <2:s>
     An bhfuil sibh anseo ar saoire? <2:p>
@@ -630,8 +580,6 @@ We will help you.
 You can rely on us.
   Is féidir leat a bheith ag brath orainn. <2:s>
     Is féidir libh a bheith ag brath orainn. <2:p>
-You can rely on us.
-  Is féidir brath orainn.
 Hurry up please.
   Déan deifir le do thoil. <2:s>
     Déanaigí deifir le bhur dtoil. <2:p>
@@ -648,7 +596,11 @@ Come here please.
   Tar anseo le do thoil. <2:s>
     Tagaigí anseo le bhur dtoil. <2:p>
 How was your Christmas?
-  Conas a bhí do Nollaig?
+  Conas a bhí do Nollaig? <2:s>
+    Conas a bhí bhur Nollaig? <2:p>
+How was your Christmas?
+  Conas a bhí an Nollaig agat? <2:s>
+    Conas a bhí an Nollaig agaibh? <2:p>
 We would like to offer you the position.
   Ba mhaith linn an post a thairiscint duit. <2:s>
     Ba mhaith linn an post a thairiscint daoibh. <2:p>
@@ -656,11 +608,8 @@ We would like to work with you.
   Ba mhaith linn oibriú leat. <2:s>
     Ba mhaith linn oibriú libh. <2:p>
 You have made the world a better place.
-  Tá áit níos fearr déanta agat ar an domhan. <2:s>
-    Tá áit níos fearr déanta agaibh ar an domhan. <2:p>
-You have made the world a better place.
-  Tá áit níos fearr déanta agat ar fud an domhain. <2:s>
-    Tá áit níos fearr déanta agaibh ar fud an domhain. <2:p>
+  Tá áit níos fearr déanta agat as an domhan. <2:s>
+    Tá áit níos fearr déanta agaibh as an domhan. <2:p>
 Your teacher is happy with you.
   Tá do mhúinteoir sásta leat. <2:s>
     Tá bhur múinteoir sásta libh. <2:p>
@@ -668,22 +617,14 @@ Why should we hire you?
   Cén fáth ar chóir dúinn tú a fhostú? <2:s>
     Cén fáth ar chóir dúinn sibh a fhostú? <2:p>
 My dog likes you.
-  Taitníonn mo mhadra leat. <2:s>
-    Taitníonn mo mhadra libh. <2:p>
-My dog likes you.
-  Is maith le mo mhadra thú.
-How was your weekend?
-  Conas a raibh do dheireadh seachtaine? <2:s>
-    Conas a raibh bhur ndeireadh seachtaine? <2:p>
+  Is maith le mo mhadra thú. <2:s>
+    Is maith le mo mhadra sibh. <2:p>
 How was your weekend?
   Conas a bhí do dheireadh seachtaine? <2:s>
     Conas a bhí bhur ndeireadh seachtaine? <2:p>
 Where are you going on holiday?
   Cá bhfuil tú ag dul ar saoire? <2:s>
     Cá bhfuil sibh ag dul ar saoire? <2:p>
-Are you vegan?
-  An bhfuil tú vegan? <2:s>
-    An bhfuil sibh vegan? <2:p>
 Do you eat fish?
   An itheann tú iasc? <2:s>
     An itheann sibh iasc? <2:p>
@@ -691,14 +632,8 @@ Do you like your job?
   An maith leat do phost? <2:s>
     An maith libh bhur bpost? <2:p>
 Please wait.
-  Fán le do thoil. <2:s>
-    Fán le bhur dtoil. <2:p>
-Please wait.
   Fan, le do thoil. <2:s>
     Fanaigí, le bhur dtoil. <2:p>
-I think he likes you.
-  Sílim go dtaitníonn sé leat. <2:s>
-    Sílim go dtaitníonn sé libh. <2:p>
 Have you been here before?
   An raibh tú anseo cheana? <2:s>
     An raibh sibh anseo cheana? <2:p>
@@ -718,8 +653,8 @@ Tell that to my lawyer.
   Inis é sin do mo dhlíodóir. <2:s>
     Insígí é sin do mo dhlíodóir. <2:p>
 Do you have everything you need?
-  An bhfuil gach rud atá uait? <2:s>
-    An bhfuil gach rud atá uaibh? <2:p>
+  An bhfuil gach rud atá uait agat? <2:s>
+    An bhfuil gach rud atá uaibh agaibh? <2:p>
 You need to start now.
   Ní mór duit tosú anois. <2:s>
     Ní mór daoibh tosú anois. <2:p>
@@ -769,29 +704,14 @@ Are you here?
   An bhfuil tú anseo? <2:s>
     An bhfuil sibh anseo? <2:p>
 Wish you were here.
-  Is mian bhí tú anseo. <2:s>
-    Is mian bhí sibh anseo. <2:p>
-Wish you were here.
   Ba bhreá liom dá mbeifeá anseo. <2:s>
     Ba bhreá liom dá mbeadh sibh anseo. <2:p>
 How do you like your new teacher?
   Conas is maith leat do mhúinteoir nua? <2:s>
     Conas is maith libh bhur múinteoir nua? <2:p>
 What is your daughter's name?
-  Cad is ainm do iníon? <2:s>
-    Cad is ainm bhur n-iníon? <2:p>
-What is your daughter's name?
   Cén t-ainm atá ar d'iníon? <2:s>
     Cén t-ainm atá ar bhur n-iníon? <2:p>
-You are getting on my nerves.
-  Tá tú ag dul ar mo nerves. <2:s>
-    Tá sibh ag dul ar mo nerves. <2:p>
-You are getting on my nerves.
-  Tá tú ag dul ar mo néaróga. <2:s>
-    Tá sibh ag dul ar mo néaróga. <2:p>
-You can say anything you want.
-  Is féidir leat a rá rud ar bith is mian leat. <2:s>
-    Is féidir libh a rá rud ar bith is mian libh. <2:p>
 You can say anything you want.
   Is féidir leat aon rud is mian leat a rá. <2:s>
     Is féidir libh aon rud is mian libh a rá. <2:p>
