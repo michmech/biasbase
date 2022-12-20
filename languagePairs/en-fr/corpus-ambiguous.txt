@@ -1,20 +1,15 @@
 Did he offer you anything?
-  Vous a-t-il proposé quelque chose ? <2:vs>
-    Tu a-t-tu proposé quelque chose ? <2:ts>
-    Vous a-t-vous proposé quelque chose ? <2:vs|p>
+  Vous a-t-il proposé quelque chose ? <2:vs|p>
+    T'a-t-ill proposé quelque chose ? <2:ts>
 Did he offer you anything?
   Il vous a proposé quelque chose ? <2:vs|p>
     Il t'a proposé quelque chose ? <2:ts>
 Did he offer you anything?
-  Vous a-t-il offert quelque chose? <2:vs>
-    Tu a-t-tu offert quelque chose? <2:ts>
-    Vous a-t-vous offert quelque chose? <2:vs|p>
+  Vous a-t-il offert quelque chose? <2:vs|p>
+    T'a-t-tu offert quelque chose? <2:ts>
 He gave it to you.
   Il te l'a donné. <2:ts>
-    Il vous l'a donné. <2:vs|p>
-He gave it to you.
   Il vous l'a donné. <2:vs|p>
-    Il te l'a donné. <2:ts>
 You are never happy.
   Vous n'êtes jamais heureux. <2:vsm|pm>
     Tu n'es jamais heureux. <2:tsm>
@@ -24,56 +19,35 @@ You are never happy.
 You wouldn't understand.
   Vous ne comprendriez pas. <2:vs|p>
     Tu ne comprendrais pas. <2:ts>
-You wouldn't understand.
-  Tu ne comprendrais pas. <2:ts>
-    Vous ne comprendriez pas. <2:vs|p>
 Watch out!
-  Fais attention! <2:ts|vs|p>
-Watch out!
-  Attention !
+  Fais attention! <2:ts>
+    Faites attention! <2:vs|p>
 Watch out!
   Fais gaffe! <2:ts>
     Faites gaffe! <2:vs|p>
 I'm telling you the truth.
   Je te dis la vérité. <2:ts>
-    Je vous dis la vérité. <2:vs|p>
-I'm telling you the truth.
-  Je vous dis la vérité. <2:vs|p>
-    Je te dis la vérité. <2:ts>
+   Je vous dis la vérité. <2:vs|p>
 I am taller than you.
   Je suis plus grande que toi. <1:sf> <2:ts>
-    Je suis plus grand que toi. <1:sm> <2:ts>
-    Je suis plus grand que vous. <1:sm> <2:vs|p>
-    Je suis plus grande que vous. <1:sf> <2:vs|p>
-I am taller than you.
   Je suis plus grand que toi. <1:sm> <2:ts>
     Je suis plus grand que vous. <1:sm> <2:vs|p>
-    Je suis plus grande que toi. <1:sf> <2:ts>
     Je suis plus grande que vous. <1:sf> <2:vs|p>
 If you want tickets, I can give you some.
   Si vous voulez des billets, je peux vous en donner. <2:vs|p>
     Si tu veux des billets, je peux t'en donner. <2:ts>
 I have written to you.
   Je t'ai écrit. <2:ts>
-    Je vous ai écrit. <2:vs|p>
-I have written to you.
   Je vous ai écrit. <2:vs|p>
-    Je t'ai écrit. <2:ts>
 Who told you?
   Qui te l'a dit? <2:ts>
-    Qui vous l'a dit? <2:vs|p>
-Who told you?
-  Qui vous l'a dit ? <2:vs|p>
-    Qui te l'a dit ? <2:ts>
+  Qui vous l'a dit? <2:vs|p>
 Do you like this dress?
   Aimes-tu cette robe? <2:ts>
-    Aimez-vous cette robe? <2:vs|p>
+  Aimez-vous cette robe? <2:vs|p>
 Do you like this dress?
   Tu aimes cette robe ? <2:ts>
     Vous aimez cette robe ? <2:vs|p>
-Do you like this dress?
-  Aimez-vous cette robe? <2:vs|p>
-    Aimes-tu cette robe? <2:ts>
 I recommend this restaurant to you.
   Je vous recommande ce restaurant. <2:vs|p>
     Je te recommande ce restaurant. <2:ts>
@@ -86,27 +60,18 @@ Will you introduce me to them?
 Will you introduce me to them?
   Vous me présenterez à eux ? <2:vs|p>
     Tu me présenteras à eux ? <2:ts>
-Will you introduce me to them?
-  Voulez-vous me les présenter? <2:vs|p>
-    Veux-tu me les présenter? <2:ts>
 Did you see them there?
   Les avez-vous vus là-bas ? <2:vs|p>
     Les as-tu vus là-bas ? <2:ts>
 Did you see them there?
   Tu les as vus là-bas ? <2:ts>
     Vous les avez vus là-bas ? <2:vs|p>
-Did you see them there?
-  Les avez-vous vus là-bas? <2:vs|p>
-    Les as-tu vus là-bas? <2:ts>
 Have you found them yet?
   Les avez-vous déjà trouvés ? <2:vs|p>
     Les as-tu déjà trouvés ? <2:ts>
 Have you found them yet?
   Vous les avez trouvés ? <2:vs|p>
     Tu les as trouvés ? <2:ts>
-Have you found them yet?
-  Les avez-vous déjà trouvés? <2:vs|p>
-    Les as-tu déjà trouvés? <2:ts>
 Do you know her?
   Est-ce que tu la connais? <2:ts>
     Est-ce que vous la connaissez? <2:vs|p>
@@ -118,37 +83,22 @@ Do you know her?
     La connais-tu? <2:ts>
 When are you going to Paris?
   Quand vas-tu à Paris ? <2:ts>
-    Quand allez-vous à Paris ? <2:vs|p>
-When are you going to Paris?
   Quand allez-vous à Paris ? <2:vs|p>
-    Quand vas-tu à Paris ? <2:ts>
 How many children do you have?
   Combien d'enfants avez-vous? <2:vs|p>
     Combien d'enfants as-tu? <2:ts>
-How many children do you have?
-  Combien d'enfants avez-vous ? <2:vs|p>
-    Combien d'enfants as-tu ? <2:ts>
 Do you want some cheese?
   Voulez-vous du fromage? <2:vs|p>
-    Veux -te du fromage? <2:ts>
-Do you want some cheese?
-  Tu veux du fromage ? <2:ts>
-    Vous voulez du fromage ? <2:vs|p>
+  Veux-tu du fromage? <2:ts>
 Do you smoke?
   Est-ce que tu fumes? <2:ts>
     Est-ce que vous fumez? <2:vs|p>
 Do you smoke?
   Fumez-vous ? <2:vs|p>
     Fumes-tu ? <2:ts>
-Do you smoke?
-  Fumez-vous? <2:vs|p>
-    Fumes-tu? <2:ts>
 You can't come.
   Vous ne pouvez pas venir. <2:vs|p>
-    Tu ne peux pas venir. <2:ts>
-You can't come.
   Tu ne peux pas venir. <2:ts>
-    Vous ne pouvez pas venir. <2:vs|p>
 Nice to meet you.
   Ravi de vous rencontrer. <2:vs|p>
     Ravi de te rencontrer. <2:ts>
@@ -157,97 +107,46 @@ Nice to meet you.
     Enchanté de te rencontrer. <2:ts>
 How are you?
   Comment vas-tu? <2:ts>
-    Comment allez-vous? <2:vs|p>
-How are you?
-  Comment allez-vous ? <2:vs|p>
-    Comment vas-tu ? <2:ts>
+  Comment allez-vous? <2:vs|p>
 How are you doing?
   Comment vas-tu? <2:ts>
-    Comment allez-vous? <2:vs|p>
-How are you doing?
-  Comment allez-vous ? <2:vs|p>
-    Comment vas-tu ? <2:ts>
-How are you doing?
-  Comment allez vous? <2:vs|p>
-    Comment vas tu? <2:ts>
+  Comment allez-vous? <2:vs|p>
 How was your day?
   Comment s'est passée ta journée? <2:ts>
-    Comment s'est passée votre journée? <2:vs|p>
-How was your day?
-  Comment s'est passée votre journée ? <2:vs|p>
-    Comment s'est passée ta journée ? <2:ts>
+  Comment s'est passée votre journée? <2:vs|p>
 How was your day?
   Comment était votre journée? <2:vs|p>
     Comment était ta journée? <2:ts>
 Are you having a good day?
   Passes tu une bonne journée? <2:ts>
-    Passez vous une bonne journée? <2:vs|p>
+  Passez vous une bonne journée? <2:vs|p>
 Are you having a good day?
   Vous passez une bonne journée ? <2:vs|p>
     Tu passes une bonne journée ? <2:ts>
-Are you having a good day?
-  Passez-vous une bonne journée? <2:vs|p>
-    Passes-tu une bonne journée? <2:ts>
 Have a nice day.
   Passez une bonne journée. <2:vs|p>
     Passe une bonne journée. <2:ts>
-Have a nice day.
-  Bonne journée.
-Have a good weekend.
-  Bon week-end.
 Have a good weekend.
   Passez un bon week-end. <2:vs|p>
     Passe un bon week-end. <2:ts>
-See you later.
-  À plus tard.
-See you later.
-  A plus tard.
-Get well soon!
-  Se rétablir rapidement!
-Get well soon!
-  Bon rétablissement !
-Get well soon!
-  Bon rétablissement!
 Do you speak English?
-  Parlez vous anglais? <2:vs|p>
-    Parles te anglais? <2:ts>
-Do you speak English?
-  Parlez-vous anglais ? <2:vsm|pm>
-    Parles -te anglais ? <2:tsm>
-    Parles -te anglaise ? <2:tsf>
-    Parlez-vous anglaise ? <2:vsf>
-    Parlez-vous anglaises ? <2:pf>
-Do you speak English?
-  Parles-tu Anglais? <2:ts>
-    Parlez-vous Anglais? <2:vs|p>
+  Parlez-vous anglais ? <2:vs|p>
+  Parles-tu anglais ? <2:ts>
 Do you have a nickname?
   Avez-vous un surnom? <2:vs|p>
-    As-tu un surnom? <2:ts>
-Do you have a nickname?
-  Avez-vous un surnom ? <2:vs|p>
-    As-tu un surnom ? <2:ts>
+  As-tu un surnom? <2:ts>
 Where are you from?
   D'où viens-tu? <2:ts>
-    D'où venez-vous? <2:vs|p>
-Where are you from?
-  D'où venez-vous ? <2:vs|p>
-    D'où viens-tu ? <2:ts>
+  D'où venez-vous? <2:vs|p>
 Where are you from?
   D'où êtes-vous? <2:vs|p>
     D'où es-tu? <2:ts>
 How old are you?
   Quel âge as-tu? <2:ts>
-    Quel âge as-vous? <2:vs|p>
-How old are you?
-  Quel âge avez-vous ? <2:vs|p>
-    Quel âge as-tu ? <2:ts>
-How old are you?
   Quel âge avez-vous? <2:vs|p>
-    Quel âge as-tu? <2:ts>
 Do you understand?
-  Comprenez vous? <2:vs>
-    Comprends te ? <2:ts>
-    Comprenez vous ? <2:vs|p>
+  Comprenez vous? <2:vs|p>
+    Comprends te? <2:ts>
 Do you understand?
   Vous comprenez ? <2:vs|p>
     Tu comprends ? <2:ts>
@@ -259,70 +158,32 @@ What are you doing?
     Que faites-vous? <2:vs|p>
 What are you doing?
   Qu'est-ce que tu fais ? <2:ts>
-    Qu'est-ce que vous faites ? <2:vs|p>
-What are you doing?
-  Qu'est-ce que vous faites? <2:vs|p>
-    Qu'est-ce que tu fais? <2:ts>
+  Qu'est-ce que vous faites ? <2:vs|p>
 Where have you been?
   Où étais-tu? <2:ts>
     Où étiez-vous? <2:vs|p>
-Where have you been?
-  Où étais-tu ? <2:ts>
-    Où étiez-vous ? <2:vs|p>
 Who were you with?
   Avec qui étais-tu? <2:ts>
-    Avec qui étiez-vous? <2:vs|p>
-Who were you with?
-  Avec qui étiez-vous ? <2:vs|p>
-    Avec qui étais-tu ? <2:ts>
+  Avec qui étiez-vous? <2:vs|p>
 Who was with you?
   Qui était avec vous? <2:vs|p>
-    Qui était avec toi? <2:ts>
-Who was with you?
-  Qui était avec vous ? <2:vs|p>
-    Qui était avec toi ? <2:ts>
+  Qui était avec toi? <2:ts>
 Where are you?
   Où es-tu? <2:ts>
-    Où êtes-vous? <2:vs|p>
-Where are you?
-  Où es-tu ? <2:ts>
-    Où êtes-vous ? <2:vs|p>
-Where are you?
   Où êtes-vous? <2:vs|p>
-    Où es-tu? <2:ts>
 Where are you going?
   Où allez-vous? <2:vs|p>
     Où vas-tu? <2:ts>
-Where are you going?
-  Où allez-vous ? <2:vs|p>
-    Où vas-tu ? <2:ts>
 Do you agree?
   Êtes-vous d'accord? <2:vs|p>
     Es-tu d'accord? <2:ts>
-Do you agree?
-  Êtes-vous d'accord ? <2:vs|p>
-    Es-tu d'accord ? <2:ts>
-Are you interested?
-  Es tu intéressé? <2:tsm>
-    Es tu intéressée? <2:tsf>
-    Es vous intéressé? <2:vsm>
-    Es vous intéressée? <2:vsf>
-    Es vous intéressés? <2:pm>
-    Es vous intéressées? <2:pf>
 Are you interested?
   Êtes-vous intéressé ? <2:vsm>
-    Es-tu intéressé ? <2:tsm>
+  Es-tu intéressé ? <2:tsm>
     Es-tu intéressée ? <2:tsf>
     Êtes-vous intéressée ? <2:vsf>
     Êtes-vous intéressés ? <2:pm>
     Êtes-vous intéressées ? <2:pf>
-Are you interested?
-  Êtes-vous intéressé? <2:vsm>
-    Es-tu intéressé? <2:tsm>
-    Es-tu intéressée? <2:tsf>
-    Êtes-vous intéressée? <2:vsf>
-    Êtes-vous intéressés? <2:pm>
-    Êtes-vous intéressées? <2:pf>
 I love you.
   Je vous aime. <2:vs|p>
     Je t'aime. <2:ts>
@@ -334,32 +195,15 @@ I miss you.
     Vous me manquez. <2:vs|p>
 I like you.
   Je vous aime bien. <2:vs|p>
-    Je t'aime bien. <2:ts>
-I like you.
   Je t'aime bien. <2:ts>
-    Je vous aime bien. <2:vs|p>
 I want you.
   Je te veux. <2:ts>
     Je vous veux. <2:vs|p>
 You are so beautiful!
   Vous êtes si belle! <2:vsf>
-    Tu es si beau! <2:tsm>
-    Tu es si belle! <2:tsf>
-    Vous êtes si beau! <2:vsm>
-    Vous êtes si beaux! <2:pm>
-    Vous êtes si belles! <2:pf>
-You are so beautiful!
-  Vous êtes si belle ! <2:vsf>
-    Tu es si beau ! <2:tsm>
-    Tu es si belle ! <2:tsf>
-    Vous êtes si beau ! <2:vsm>
-    Vous êtes si beaux ! <2:pm>
-    Vous êtes si belles ! <2:pf>
-You are so beautiful!
   Tu es si beau! <2:tsm>
     Tu es si belle! <2:tsf>
     Vous êtes si beau! <2:vsm>
-    Vous êtes si belle! <2:vsf>
     Vous êtes si beaux! <2:pm>
     Vous êtes si belles! <2:pf>
 I love you too.
@@ -377,76 +221,46 @@ Shut up!
 Shut up!
   Fermez-la ! <2:vs|p>
     Ferme-la ! <2:ts>
-Shut up!
-  La ferme!
 Be quiet!
-  Soyez silencieux!
+  Soyez silencieux! <2:vsm|pm>
+    Sois silencieux! <2:tsm>
+    Soyez silencieuses! <2:pf>
+    Soyez silencieuse! <2:vsf>
+    Sois silencieuse! <2:tsf>
 Be quiet!
-  Soyez tranquille !
-Be quiet!
-  Silence!
-Go away!
-  S'en aller!
-Go away!
-  Va-t'en !
+  Soyez tranquille ! <2:vs>
+    Soyez tranquilles ! <2:p>
+    Sois tranquille ! <2:ts>
 Go away!
   Partez! <2:vs|p>
     Pars! <2:ts>
 Leave me alone!
   Laisse-moi tranquille! <2:ts>
-    Laissez-moi tranquille! <2:vs|p>
-Leave me alone!
-  Laissez-moi tranquille ! <2:vs|p>
-    Laisse-moi tranquille ! <2:ts>
+  Laissez-moi tranquille! <2:vs|p>
 Leave me alone!
   Laisse moi tranquille! <2:ts>
     Laissez moi tranquille! <2:vs|p>
 Hurry up!
   Dépêche-toi! <2:ts>
-    Dépêche-vous! <2:vs|p>
-Hurry up!
-  Dépêchez-vous ! <2:vs>
-    Dépêche toi ! <2:ts>
-    Dépêchez vous ! <2:vs|p>
-Hurry up!
-  Dépêchez-vous! <2:vs>
-    Dépêche toi! <2:ts>
-    Dépêchez vous! <2:vs|p>
-Sit down!
-  S'asseoir!
-Sit down!
-  Asseyez-vous ! <2:vs>
-    Assieds toi ! <2:ts>
-    Asseyez vous ! <2:vs|p>
+  Dépêchez-vous! <2:vs|p>
 Sit down!
   Asseyez-vous! <2:vs|p>
     Assieds-toi! <2:ts>
 Wake up!
   Réveillez-vous! <2:vs|p>
     Réveille-toi! <2:ts>
-Wake up!
-  Réveillez-vous ! <2:vs|p>
-    Réveille-toi ! <2:ts>
 Do you have a car?
-  As-tu une voiture? <2:tsf>
-    As-tu un voiture? <2:tsm>
-    As-vous un voiture? <2:vsm>
-    As-vous une voiture? <2:vsf>
+  As-tu une voiture? <2:ts>
+  Avez-vous une voiture? <2:vs|p>
 Do you have a car?
   Vous avez une voiture ? <2:vs|p>
     Tu as une voiture ? <2:ts>
-Do you have a car?
-  Avez-vous une voiture? <2:vs|p>
-    As-tu une voiture? <2:ts>
 Can you drive?
   Peux tu conduire? <2:ts>
     Pouvez vous conduire? <2:vs|p>
 Can you drive?
   Pouvez-vous conduire ? <2:vs|p>
-    Peux -te conduire ? <2:ts>
-Can you drive?
-  Pouvez-vous conduire? <2:vs|p>
-    Peux -te conduire? <2:ts>
+    Peux-tu conduire ? <2:ts>
 Do you have a driver's licence?
   Avez-vous un permis de conduire? <2:vs|p>
     As-tu un permis de conduire? <2:ts>
@@ -469,8 +283,8 @@ Do you have a vacancy?
   Avez-vous un poste à pourvoir ? <2:vs|p>
     As-tu un poste à pourvoir ? <2:ts>
 Do you have a vacancy?
-  Avez-vous des chambres libres?? <2:vs|p>
-    As -te des chambres libres?? <2:ts>
+  Avez-vous des chambres libres? <2:vs|p>
+    As -te des chambres libres? <2:ts>
 Are you hungry?
   Avez-vous faim? <2:vs|p>
     As-tu faim? <2:ts>
@@ -479,7 +293,7 @@ Are you hungry?
     Vous avez faim ? <2:vs|p>
 Are you thirsty?
   As-tu soif? <2:ts>
-    As-vous soif? <2:vs|p>
+    Avez-vous soif? <2:vs|p>
 Are you thirsty?
   Vous avez soif ? <2:vs|p>
     Tu as soif ? <2:ts>
@@ -491,41 +305,25 @@ Do you have any allergies?
     Avez vous des allergies? <2:vs|p>
 Do you have any allergies?
   Avez-vous des allergies ? <2:vs|p>
-    As -te des allergies ? <2:ts>
-Do you have any allergies?
-  Avez-vous des allergies? <2:vs|p>
-    As -te des allergies? <2:ts>
-When did you last eat?
-  Quand avez-vous mangé pour la dernière fois ? <2:vs>
-    Quand as-tu mangé pour la dernière fois ? <2:ts>
-    Quand avez-vous mangé pour la dernière fois ? <2:vs|p>
+    As-tu des allergies ? <2:ts>
 When did you last eat?
   Quand avez-vous mangé pour la dernière fois ? <2:vs|p>
     Quand as-tu mangé pour la dernière fois ? <2:ts>
 When did you last eat?
-  Qu'avez-vous mangé en dernier?? <2:vs|p>
-    Qu'as-tu mangé en dernier?? <2:ts>
+  Qu'avez-vous mangé en dernier? <2:vs|p>
+    Qu'as-tu mangé en dernier? <2:ts>
 Can you point to where it hurts?
   Pouvez-vous indiquer où ça fait mal? <2:vs|p>
     Peux-tu indiquer où ça fait mal? <2:ts>
 Can you point to where it hurts?
   Pouvez-vous montrer où ça fait mal ? <2:vs|p>
     Peux-tu montrer où ça fait mal ? <2:ts>
-Can you point to where it hurts?
-  Pouvez-vous indiquer où ça fait mal?? <2:vs|p>
-    Peux-tu indiquer où ça fait mal?? <2:ts>
 Can you describe the pain?
   Pouvez-vous décrire la douleur ? <2:vs|p>
     Peux-tu décrire la douleur ? <2:ts>
-Can you describe the pain?
-  Pouvez-vous décrire la douleur?? <2:vs|p>
-    Peux-tu décrire la douleur?? <2:ts>
 I need to examine you.
   Je dois t'examiner. <2:ts>
-    Je dois vous examiner. <2:vs|p>
-I need to examine you.
   Je dois vous examiner. <2:vs|p>
-    Je dois t'examiner. <2:ts>
 I need to take your pulse.
   J'ai besoin de prendre ton pouls. <2:ts>
     J'ai besoin de prendre votre pouls. <2:vs|p>
@@ -542,14 +340,11 @@ I need to check your blood pressure.
   Je dois prendre votre tension artérielle. <2:vs|p>
     Je dois prendre ta tension artérielle. <2:ts>
 Are you taking any medication?
-  est ce que tu prends des médicaments? <2:ts>
-    est ce que vous prenez des médicaments? <2:vs|p>
+  Est-ce que tu prends des médicaments? <2:ts>
+    Est-ce que vous prenez des médicaments? <2:vs|p>
 Are you taking any medication?
   Prenez-vous des médicaments ? <2:vs|p>
-    Prends -te des médicaments ? <2:ts>
-Are you taking any medication?
-  Prenez-vous des médicaments? <2:vs|p>
-    Prends -te des médicaments? <2:ts>
+    Prends-tu des médicaments ? <2:ts>
 Did you bring your laptop?
   Avez-vous apporté votre ordinateur portable? <2:vs|p>
     As-tu apporté ton ordinateur portable? <2:ts>
@@ -559,9 +354,6 @@ Did you bring your laptop?
 Do you have a computer at home?
   Avez-vous un ordinateur à la maison? <2:vs|p>
     As-tu un ordinateur à la maison? <2:ts>
-Do you have a computer at home?
-  Avez-vous un ordinateur à la maison ? <2:vs|p>
-    As-tu un ordinateur à la maison ? <2:ts>
 Do you have a printer?
   Avez-vous une imprimante? <2:vs|p>
     As-tu une imprimante? <2:ts>
@@ -575,20 +367,14 @@ Could you take a photo?
   Vous pouvez prendre une photo ? <2:vs|p>
     Tu peux prendre une photo ? <2:ts>
 Could you take a photo?
-  Pouvez-vous prendre une photo?? <2:vs|p>
-    Peux-tu prendre une photo?? <2:ts>
+  Pouvez-vous prendre une photo? <2:vs|p>
+    Peux-tu prendre une photo? <2:ts>
 What is your phone number?
   Quel est votre numéro de téléphone? <2:vs|p>
     Quel est ton numéro de téléphone? <2:ts>
 What is your phone number?
   Quel est votre numéro de téléphone ? <2:vs|p>
     Quel est ton numéro de téléphone ? <2:ts>
-What is your phone number?
-  Quel est votre numéro de téléphone?? <2:vs|p>
-    Quel est ton numéro de téléphone?? <2:ts>
-Can I borrow your charger?
-  Puis-je emprunter votre chargeur ? <2:vs|p>
-    Puis-je emprunter ta chargeur ? <2:ts>
 Can I borrow your charger?
   Je peux emprunter ton chargeur ? <2:ts>
     Je peux emprunter votre chargeur ? <2:vs|p>
@@ -599,8 +385,8 @@ What is your email address?
   Quelle est votre adresse électronique ? <2:vs|p>
     Quelle est ta adresse électronique ? <2:ts>
 What is your email address?
-  Quelle est votre adresse de messagerie?? <2:vs|p>
-    Quelle est ta adresse de messagerie?? <2:ts>
+  Quelle est votre adresse de messagerie? <2:vs|p>
+    Quelle est ta adresse de messagerie? <2:ts>
 Can you email it to me?
   Pouvez vous me l'envoyer par email? <2:vs|p>
     Peux tu me l'envoyer par email? <2:ts>
@@ -612,23 +398,16 @@ Can you email it to me?
     Peux-tu me l'envoyer par message électronique?? <2:ts>
 I'll send you a text.
   Je t'enverrai un texto. <2:ts>
-    Je vous enverrai un texto. <2:vs|p>
+  Je vous enverrai un texto. <2:vs|p>
 I'll send you a text.
   Je t'enverrai un message. <2:ts>
     Je vous enverrai un message. <2:vs|p>
-I'll send you a text.
-  Je vous enverrai un texto. <2:vs|p>
-    Je t'enverrai un texto. <2:ts>
 Can you text it to me?
-  Pouvez-vous me le texter ? <2:vs>
-    Peux -te me le texter ? <2:ts>
-    Pouvez-vous me le texter ? <2:vs|p>
+  Pouvez-vous me le texter ? <2:vs|p>
+    Peux-tu me le texter ? <2:ts>
 Can you text it to me?
   Tu peux me l'envoyer par SMS ? <2:ts>
     Vous pouvez me l'envoyer par SMS ? <2:vs|p>
-Can you text it to me?
-  Pouvez-vous me l'envoyer par SMS?? <2:vs|p>
-    Peux-tu me l'envoyer par SMS?? <2:ts>
 Can you text me your contact information?
   Pouvez-vous m'envoyer vos coordonnées par SMS ? <2:vs|p>
     Peux-tu m'envoyer tes coordonnées par SMS ? <2:ts>
@@ -636,10 +415,8 @@ Can you text me your contact information?
   Pouvez-vous m'envoyer vos coordonnées par SMS?? <2:vs|p>
     Peux-tu m'envoyer tes coordonnées par SMS?? <2:ts>
 Are you from here?
-  Êtes-vous de la région? <2:vsf>
-    Es-tu du région? <2:tsm>
-    Es-tu de la région? <2:tsf>
-    Êtes-vous du région? <2:vsm>
+  Êtes-vous de la région? <2:vs|p>
+    Es-tu de la région? <2:ts>
 Are you from here?
   Vous êtes d'ici ? <2:vs|p>
     Tu es d'ici ? <2:ts>
@@ -648,13 +425,13 @@ Are you from here?
     Es-tu d'ici? <2:ts>
 Do you work here?
   Travaillez-vous ici? <2:vs|p>
-    Travailles -te ici? <2:ts>
+    Travailles-tu ici? <2:ts>
 Do you work here?
   Vous travaillez ici ? <2:vs|p>
     Tu travailles ici ? <2:ts>
 Do you live here?
   Vivez-vous ici? <2:vs|p>
-    Vis -te ici? <2:ts>
+    Vis-tu ici? <2:ts>
 Do you live here?
   Vous vivez ici ? <2:vs|p>
     Tu vis ici ? <2:ts>
@@ -663,23 +440,17 @@ Do you live here?
     Habitez-vous ici? <2:vs|p>
 You're fired.
   Vous êtes viré. <2:vsm>
-    Tu es viré. <2:tsm>
+  Tu es viré. <2:tsm>
     Tu es virée. <2:tsf>
     Vous êtes virée. <2:vsf>
     Vous êtes virés. <2:pm>
     Vous êtes virées. <2:pf>
-You're fired.
-  Tu es viré. <2:ts>
-    Vous êtes viré. <2:vs|p>
 Why did you do it?
   Pourquoi as-tu fait ça? <2:ts>
     Pourquoi avez-vous fait ça? <2:vs|p>
 Why did you do it?
   Pourquoi l'avez-vous fait ? <2:vs|p>
     Pourquoi l'as-tu fait ? <2:ts>
-Why did you do it?
-  Pourquoi l'avez-vous fait? <2:vs|p>
-    Pourquoi l'as-tu fait? <2:ts>
 Do you have anything to say?
   Avez-vous quelque chose à dire? <2:vs|p>
     As-tu quelque chose à dire? <2:ts>
@@ -687,54 +458,32 @@ Do you have anything to say?
   Vous avez quelque chose à dire ? <2:vs|p>
     Tu as quelque chose à dire ? <2:ts>
 Do you have a job?
-  Avez vous un emploi? <2:vs|p>
-    As tu un emploi? <2:ts>
-Do you have a job?
   Vous avez un travail ? <2:vs|p>
     Tu as un travail ? <2:ts>
 Do you have a job?
   Avez-vous un emploi? <2:vs|p>
     As-tu un emploi? <2:ts>
 Do you have a family?
-  As-tu une famille? <2:tsf>
-    As-tu un famille? <2:tsm>
-    As-vous un famille? <2:vsm>
-    As-vous une famille? <2:vsf>
+  As-tu une famille? <2:ts>
+  Avez-vous une famille? <2:vs|p>
 Do you have a family?
   Vous avez une famille ? <2:vs|p>
     Tu as une famille ? <2:ts>
-Do you have a family?
-  Avez-vous une famille? <2:vs|p>
-    As-tu une famille? <2:ts>
 You work too much.
   Tu travaille trop. <2:ts>
-    Vous travaille trop. <2:vs|p>
-You work too much.
   Vous travaillez trop. <2:vs|p>
-    Tu travailles trop. <2:ts>
 You are in grave danger!
-  Vous êtes en grave danger ! <2:vs>
+  Vous êtes en grave danger ! <2:vs|p>
     Tu es en grave danger ! <2:ts>
 You are in grave danger!
-  Vous êtes en grand danger ! <2:vsm>
-    Tu es en grand danger ! <2:tsm>
-    Tu es en grande danger ! <2:tsf>
-    Vous êtes en grande danger ! <2:vsf>
-You are in grave danger!
-  Vous êtes en grave danger! <2:vs>
-    Tu es en grave danger! <2:ts>
+  Vous êtes en grand danger ! <2:vs|p>
+    Tu es en grand danger ! <2:ts>
 I warned you.
   Je t'avais prévenu. <2:ts>
-    Je vous avais prévenu. <2:vs|p>
-I warned you.
   Je vous avais prévenu. <2:vs|p>
-    Je t'avais prévenu. <2:ts>
 What do you recommend?
   Que recommandez-vous? <2:vs|p>
     Que recommandes-tu? <2:ts>
-What do you recommend?
-  Que recommandez-vous ? <2:vs|p>
-    Que recommandes-tu ? <2:ts>
 I have heard of you.
   J'ai entendu parler de vous. <2:vs|p>
     J'ai entendu parler de toi. <2:ts>
@@ -748,29 +497,17 @@ You need to try harder.
   Vous devez faire plus d'efforts. <2:vs|p>
     Tu dois faire plus d'efforts. <2:ts>
 Say hello to your mother for me.
-  Dis bonjour à ta mère pour moi.
-Say hello to your mother for me.
   Dites bonjour à votre mère pour moi. <2:vs|p>
-    Dis bonjour à ta mère pour moi. <2:ts>
-Long time no see!
-  Cela fait longtemps qu'on ne s'est pas vu!
-Long time no see!
-  Ça fait longtemps qu'on ne s'est pas vu !
-Long time no see!
-  Ça fait longtemps!
+  Dis bonjour à ta mère pour moi. <2:ts>
 What are you doing here?
   Que faites-vous ici? <2:vs|p>
     Que fais-tu ici? <2:ts>
 What are you doing here?
   Qu'est-ce que tu fais ici ? <2:ts>
     Qu'est-ce que vous faites ici ? <2:vs|p>
-What are you doing here?
-  Qu'est-ce que tu fais ici? <2:ts>
-    Qu'est-ce que vous faites ici? <2:vs|p>
 Fancy meeting you here!
-  Envie de vous rencontrer ici ! <2:vs>
+  Envie de vous rencontrer ici ! <2:vs|p>
     Envie de te rencontrer ici ! <2:ts>
-    Envie de vous rencontrer ici ! <2:vs|p>
 Fancy meeting you here!
   Je suis heureux de vous rencontrer ici ! <1:sm> <2:vs|p>
     Je suis heureux de te rencontrer ici ! <1:sm> <2:ts>
@@ -795,13 +532,6 @@ You are so tall!
     Vous êtes si grande! <2:vsf>
     Vous êtes si grands! <2:pm>
     Vous êtes si grandes! <2:pf>
-You are so tall!
-  Tu es si grand ! <2:tsm>
-    Tu es si grande ! <2:tsf>
-    Vous êtes si grand ! <2:vsm>
-    Vous êtes si grande ! <2:vsf>
-    Vous êtes si grands ! <2:pm>
-    Vous êtes si grandes ! <2:pf>
 Call me when you're ready.
   Appelle-moi quand tu es prêt. <2:tsm>
     Appelle-moi quand tu es prête. <2:tsf>
@@ -821,10 +551,7 @@ I am not ready yet.
     Je ne suis pas encore prête. <1:sf>
 When will you be finished?
   Quand aurez-vous fini ? <2:vs|p>
-    Quand auras-tu fini ? <2:ts>
-When will you be finished?
   Quand auras-tu fini ? <2:ts>
-    Quand aurez-vous fini ? <2:vs|p>
 When will you be finished?
   Quand aurez-vous terminé? <2:vs|p>
     Quand auras-tu terminé? <2:ts>
@@ -840,34 +567,14 @@ Did you call me?
 Have you voted yet?
   Avez-vous déjà voté ? <2:vs|p>
     As-tu déjà voté ? <2:ts>
-Have you voted yet?
-  Avez-vous déjà voté? <2:vs|p>
-    As-tu déjà voté? <2:ts>
 I'm not as rich as you think.
   Je ne suis pas aussi riche que tu le penses. <2:ts>
-    Je ne suis pas aussi riche que vous le pensez. <2:vs|p>
-I'm not as rich as you think.
   Je ne suis pas aussi riche que vous le pensez. <2:vs|p>
-    Je ne suis pas aussi riche que tu le penses. <2:ts>
 You are so clever!
   Tu es si intelligent! <2:tsm>
-    Tu es si intelligente! <2:tsf>
-    Vous êtes si intelligent! <2:vsm>
-    Vous êtes si intelligente! <2:vsf>
-    Vous êtes si intelligents! <2:pm>
-    Vous êtes si intelligentes! <2:pf>
-You are so clever!
-  Vous êtes si intelligente ! <2:vsf>
-    Tu es si intelligent ! <2:tsm>
-    Tu es si intelligente ! <2:tsf>
-    Vous êtes si intelligent ! <2:vsm>
-    Vous êtes si intelligents ! <2:pm>
-    Vous êtes si intelligentes ! <2:pf>
-You are so clever!
   Vous êtes si intelligent! <2:vsm>
-    Tu es si intelligent! <2:tsm>
+  Vous êtes si intelligente! <2:vsf>
     Tu es si intelligente! <2:tsf>
-    Vous êtes si intelligente! <2:vsf>
     Vous êtes si intelligents! <2:pm>
     Vous êtes si intelligentes! <2:pf>
 I like your hair.
@@ -876,18 +583,19 @@ I like your hair.
 Is this a problem for you?
   Est-ce un problème pour vous ? <2:vs|p>
     Est-ce un problème pour toi ? <2:ts>
-Is this a problem for you?
-  Est-ce un problème pour vous? <2:vs|p>
-    Est-ce un problème pour toi? <2:ts>
 Don't worry!
   Ne vous inquiétez pas! <2:vs|p>
     Ne toi inquiète pas! <2:ts>
-Don't worry!
-  Ne vous inquiétez pas ! <2:vs|p>
-    Ne toi inquiète pas ! <2:ts>
 Are you scared?
-  Es tu effrayé? <2:ts>
-    Es vous effrayé? <2:vs|p>
+  Es tu effrayé? <2:tsm>
+    Es tu effrayés? <2:tsf>
+    Êtes vous effrayé? <2:vsm>
+    Êtes vous effrayée? <2:vsf>
+    Êtes vous effrayés? <2:pm>
+    Êtes vous effrayées? <2:pf>
+
+[[thusfar]]
+
 Are you scared?
   Tu as peur ? <2:ts>
     Vous avez peur ? <2:vs|p>
@@ -1090,7 +798,7 @@ Are you still open?
   Êtes-vous toujours ouvert? <2:vs|p>
     Es-tu toujours ouvert? <2:ts>
 Are you open yet?
-  Êtes-vous déjà ouvert ? <2:vs>
+  Êtes-vous déjà ouvert ? <2:vs>
     Es-tu déjà ouvert ? <2:ts>
     Êtes-vous déjà ouvert ? <2:vs|p>
 Are you open yet?
@@ -1430,7 +1138,7 @@ What is the new teacher's name?
   Quel est le nom du nouvel enseignant? <4:teacher:sm>
     Quel est le nom de la nouvel enseignante? <4:sf>
 How do you like your new teacher?
-  Comment trouvez-vous votre nouveau professeur ? <2:vs> <3:teacher:sm>
+  Comment trouvez-vous votre nouveau professeur ? <2:vs> <3:teacher:sm>
     Comment trouves-tu ton nouveau professeur ? <2:ts> <3:sm>
     Comment trouves-tu ta nouvelle professeure ? <2:ts> <3:sf>
     Comment trouvez-vous votre nouveau professeur ? <2:vs|p> <3:sm>
@@ -1549,7 +1257,7 @@ You have to protect yourself.
   Vous devez vous protéger. <2:vs>
     Tu dois te protéger. <2:ts>
 Do you want anything else?
-  Voulez-vous autre chose ? <2:vs>
+  Voulez-vous autre chose ? <2:vs>
     Veux-tu autre chose ? <2:ts>
     Voulez-vous autre chose ? <2:vs|p>
 Do you want anything else?
