@@ -1,6 +1,6 @@
 # Biasbase: a corpus of bias-causing ambiguities in translation
 
-Biasbase is a corpus of sentences and their translations, in various language pairs, where the source-language sentence contains an ambiguity in gender, in forms of address, or in some other aspect of meaning. Biasbase can be used for developing and testing tools that tackle the problem of bias in machine translation. It is used, among other things, for testing and evaluating [Fairslator](https://www.fairslator.com/), an experimental application for removing bias from machine translation.
+Biasbase is a corpus of sentences and their translations, in various language pairs, where the source-language sentence contains an ambiguity in gender, in forms of address, or in some other aspect of meaning. Biasbase can be used for developing and testing tools that tackle the problem of bias in machine translation. It is used, among other things, as a test suite for evaluating [Fairslator](https://www.fairslator.com/), an experimental application for removing bias from machine translation.
 
 ## What Biasbase contains
 
@@ -22,15 +22,15 @@ I am your new director.
 
 **The second line** contains one possible translation which would typically be returned by a general-purpose machine translation systems such as Google Translate or DeepL. This translation is biased because it expresses only one of four possible readings of the source-language sentence: the one where the director is masculine and the "you" is formal or plural.
 
-**The remaining lines** contain the other possible translations: the ones that a machine translation system would typically not return, but which are nonetheless valid.
+**The remaining lines** contain other versions of the same translation: the ones that a machine translation system would typically not return, but which are nonetheless valid.
 
-The tags in angle brackets at the end of each translation are disambiguators which indicate the reading on which the translation is based. For example:
+The tags in angle brackets at the end of each translation version are disambiguators which indicate the reading on which the translation is based. For example:
 
 - `<1:sm>` means that the participant which is referred to in the first person `1` is singular `s` and male `m`.
 
 - `<2:vs|p>` means that the participant which is referred to in the second person `2` is either in the formal *vous* register `v` and singular `s`, or plural `p`.
 
-Each language pair in Biasbase comes with its own taxonomy of such disambiguators for decribing how multiple translations of the same sentence differ from each other. All language pairs can be found in the `languagePairs` folder in this repository.
+Each language pair in Biasbase comes with its own taxonomy of such disambiguators for decribing how multiple versions of the same translation differ from each other. All language pairs can be found in the `languagePairs` folder in this repository.
 
 We also have a more detailed description of the [Format and Structure of Biasbase](format.md): read that if you want to parse the corpus and use it in your own work.
 
