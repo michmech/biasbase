@@ -1,0 +1,39 @@
+My boss hates me.
+  Mon patron me déteste.
+Why are the students so lazy?
+  Pourquoi les étudiants sont-ils si paresseux ?
+Why are the students so lazy?
+  Pourquoi les étudiants sont-ils si paresseux?
+Have you been here before?
+  Avez-vous déjà été ici? <2:vs|p>
+    As-tu déjà été ici? <2:ts>
+Have you met the new director yet?
+  Avez-vous déjà rencontré le nouveau réalisateur ? <2:vs|p>
+    As-tu déjà rencontré le nouveau réalisateur ? <2:ts>
+These are my students.
+  Ce sont mes élèves.
+What have you done to yourself?
+  Qu'est-ce que tu t'es fait ? <2:tsm>
+    Qu'est-ce que tu te es faite ? <2:tsf>
+    Qu'est-ce que vous vous êtes fait ? <2:vsm>
+    Qu'est-ce que vous vous êtes faite ? <2:vsf>
+What have you done to yourself?
+  Qu'est-ce que vous vous êtes fait? <2:vsm>
+    Qu'est-ce que tu t'es fait? <2:tsm>
+    Qu'est-ce que tu t'es faite? <2:tsf>
+    Qu'est-ce que vous vous êtes faite? <2:vsf>
+I'm sorry but you're wrong.
+  Je suis désolé mais vous vous trompez. <2:vs|p>
+    Je suis désolé mais tu te trompes. <2:ts>
+I'm sorry but you're wrong.
+  Je suis désolé mais vous avez tort. <2:vs|p>
+    Je suis désolé mais tu as tort. <2:ts>
+The nurse saved the patient's live.
+  L'infirmière a sauvé la vie du patient. <3:nurse:sf>
+    L'infirmier a sauvé la vie du patient. <3:nurse:sm>
+The soldier returned home.
+  Le soldat est rentré chez lui.
+The pilot arrived late.
+  Le pilote est arrivé en retard.
+The flight attendant arrived late.
+  L'hôtesse de l'air est arrivée en retard.

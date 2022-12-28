@@ -593,9 +593,6 @@ Are you scared?
     Êtes vous effrayée? <2:vsf>
     Êtes vous effrayés? <2:pm>
     Êtes vous effrayées? <2:pf>
-
-[[thusfar]]
-
 Are you scared?
   Tu as peur ? <2:ts>
     Vous avez peur ? <2:vs|p>
@@ -604,13 +601,10 @@ Are you scared?
     As-tu peur? <2:ts>
 Are you on the train?
   Es-tu dans le train ? <2:ts>
-    Es-vous dans le train ? <2:vs|p>
+  Êtes-vous dans le train ? <2:vs|p>
 Are you on the train?
   Vous êtes dans le train ? <2:vs|p>
     Tu es dans le train ? <2:ts>
-Are you on the train?
-  Êtes-vous dans le train? <2:vs|p>
-    Es-tu dans le train? <2:ts>
 Can I bring you anything else?
   Je peux vous apporter quelque chose d'autre? <2:vs|p>
     Je peux t'apporter quelque chose d'autre? <2:ts>
@@ -622,16 +616,10 @@ Can I bring you anything else?
     Puis-je t'apporter autre chose? <2:ts>
 Would you like to go for dinner with me?
   Voulez-vous venir dîner avec moi ? <2:vs|p>
-    Veux -te venir dîner avec moi ? <2:ts>
+    Veux-tu venir dîner avec moi ? <2:ts>
 Would you like to go for dinner with me?
   Voulez-vous aller dîner avec moi ? <2:vs|p>
-    Veux -t'aller dîner avec moi ? <2:ts>
-Would you like to go for dinner with me?
-  Voulez-vous aller dîner avec moi? <2:vs|p>
-    Veux -t'aller dîner avec moi? <2:ts>
-Close the windows please.
-  Fermez les fenêtres s'il vous plait. <2:vs|p>
-    Ferme les fenêtres s'il te plait. <2:ts>
+    Veux-tu aller dîner avec moi ? <2:ts>
 Close the windows please.
   Fermez les fenêtres, s'il vous plaît. <2:vs|p>
     Ferme les fenêtres, s'il te plaît. <2:ts>
@@ -640,13 +628,10 @@ Close the windows please.
     Ferme les fenêtres s'il te plaît. <2:ts>
 Open the window please.
   Ouvre la fenêtre s'il te plaît. <2:ts>
-    Ouvrez la fenêtre s'il vous plaît. <2:vs|p>
+  Ouvrez la fenêtre s'il vous plaît. <2:vs|p>
 Open the window please.
   Ouvrez la fenêtre, s'il vous plaît. <2:vs|p>
-    Ouvre la fenêtre, s'il te plaît. <2:ts>
-Open the window please.
-  Ouvrez la fenêtre s'il vous plaît. <2:vs|p>
-    Ouvre la fenêtre s'il te plaît. <2:ts>
+  Ouvre la fenêtre, s'il te plaît. <2:ts>
 Are you here on your own?
   Êtes-vous ici seul? <2:vsm>
     Es-tu ici seul? <2:tsm>
@@ -661,8 +646,6 @@ Are you here on your own?
     Vous êtes ici tout seule ? <2:vsf>
     Vous êtes ici tout seuls ? <2:pm>
     Vous êtes ici tout seules ? <2:pf>
-My doctor told me to stop smoking.
-  Mon médecin m'a dit d'arrêter de fumer.
 I don't need your help.
   Je n'ai pas besoin de votre aide. <2:vs|p>
     Je n'ai pas besoin de ta aide. <2:ts>
@@ -677,13 +660,13 @@ Everybody loves you.
     Tout le monde vous aime. <2:vs|p>
 Can you do this for me?
   Peux-tu faire ça pour moi? <2:ts>
-    Peux-vous faire ça pour moi? <2:vs|p>
+    Pouvez-vous faire ça pour moi? <2:vs|p>
 Can you do this for me?
   Vous pouvez faire ça pour moi ? <2:vs|p>
     Tu peux faire ça pour moi ? <2:ts>
 Can you do this for me?
   Pouvez-vous le faire pour moi? <2:vs|p>
-    Peux -te le faire pour moi? <2:ts>
+    Peux-tu le faire pour moi? <2:ts>
 Are you working tomorrow?
   Est-ce que tu travailles demain? <2:ts>
     Est-ce que vous travaillez demain? <2:vs|p>
@@ -692,23 +675,19 @@ Are you working tomorrow?
     Tu travailles demain ? <2:ts>
 Are you working tomorrow?
   Travaillez-vous demain? <2:vs|p>
-    Travailles -te demain? <2:ts>
+    Travailles-tu demain? <2:ts>
 What did I tell you?
   Qu'est-ce que je t'avais dit? <2:ts>
     Qu'est-ce que je vous avais dit? <2:vs|p>
 What did I tell you?
   Qu'est-ce que je t'ai dit ? <2:ts>
-    Qu'est-ce que je vous ai dit ? <2:vs|p>
-What did I tell you?
-  Qu'est-ce que je vous ai dit? <2:vs|p>
-    Qu'est-ce que je t'ai dit? <2:ts>
+  Qu'est-ce que je vous ai dit ? <2:vs|p>
 What did you have for lunch?
   Qu'avez-vous eu pour le déjeuner? <2:vs|p>
     Qu'as-tu eu pour le déjeuner? <2:ts>
 What did you have for lunch?
-  Qu'avez-vous mangé au déjeuner ? <2:vs>
-    Qu'as-tu mangé à le déjeuner ? <2:ts>
-    Qu'avez-vous mangé à le déjeuner ? <2:vs|p>
+  Qu'avez-vous mangé au déjeuner ? <2:vs|p>
+    Qu'as-tu mangé au déjeuner ? <2:ts>
 What did you have for lunch?
   Qu'avez-vous mangé pour le déjeuner? <2:vs|p>
     Qu'as-tu mangé pour le déjeuner? <2:ts>
@@ -717,31 +696,16 @@ What do you think?
     Qu'est-ce que vous pensez? <2:vs|p>
 What do you think?
   Qu'en pensez-vous ? <2:vs|p>
-    Qu'en penses-tu ? <2:ts>
-What do you think?
-  Qu'en penses-tu? <2:ts>
-    Qu'en pensez-vous? <2:vs|p>
+  Qu'en penses-tu ? <2:ts>
 You are too young.
   Vous êtes trop jeune. <2:vs|p>
-    Tu es trop jeune. <2:ts>
-You are too young.
   Tu es trop jeune. <2:ts>
-    Vous êtes trop jeune. <2:vs|p>
 What have you heard?
   Qu'as-tu entendu ? <2:ts>
-    Qu'avez-vous entendu ? <2:vs|p>
-What have you heard?
   Qu'avez-vous entendu ? <2:vs|p>
-    Qu'as-tu entendu ? <2:ts>
-What have you heard?
-  Qu'avez-vous entendu? <2:vs|p>
-    Qu'as-tu entendu? <2:ts>
 Don't spend it all!
   Ne dépensez pas tout ! <2:vs|p>
     Ne dépense pas tout ! <2:ts>
-Don't spend it all!
-  Ne dépensez pas tout! <2:vs|p>
-    Ne dépense pas tout! <2:ts>
 Are you at home?
   Êtes-vous à la maison? <2:vs|p>
     Es-tu à la maison? <2:ts>
@@ -750,31 +714,19 @@ Are you at home?
     Vous êtes à la maison ? <2:vs|p>
 Am I a good doctor?
   Suis-je un bon médecin ? <1:sm>
-    Suis-je une bonne médecine ? <1:sf>
-Am I a good doctor?
-  Suis-je un bon médecin? <1:sm>
-    Suis-je une bonne médecine? <1:sf>
+  Suis-je une bonne médecine ? <1:sf>
 The police officer was very helpful.
   Le policier a été très utile. <3:police officer:sm>
-    La policière a été très utile. <3:sf>
-The police officer was very helpful.
-  L'officier de police a été très utile.
+    La policière a été très utile. <3:police officer:sf>
 The police officer was very helpful.
   Le policier était très serviable. <3:police officer:sm>
-    La policière était très serviable. <3:sf>
-I work as a librarian.
-  Je travaille comme bibliothécaire.
-I am a librarian.
-  Je suis bibliothécaire.
+    La policière était très serviable. <3:police officer:sf>
 You shouldn't guess if you can ask.
   Vous ne devriez pas deviner si vous pouvez demander. <2:vs|p>
     Tu ne devrais pas deviner si tu peux demander. <2:ts>
 Do you need more time?
   Avez-vous besoin de plus de temps ? <2:vs|p>
     As-tu besoin de plus de temps ? <2:ts>
-Do you need more time?
-  Avez-vous besoin de plus de temps? <2:vs|p>
-    As-tu besoin de plus de temps? <2:ts>
 Have you finished yet?
   Avez-vous fini maintenant? <2:vs|p>
     As-tu fini maintenant? <2:ts>
@@ -785,8 +737,12 @@ Have you finished yet?
   Avez-vous déjà terminé? <2:vs|p>
     As-tu déjà terminé? <2:ts>
 Are you still open?
-  Êtes-vous toujours ouvert ? <2:vs|p>
-    Es-tu toujours ouvert ? <2:ts>
+  Êtes-vous toujours ouvert ? <2:vsm>
+    Es-tu toujours ouvert ? <2:tsm>
+    Es-tu toujours ouverte ? <2:tsf>
+    Êtes-vous toujours ouverte ? <2:vsf>
+    Êtes-vous toujours ouverts ? <2:pm>
+    Êtes-vous toujours ouvertes ? <2:pf>
 Are you still open?
   Vous êtes toujours ouvert ? <2:vsm>
     Tu es toujours ouvert ? <2:tsm>
@@ -794,13 +750,13 @@ Are you still open?
     Vous êtes toujours ouverte ? <2:vsf>
     Vous êtes toujours ouverts ? <2:pm>
     Vous êtes toujours ouvertes ? <2:pf>
-Are you still open?
-  Êtes-vous toujours ouvert? <2:vs|p>
-    Es-tu toujours ouvert? <2:ts>
 Are you open yet?
-  Êtes-vous déjà ouvert ? <2:vs>
-    Es-tu déjà ouvert ? <2:ts>
-    Êtes-vous déjà ouvert ? <2:vs|p>
+  Êtes-vous déjà ouvert ? <2:vsm>
+    Es-tu déjà ouvert ? <2:tsm>
+    Es-tu déjà ouverte ? <2:tsf>
+    Êtes-vous déjà ouverte ? <2:vsf>
+    Êtes-vous déjà ouverts ? <2:pm>
+    Êtes-vous déjà ouvertes ? <2:pf>
 Are you open yet?
   Vous êtes déjà ouvert ? <2:vsm>
     Tu es déjà ouvert ? <2:tsm>
@@ -808,9 +764,6 @@ Are you open yet?
     Vous êtes déjà ouverte ? <2:vsf>
     Vous êtes déjà ouverts ? <2:pm>
     Vous êtes déjà ouvertes ? <2:pf>
-Are you open yet?
-  Êtes-vous déjà ouvert? <2:vs|p>
-    Es-tu déjà ouvert? <2:ts>
 Would you like another beer?
   Voulez-vous une autre bière? <2:vs|p>
     Veux-tu une autre bière? <2:ts>
@@ -828,17 +781,14 @@ Where have I seen you before?
     Où vous ai-je vu auparavant? <2:vs|p>
 I can't help you.
   Je ne peux pas t'aider. <2:ts>
-    Je ne peux pas vous aider. <2:vs|p>
-I can't help you.
   Je ne peux pas vous aider. <2:vs|p>
-    Je ne peux pas t'aider. <2:ts>
 Are you still awake?
   Es-tu toujours réveillé? <2:tsm>
+  Êtes-vous toujours réveillé? <2:vsm>
     Es-tu toujours réveillée? <2:tsf>
-    Es-vous toujours réveillé? <2:vsm>
-    Es-vous toujours réveillée? <2:vsf>
-    Es-vous toujours réveillés? <2:pm>
-    Es-vous toujours réveillées? <2:pf>
+    Êtes-vous toujours réveillée? <2:vsf>
+    Êtes-vous toujours réveillés? <2:pm>
+    Êtes-vous toujours réveillées? <2:pf>
 Are you still awake?
   Vous êtes encore éveillé ? <2:vsm>
     Tu es encore éveillé ? <2:tsm>
@@ -846,17 +796,12 @@ Are you still awake?
     Vous êtes encore éveillée ? <2:vsf>
     Vous êtes encore éveillés ? <2:pm>
     Vous êtes encore éveillées ? <2:pf>
-Are you still awake?
-  Êtes-vous toujours éveillé? <2:vsm>
-    Es-tu toujours éveillé? <2:tsm>
-    Es-tu toujours éveillée? <2:tsf>
-    Êtes-vous toujours éveillée? <2:vsf>
-    Êtes-vous toujours éveillés? <2:pm>
-    Êtes-vous toujours éveillées? <2:pf>
 Are you here on holiday?
-  Êtes-vous ici en vacances?
+  Êtes-vous ici en vacances? <2:vs|p>
+    Es-tu ici en vacances? <2:ts>
 Are you here on holiday?
-  Vous êtes ici en vacances ?
+  Vous êtes ici en vacances ? <2:vs|p>
+    Tu es ici en vacances ? <2:ts>
 We will help you.
   Nous allons vous aider. <2:vs|p>
     Nous allons t'aider. <2:ts>
@@ -868,14 +813,7 @@ You can rely on us.
     Tu peux compter sur nous. <2:ts>
 Hurry up please.
   Dépêche-toi s'il te plaît. <2:ts>
-    Dépêche-vous s'il vous plaît. <2:vs|p>
-Hurry up please.
-  Dépêchez-vous, s'il vous plaît. <2:vs>
-    Dépêche toi, s'il te plaît. <2:ts>
-    Dépêchez vous, s'il vous plaît. <2:vs|p>
-Hurry up please.
   Dépêchez-vous s'il vous plaît. <2:vs|p>
-    Dépêche-toi s'il te plaît. <2:ts>
 You are late.
   Vous êtes en retard. <2:vs>
     Tu es en retard. <2:ts>
@@ -885,21 +823,18 @@ Do you have a minute?
 Do you have a minute?
   Vous avez une minute ? <2:vs|p>
     Tu as une minute ? <2:ts>
-Thank you for coming.
-  Merci d'être venu.
-Come here please.
-  Viens ici s'il te plait. <2:ts>
-    Venez ici s'il vous plait. <2:vs|p>
 Come here please.
   Viens ici, s'il te plaît. <2:ts>
-    Venez ici, s'il vous plaît. <2:vs|p>
+  Venez ici, s'il vous plaît. <2:vs|p>
 Come here please.
   Venez ici s'il vous plaît. <2:vs|p>
-    Viens ici s'il te plaît. <2:ts>
+  Viens ici s'il te plaît. <2:ts>
 How was your Christmas?
-  Comment était votre Noël?
+  Comment était votre Noël? <2:vs|p>
+    Comment était ton Noël? <2:ts>
 How was your Christmas?
-  Comment s'est passé votre Noël ?
+  Comment s'est passé votre Noël ? <2:vs|p>
+    Comment s'est passé votre Noël ? <2:ts>
 We would like to offer you the position.
   Nous aimerions vous offrir le poste. <2:vs|p>
     Nous aimerions t'offrir le poste. <2:ts>
@@ -917,14 +852,9 @@ You have made the world a better place.
     Tu as fait du monde un endroit meilleur. <2:ts>
 Your teacher is happy with you.
   Votre professeur est content de vous. <2:vs|p> <3:teacher:sm>
-    Ton professeur est content de toi. <2:ts> <3:sm>
-    Ta professeure est contente de toi. <2:ts> <3:sf>
-    Votre professeure est contente de vous. <2:vs|p> <3:sf>
-Your teacher is happy with you.
   Ton professeur est content de toi. <2:ts> <3:teacher:sm>
-    Ta professeure est contente de toi. <2:ts> <3:sf>
-    Votre professeur est content de vous. <2:vs|p> <3:sm>
-    Votre professeure est contente de vous. <2:vs|p> <3:sf>
+    Ta professeure est contente de toi. <2:ts> <3:teacher:sf>
+    Votre professeure est contente de vous. <2:vs|p> <3:teacher:sf>
 Why should we hire you?
   Pourquoi devrions-nous vous engager? <2:vs|p>
     Pourquoi devrions-nous t'engager? <2:ts>
@@ -939,22 +869,13 @@ My dog likes you.
     Mon chien vous aime. <2:vs|p>
 My dog likes you.
   Mon chien vous aime bien. <2:vs|p>
-    Mon chien t'aime bien. <2:ts>
-My dog likes you.
   Mon chien t'aime bien. <2:ts>
-    Mon chien vous aime bien. <2:vs|p>
 How was your weekend?
   Comment c'est passé ton week-end? <2:ts>
-    Comment c'est passé votre week-end? <2:vs|p>
-How was your weekend?
-  Comment s'est passé votre week-end ? <2:vs|p>
-    Comment s'est passé ton week-end ? <2:ts>
+  Comment c'est passé votre week-end? <2:vs|p>
 Where are you going on holiday?
   Où vas tu en vacances? <2:ts>
-    Où allez vous en vacances? <2:vs|p>
-Where are you going on holiday?
-  Où allez-vous en vacances ? <2:vs|p>
-    Où vas-tu en vacances ? <2:ts>
+  Où allez vous en vacances? <2:vs|p>
 Where are you going on holiday?
   Où partez-vous en vacances? <2:vs|p>
     Où pars-tu en vacances? <2:ts>
@@ -974,34 +895,22 @@ Are you vegan?
     Êtes-vous végétaliennes ? <2:pf>
 Do you eat fish?
   Manges-tu du poisson? <2:ts>
-    Mangez-vous du poisson? <2:vs|p>
+  Mangez-vous du poisson? <2:vs|p>
 Do you eat fish?
   Vous mangez du poisson ? <2:vs|p>
     Tu manges du poisson ? <2:ts>
-Do you eat fish?
-  Mangez-vous du poisson? <2:vs|p>
-    Manges -te du poisson? <2:ts>
-My boss hates me.
-  Mon patron me déteste.
 Do you like your job?
   Est-ce que tu aimes ton travail? <2:ts>
     Est-ce que vous aimez votre travail? <2:vs|p>
 Do you like your job?
   Aimez-vous votre travail ? <2:vs|p>
     Aimes-tu ton travail ? <2:ts>
-Do you like your job?
-  Aimez-vous votre travail? <2:vs|p>
-    Aimes-tu ton travail? <2:ts>
 Please wait.
   S'il vous plaît, attendez. <2:vs|p>
     S'il te plaît, attends. <2:ts>
 Please wait.
   Veuillez patienter. <2:vs|p>
     Veuille patienter. <2:ts>
-Why are the students so lazy?
-  Pourquoi les étudiants sont-ils si paresseux ?
-Why are the students so lazy?
-  Pourquoi les étudiants sont-ils si paresseux?
 I think he likes you.
   Je pense qu'il t'aime bien. <2:ts>
     Je pense qu'il vous aime bien. <2:vs|p>
@@ -1019,31 +928,27 @@ Have you been here before?
     Vous êtes déjà venue ici ? <2:vsf>
     Vous êtes déjà venus ici ? <2:pm>
     Vous êtes déjà venues ici ? <2:pf>
-Have you been here before?
-  Avez-vous déjà été ici? <2:vs|p>
-    As-tu déjà été ici? <2:ts>
 Give me a few minutes.
   Donne moi quelques minutes. <2:ts>
-    Donnez moi quelques minutes. <2:vs|p>
+  Donnez moi quelques minutes. <2:vs|p>
 Give me a few minutes.
   Donnez-moi quelques minutes. <2:vs|p>
-    Donne-moi quelques minutes. <2:ts>
-Have you met the new director yet?
-  Avez-vous déjà rencontré le nouveau réalisateur ? <2:vs|p>
-    As-tu déjà rencontré le nouveau réalisateur ? <2:ts>
+  Donne-moi quelques minutes. <2:ts>
 Have you met the new director yet?
   Avez-vous déjà rencontré le nouveau directeur ? <2:vs|p> <3:director:sm>
-    As-tu déjà rencontré le nouveau directeur ? <2:ts> <3:sm>
-    As-tu déjà rencontré la nouvelle directrice ? <2:ts> <3:sf>
-    Avez-vous déjà rencontré la nouvelle directrice ? <2:vs|p> <3:sf>
+    As-tu déjà rencontré le nouveau directeur ? <2:ts> <3:director:sm>
+    As-tu déjà rencontré la nouvelle directrice ? <2:ts> <3:director:sf>
+    Avez-vous déjà rencontré la nouvelle directrice ? <2:vs|p> <3:director:sf>
 Tell that to my lawyer.
-  Dis ça à mon avocat. <2:ts|vs|p> <3:lawyer:sm>
-    Dis ça à ma avocate. <2:ts|vs|p> <3:sf>
+  Dis ça à mon avocat. <2:ts> <3:lawyer:sm>
+    Dis ça à ma avocate. <2:ts> <3:lawyer:sf>
+    Dites ça à mon avocat. <2:vs|p> <3:lawyer:sm>
+    Dites ça à ma avocate. <2:vs|p> <3:lawyer:sf>
 Tell that to my lawyer.
   Dites-le à mon avocat. <2:vs|p> <3:lawyer:sm>
-    Dis-le à mon avocat. <2:ts> <3:sm>
-    Dis-le à ma avocate. <2:ts> <3:sf>
-    Dites-le à ma avocate. <2:vs|p> <3:sf>
+    Dis-le à mon avocat. <2:ts> <3:lawyer:sm>
+    Dis-le à ma avocate. <2:ts> <3:lawyer:sf>
+    Dites-le à ma avocate. <2:vs|p> <3:lawyer:sf>
 Do you have everything you need?
   Avez-vous tout ce dont vous avez besoin ? <2:vs|p>
     As-tu tout ce dont tu as besoin ? <2:ts>
@@ -1055,10 +960,7 @@ You need to start now.
     Tu dois commencer maintenant. <2:ts>
 I made you breakfast.
   Je t'ai préparé le petit-déjeuner. <2:ts>
-    Je vous ai préparé le petit-déjeuner. <2:vs|p>
-I made you breakfast.
-  Je vous ai préparé le petit déjeuner. <2:vs|p>
-    Je t'ai préparé le petit déjeuner. <2:ts>
+  Je vous ai préparé le petit-déjeuner. <2:vs|p>
 Did you sleep well?
   Avez-vous bien dormi? <2:vs|p>
     As-tu bien dormi? <2:ts>
@@ -1068,18 +970,9 @@ Did you sleep well?
 Why are you angry with me?
   Pourquoi es-tu en colère contre moi ? <2:ts>
     Pourquoi êtes-vous en colère contre moi ? <2:vs>
-Why are you angry with me?
-  Pourquoi es-tu en colère contre moi? <2:ts>
-    Pourquoi êtes-vous en colère contre moi? <2:vs>
 What is your name?
   Quel est ton nom? <2:ts>
-    Quel est votre nom? <2:vs|p>
-What is your name?
-  Quel est votre nom ? <2:vs|p>
-    Quel est ton nom ? <2:ts>
-What is your name?
   Quel est votre nom? <2:vs|p>
-    Quel est ton nom? <2:ts>
 You are a good doctor.
   Vous êtes un bon médecin. <2:vsm>
     Tu es un bon médecin. <2:tsm>
@@ -1087,27 +980,16 @@ You are a good doctor.
     Vous êtes une bonne médecine. <2:vsf>
 You should get some sleep.
   Tu devrais dormir un peu. <2:ts>
-    Vous devriez dormir un peu. <2:vs|p>
-You should get some sleep.
   Vous devriez dormir un peu. <2:vs|p>
-    Tu devrais dormir un peu. <2:ts>
-I never met him.
-  Je ne l'ai jamais rencontré.
 I knew what you were going to say.
   Je savais ce que tu allais dire. <2:ts>
-    Je savais ce que vous alliez dire. <2:vs|p>
-I knew what you were going to say.
   Je savais ce que vous alliez dire. <2:vs|p>
-    Je savais ce que tu allais dire. <2:ts>
 How long have you been waiting?
   Depuis combien de temps attends-tu? <2:ts>
-    Depuis combien de temps attendez-vous? <2:vs|p>
+  Depuis combien de temps attendez-vous? <2:vs|p>
 How long have you been waiting?
   Combien de temps avez-vous attendu ? <2:vs|p>
     Combien de temps as-tu attendu ? <2:ts>
-How long have you been waiting?
-  Depuis combien de temps attendez-vous? <2:vs|p>
-    Depuis combien de temps attends-tu? <2:ts>
 Are you here?
   Êtes-vous ici? <2:vs|p>
     Es-tu ici? <2:ts>
@@ -1116,7 +998,7 @@ Are you here?
     Tu es là ? <2:ts>
 Are you here?
   Es-tu là? <2:ts>
-    Es-vous là? <2:vs|p>
+    Êtes-vous là? <2:vs|p>
 Wish you were here.
   J'aimerais que tu sois ici. <2:ts>
     J'aimerais que vous soyez ici. <2:vs|p>
@@ -1124,39 +1006,34 @@ Wish you were here.
   J'aimerais que tu sois là. <2:ts>
     J'aimerais que vous soyez là. <2:vs|p>
 These are my students.
-  Ce sont mes élèves.
-These are my students.
   Ce sont mes étudiants. <3:students:pm>
-    Ce sont mes étudiantes. <3:pf>
+    Ce sont mes étudiantes. <3:students:pf>
 What is the new teacher's name?
   Comment s'appelle le nouveau professeur ? <3:teacher:sm>
-    Comment s'appelle la nouvelle professeure ? <3:sf>
+    Comment s'appelle la nouvelle professeure ? <3:teacher:sf>
 What is the new teacher's name?
   Quel est le nom du nouveau professeur ? <4:teacher:sm>
-    Quel est le nom de la nouvelle professeure ? <4:sf>
+    Quel est le nom de la nouvelle professeure ? <4:teacher:sf>
 What is the new teacher's name?
   Quel est le nom du nouvel enseignant? <4:teacher:sm>
-    Quel est le nom de la nouvel enseignante? <4:sf>
+    Quel est le nom de la nouvel enseignante? <4:teacher:sf>
 How do you like your new teacher?
   Comment trouvez-vous votre nouveau professeur ? <2:vs> <3:teacher:sm>
-    Comment trouves-tu ton nouveau professeur ? <2:ts> <3:sm>
-    Comment trouves-tu ta nouvelle professeure ? <2:ts> <3:sf>
-    Comment trouvez-vous votre nouveau professeur ? <2:vs|p> <3:sm>
-    Comment trouvez-vous votre nouvelle professeure ? <2:vs|p> <3:sf>
-How do you like your new teacher?
   Comment trouves-tu ton nouveau professeur ? <2:ts> <3:teacher:sm>
-    Comment trouves-tu ta nouvelle professeure ? <2:ts> <3:sf>
-    Comment trouvez-vous votre nouveau professeur ? <2:vs|p> <3:sm>
-    Comment trouvez-vous votre nouvelle professeure ? <2:vs|p> <3:sf>
+    Comment trouves-tu ta nouvelle professeure ? <2:ts> <3:teacher:sf>
+    Comment trouvez-vous votre nouveau professeur ? <2:vs|p> <3:teacher:sm>
+    Comment trouvez-vous votre nouvelle professeure ? <2:vs|p> <3:teacher:sf>
 How do you like your new teacher?
   Comment aimez-vous votre nouveau professeur? <2:vs|p> <3:teacher:sm>
-    Comment aimes-tu ton nouveau professeur? <2:ts> <3:sm>
-    Comment aimes-tu ta nouvelle professeure? <2:ts> <3:sf>
-    Comment aimez-vous votre nouvelle professeure? <2:vs|p> <3:sf>
+    Comment aimes-tu ton nouveau professeur? <2:ts> <3:teacher:sm>
+    Comment aimes-tu ta nouvelle professeure? <2:ts> <3:teacher:sf>
+    Comment aimez-vous votre nouvelle professeure? <2:vs|p> <3:teacher:sf>
 Are you our new teacher?
-  Êtes-vous notre nouveau professeur?
+  Êtes-vous notre nouveau professeur? <2:vsm>
+    Êtes-vous notre nouvelle professeure? <2:vsf>
 Are you our new teacher?
-  Vous êtes notre nouveau professeur ?
+  Vous êtes notre nouveau professeur ? <2:vsm>
+    Vous êtes notre nouvelle professeure ? <2:vsf>
 We are students.
   Nous sommes étudiants. <1:pm>
     Nous sommes étudiantes. <1:pf>
@@ -1183,13 +1060,10 @@ What is your daughter's name?
     Quel est le nom de ta fille ? <2:ts>
 You are getting on my nerves.
   Tu m'énerves. <2:ts>
-    Vous m'énervez. <2:vs|p>
+  Vous m'énervez. <2:vs|p>
 You are getting on my nerves.
   Tu me tapes sur les nerfs. <2:ts>
     Vous me tapez sur les nerfs. <2:vs|p>
-You are getting on my nerves.
-  Vous m'énervez. <2:vs|p>
-    Tu m'énerves. <2:ts>
 You can say anything you want.
   Vous pouvez dire tout ce que vous voulez. <2:vs|p>
     Tu peux dire tout ce que tu veux. <2:ts>
@@ -1198,12 +1072,10 @@ You can say anything you want.
     Vous pouvez dire ce que vous voulez. <2:vs|p>
 I know where you live.
   Je sais où tu habites. <2:ts>
-    Je sais où vous habitez. <2:vs|p>
-I know where you live.
   Je sais où vous habitez. <2:vs|p>
-    Je sais où tu habites. <2:ts>
 Tell me what you want.
-  Dis moi ce que tu veux.
+  Dis moi ce que tu veux. <2:ts>
+    Dites moi ce que vous voulez. <2:vs|p>
 Tell me what you want.
   Dites-moi ce que vous voulez. <2:vs|p>
     Dis-moi ce que tu veux. <2:ts>
@@ -1215,23 +1087,10 @@ What did your mother tell you?
     Qu'est-ce que votre mère vous a dit ? <2:vs|p>
 I have to tell you something.
   Je dois vous dire quelque chose. <2:vs|p>
-    Je dois te dire quelque chose. <2:ts>
-I have to tell you something.
   Je dois te dire quelque chose. <2:ts>
-    Je dois vous dire quelque chose. <2:vs|p>
-What have you done to yourself?
-  Qu'est-ce que tu t'es fait ? <2:tsm>
-    Qu'est-ce que tu te es faite ? <2:tsf>
-    Qu'est-ce que vous vous êtes fait ? <2:vsm>
-    Qu'est-ce que vous vous êtes faite ? <2:vsf>
 What have you done to yourself?
   Qu'avez-vous fait à vous-même ? <2:vs>
     Qu'as-tu fait à toi-même ? <2:ts>
-What have you done to yourself?
-  Qu'est-ce que vous vous êtes fait? <2:vsm>
-    Qu'est-ce que tu t'es fait? <2:tsm>
-    Qu'est-ce que tu t'es faite? <2:tsf>
-    Qu'est-ce que vous vous êtes faite? <2:vsf>
 Why did you do that?
   Pourquoi fais-tu ça? <2:ts>
     Pourquoi faites-vous ça? <2:vs|p>
@@ -1246,26 +1105,16 @@ What do you want for your birthday?
     Qu'est-ce que vous voulez pour votre anniversaire? <2:vs|p>
 What do you want for your birthday?
   Que veux-tu pour ton anniversaire ? <2:ts>
-    Que voulez-vous pour votre anniversaire ? <2:vs|p>
-What do you want for your birthday?
-  Que voulez-vous pour votre anniversaire? <2:vs|p>
-    Que veux-tu pour ton anniversaire? <2:ts>
-You have to protect yourselves.
-  Vous devez vous protéger. <2:vs|p>
-    Tu dois te protéger. <2:ts>
+  Que voulez-vous pour votre anniversaire ? <2:vs|p>
 You have to protect yourself.
   Vous devez vous protéger. <2:vs>
     Tu dois te protéger. <2:ts>
 Do you want anything else?
-  Voulez-vous autre chose ? <2:vs>
+  Voulez-vous autre chose ? <2:vs|p>
     Veux-tu autre chose ? <2:ts>
-    Voulez-vous autre chose ? <2:vs|p>
 Do you want anything else?
   Vous voulez autre chose ? <2:vs|p>
     Tu veux autre chose ? <2:ts>
-Do you want anything else?
-  Voulez-vous autre chose? <2:vs|p>
-    Veux-tu autre chose? <2:ts>
 You have said everything.
   Vous avez tout dit. <2:vs|p>
     Tu as tout dit. <2:ts>
@@ -1277,25 +1126,16 @@ I'll do anything for you.
     Je ferais n'importe quoi pour vous. <2:vs|p>
 Don't ask me any questions.
   Ne me posez pas de questions. <2:vs|p>
-    Ne me pose pas de questions. <2:ts>
-Don't ask me any questions.
   Ne me pose pas de questions. <2:ts>
-    Ne me posez pas de questions. <2:vs|p>
 Do you like me?
-  M'aimez-vous? <2:vs>
-    M'aimes -te ? <2:ts>
-    M'aimez-vous ? <2:vs|p>
+  M'aimez-vous? <2:vs|p>
+    M'aimes-tu ? <2:ts>
 Do you like me?
   Est-ce que je te plais ? <2:ts>
     Est-ce que je vous plais ? <2:vs|p>
 Do you like me?
-  M'aimes-tu bien?
-I'm sorry but you're wrong.
-  Je suis désolé mais vous vous trompez. <2:vs|p>
-    Je suis désolé mais tu te trompes. <2:ts>
-I'm sorry but you're wrong.
-  Je suis désolé mais vous avez tort. <2:vs|p>
-    Je suis désolé mais tu as tort. <2:ts>
+  M'aimes-tu bien? <2:ts>
+    M'aimez-vous bein? <2:vs|p>
 Correct me if I'm wrong.
   Corrige moi si je me trompe. <2:ts>
     Corrigez moi si je me trompe. <2:vs|p>
@@ -1304,43 +1144,31 @@ Correct me if I'm wrong.
     Corrige-moi si je me trompe. <2:ts>
 This is what they sent you.
   C'est ce qu'ils t'ont envoyé. <2:ts>
-    C'est ce qu'ils vous ont envoyé. <2:vs|p>
-This is what they sent you.
   C'est ce qu'ils vous ont envoyé. <2:vs|p>
-    C'est ce qu'ils t'ont envoyé. <2:ts>
 I am too old to die young.
   Je suis trop vieux pour mourir jeune. <1:sm>
     Je suis trop vieille pour mourir jeune. <1:sf>
-The nurse saved the patient's live.
-  L'infirmière a sauvé la vie du patient. <3:nurse:sf>
-    L'infirmier a sauvé la vie du patient. <3:sm>
-The soldier returned home.
-  Le soldat est rentré chez lui.
-The pilot arrived late.
-  Le pilote est arrivé en retard.
 The flight attendant arrived late.
-  L'hôtesse de l'air est arrivée en retard.
-The flight attendant arrived late.
-  L'agent de bord est arrivé en retard. <3:agent:sm>
-    L'agente de bord est arrivée en retard. <3:sf>
+  L'agent de bord est arrivé en retard. <3:flight attendant:sm>
+    L'agente de bord est arrivée en retard. <3:flight attendant:sf>
 The dancer danced elegantly.
   Le danseur a dansé avec élégance. <3:dancer:sm>
-    La danseuse a dansé avec élégance. <3:sf>
+    La danseuse a dansé avec élégance. <3:dancer:sf>
 The dancer danced elegantly.
   Le danseur dansait élégamment. <3:dancer:sm>
-    La danseuse dansait élégamment. <3:sf>
+    La danseuse dansait élégamment. <3:dancer:sf>
 My neighbour goes to the gym.
   Mon voisin va à la gym. <3:neighbour:sm>
-    Ma voisine va à la gym. <3:sf>
+    Ma voisine va à la gym. <3:neighbour:sf>
 My neighbour goes to the gym.
   Mon voisin va à la salle de sport. <3:neighbour:sm>
-    Ma voisine va à la salle de sport. <3:sf>
+    Ma voisine va à la salle de sport. <3:neighbour:sf>
 My neighbour goes to the gym.
   Mon voisin va au gymnase. <3:neighbour:sm>
-    Ma voisine va à le gymnase. <3:sf>
+    Ma voisine va à le gymnase. <3:neighbour:sf>
 This comedian isn't very funny.
   Ce comédien n'est pas très drôle. <3:comedian:sm>
-    Cette comédienne n'est pas très drôle. <3:sf>
+    Cette comédienne n'est pas très drôle. <3:comedian:sf>
 You are a great singer.
   Vous êtes un grand chanteur. <2:vsm>
     Tu es un grand chanteur. <2:tsm>
@@ -1348,35 +1176,35 @@ You are a great singer.
     Vous êtes une grande chanteuse. <2:vsf>
 We have two new employees.
   Nous avons deux nouveaux employés. <3:employees:pm>
-    Nous avons deux nouvelles employées. <3:pf>
+    Nous avons deux nouvelles employées. <3:employees:pf>
 How do you like our new director?
   Comment trouvez-vous notre nouveau directeur ? <2:vs|p> <3:director:sm>
-    Comment trouves-tu notre nouveau directeur ? <2:ts> <3:sm>
-    Comment trouves-tu notre nouvelle directrice ? <2:ts> <3:sf>
-    Comment trouvez-vous notre nouvelle directrice ? <2:vs|p> <3:sf>
+    Comment trouves-tu notre nouveau directeur ? <2:ts> <3:director:sm>
+    Comment trouves-tu notre nouvelle directrice ? <2:ts> <3:director:sf>
+    Comment trouvez-vous notre nouvelle directrice ? <2:vs|p> <3:director:sf>
 How do you like our new director?
   Que pensez-vous de notre nouveau directeur ? <2:vs|p> <3:director:sm>
-    Que penses-tu de notre nouveau directeur ? <2:ts> <3:sm>
-    Que penses-tu de notre nouvelle directrice ? <2:ts> <3:sf>
-    Que pensez-vous de notre nouvelle directrice ? <2:vs|p> <3:sf>
+    Que penses-tu de notre nouveau directeur ? <2:ts> <3:director:sm>
+    Que penses-tu de notre nouvelle directrice ? <2:ts> <3:director:sf>
+    Que pensez-vous de notre nouvelle directrice ? <2:vs|p> <3:director:sf>
 How do you like our new director?
   Comment aimez-vous notre nouveau directeur? <2:vs|p> <3:director:sm>
-    Comment aimes-tu notre nouveau directeur? <2:ts> <3:sm>
-    Comment aimes-tu notre nouvelle directrice? <2:ts> <3:sf>
-    Comment aimez-vous notre nouvelle directrice? <2:vs|p> <3:sf>
+    Comment aimes-tu notre nouveau directeur? <2:ts> <3:director:sm>
+    Comment aimes-tu notre nouvelle directrice? <2:ts> <3:director:sf>
+    Comment aimez-vous notre nouvelle directrice? <2:vs|p> <3:director:sf>
 Does your lawyer know this?
   Votre avocat le sait-il ? <2:vs|p> <3:lawyer:sm>
-    Ton avocat le sait-il ? <2:ts> <3:sm>
-    Ta avocate le sait-il ? <2:ts> <3:sf>
-    Votre avocate le sait-il ? <2:vs|p> <3:sf>
+    Ton avocat le sait-il ? <2:ts> <3:lawyer:sm>
+    Ta avocate le sait-il ? <2:ts> <3:lawyer:sf>
+    Votre avocate le sait-il ? <2:vs|p> <3:lawyer:sf>
 Does your lawyer know this?
   Votre avocat le sait-il? <2:vs|p> <3:lawyer:sm>
-    Ton avocat le sait-il? <2:ts> <3:sm>
-    Ta avocate le sait-il? <2:ts> <3:sf>
-    Votre avocate le sait-il? <2:vs|p> <3:sf>
+    Ton avocat le sait-il? <2:ts> <3:lawyer:sm>
+    Ta avocate le sait-il? <2:ts> <3:lawyer:sf>
+    Votre avocate le sait-il? <2:vs|p> <3:lawyer:sf>
 This is the rudest bus driver I've ever seen.
   C'est le chauffeur de bus le plus grossier que j'ai jamais vu. <3:driver:sm>
-    C'est la chauffeuse de bus le plus grossière que j'ai jamais vu. <3:sf>
+    C'est la chauffeuse de bus le plus grossière que j'ai jamais vu. <3:driver:sf>
 I went over there.
   Je suis allé là-bas. <1:sm>
     Je suis allée là-bas. <1:sf>
