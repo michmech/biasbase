@@ -1054,19 +1054,19 @@ Have you met the new director yet?
     Habt ihr den neuen Direktor schon kennengelernt? <2:tp> <3:director:sm>
     Habt ihr die neue Direktorin schon kennengelernt? <2:tp> <3:director:sf>
 Tell that to my lawyer.
-  Sagen Sie das meinem Anwalt. <2:vs|vp> <4:lawyer:sm>
-    Sag das meinem Anwalt. <2:ts> <4:lawyer:sm>
-    Sag das meiner Anwältin. <2:ts> <4:lawyer:sf>
-    Sagen Sie das meiner Anwältin. <2:vs|vp> <4:lawyer:sf>
-    Sagt das meinem Anwalt. <2:tp> <4:lawyer:sm>
-    Sagt das meiner Anwältin. <2:tp> <4:lawyer:sf>
+  Sagen Sie das meinem Anwalt. <2:vs|vp> <3:lawyer:sm>
+    Sag das meinem Anwalt. <2:ts> <3:lawyer:sm>
+    Sag das meiner Anwältin. <2:ts> <3:lawyer:sf>
+    Sagen Sie das meiner Anwältin. <2:vs|vp> <3:lawyer:sf>
+    Sagt das meinem Anwalt. <2:tp> <3:lawyer:sm>
+    Sagt das meiner Anwältin. <2:tp> <3:lawyer:sf>
 Tell that to my lawyer.
-  Erzählen Sie das meinem Anwalt. <2:vs|vp> <4:lawyer:sm>
-    Erzähl das meinem Anwalt. <2:ts> <4:lawyer:sm>
-    Erzähl das meiner Anwältin. <2:ts> <4:lawyer:sf>
-    Erzählen Sie das meiner Anwältin. <2:vs|vp> <4:lawyer:sf>
-    Erzählt das meinem Anwalt. <2:tp> <4:lawyer:sm>
-    Erzählt das meiner Anwältin. <2:tp> <4:lawyer:sf>
+  Erzählen Sie das meinem Anwalt. <2:vs|vp> <3:lawyer:sm>
+    Erzähl das meinem Anwalt. <2:ts> <3:lawyer:sm>
+    Erzähl das meiner Anwältin. <2:ts> <3:lawyer:sf>
+    Erzählen Sie das meiner Anwältin. <2:vs|vp> <3:lawyer:sf>
+    Erzählt das meinem Anwalt. <2:tp> <3:lawyer:sm>
+    Erzählt das meiner Anwältin. <2:tp> <3:lawyer:sf>
 Do you have everything you need?
   Haben Sie alles, was Sie brauchen? <2:vs|vp>
     Hast du alles, was du brauchst? <2:ts>
@@ -1154,8 +1154,8 @@ What is the new teacher's name?
   Wie heißt die neue Lehrerin? <3:teacher:sf>
     Wie heißt der neue Lehrer? <3:teacher:sm>
 What is the new teacher's name?
-  Wie lautet der Name des neuen Lehrers? <4:teacher:sm>
-    Wie lautet der Name der neuen Lehrerin? <4:teacher:sf>
+  Wie lautet der Name des neuen Lehrers? <3:teacher:sm>
+    Wie lautet der Name der neuen Lehrerin? <3:teacher:sf>
 What is the new teacher's name?
   Wie heißt der neue Lehrer? <3:teacher:sm>
     Wie heißt die neue Lehrerin? <3:teacher:sf>
@@ -1312,25 +1312,25 @@ This is what they sent you.
     Das ist es, was sie Ihnen geschickt haben. <2:vs|vp>
     Das ist es, was sie euch geschickt haben. <2:tp>
 The doctor saved the patient's live.
-  Der Arzt rettete dem Patienten das Leben. <3:doctor:sm> <4:patient:sm>
-    Der Arzt rettete der Patientin das Leben. <3:doctor:sm> <4:patient:sf>
-    Die Ärztin rettete dem Patient das Leben. <3:doctor:sf> <4:patient:sm>
-    Die Ärztin rettete der Patientin das Leben. <3:doctor:sf> <4:patient:sf>
+  Der Arzt rettete dem Patienten das Leben. <3:doctor:sm> <3:patient:sm>
+    Der Arzt rettete der Patientin das Leben. <3:doctor:sm> <3:patient:sf>
+    Die Ärztin rettete dem Patient das Leben. <3:doctor:sf> <3:patient:sm>
+    Die Ärztin rettete der Patientin das Leben. <3:doctor:sf> <3:patient:sf>
 The doctor saved the patient's live.
-  Der Arzt rettete das Leben des Patienten. <3:doctor:sm> <5:patient:patient:sm>
-    Der Arzt rettete das Leben der Patientin. <3:sdoctor:m> <5:patient:sf>
-    Die Ärztin rettete das Leben des Patienten. <3:doctor:sf> <5:patient:sm>
-    Die Ärztin rettete das Leben der Patientin. <3:doctor:sf> <5:patient:sf>
+  Der Arzt rettete das Leben des Patienten. <3:doctor:sm> <3:patient:patient:sm>
+    Der Arzt rettete das Leben der Patientin. <3:sdoctor:m> <3:patient:sf>
+    Die Ärztin rettete das Leben des Patienten. <3:doctor:sf> <3:patient:sm>
+    Die Ärztin rettete das Leben der Patientin. <3:doctor:sf> <3:patient:sf>
 The nurse saved the patient's live.
-  Die Krankenschwester rettete dem Patienten das Leben. <3:nurse:sf> <4:patient:sm>
-    Der Krankenpfleger rettete dem Patient das Leben. <3:nurse:sm> <4:patient:sm>
-    Der Krankenpfleger rettete der Patientin das Leben. <3:nurse:sm> <4:patient:sf>
-    Die Krankenschwester rettete der Patientin das Leben. <3:nurse:sf> <4:patient:sf>
+  Die Krankenschwester rettete dem Patienten das Leben. <3:nurse:sf> <3:patient:sm>
+    Der Krankenpfleger rettete dem Patient das Leben. <3:nurse:sm> <3:patient:sm>
+    Der Krankenpfleger rettete der Patientin das Leben. <3:nurse:sm> <3:patient:sf>
+    Die Krankenschwester rettete der Patientin das Leben. <3:nurse:sf> <3:patient:sf>
 The nurse saved the patient's live.
-  Die Krankenschwester rettete das Leben des Patienten. <3:nurse:sf> <5:patient:sm>
-    Der Krankenpfleger rettete das Leben des Patienten. <3:nurse:sm> <5:patient:sm>
-    Der Krankenpfleger rettete das Leben der Patientin. <3:nurse:sm> <5:patient:sf>
-    Die Krankenschwester rettete das Leben der Patientin. <3:nurse:sf> <5:patient:sf>
+  Die Krankenschwester rettete das Leben des Patienten. <3:nurse:sf> <3:patient:sm>
+    Der Krankenpfleger rettete das Leben des Patienten. <3:nurse:sm> <3:patient:sm>
+    Der Krankenpfleger rettete das Leben der Patientin. <3:nurse:sm> <3:patient:sf>
+    Die Krankenschwester rettete das Leben der Patientin. <3:nurse:sf> <3:patient:sf>
 The soldier returned home.
   Der Soldat kehrte nach Hause zurück. <3:soldier:sm>
     Die Soldatin kehrte nach Hause zurück. <3:soldier:sf>

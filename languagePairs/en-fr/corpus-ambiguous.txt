@@ -1012,11 +1012,11 @@ What is the new teacher's name?
   Comment s'appelle le nouveau professeur ? <3:teacher:sm>
     Comment s'appelle la nouvelle professeure ? <3:teacher:sf>
 What is the new teacher's name?
-  Quel est le nom du nouveau professeur ? <4:teacher:sm>
-    Quel est le nom de la nouvelle professeure ? <4:teacher:sf>
+  Quel est le nom du nouveau professeur ? <3:teacher:sm>
+    Quel est le nom de la nouvelle professeure ? <3:teacher:sf>
 What is the new teacher's name?
-  Quel est le nom du nouvel enseignant? <4:teacher:sm>
-    Quel est le nom de la nouvel enseignante? <4:teacher:sf>
+  Quel est le nom du nouvel enseignant? <3:teacher:sm>
+    Quel est le nom de la nouvel enseignante? <3:teacher:sf>
 How do you like your new teacher?
   Comment trouvez-vous votre nouveau professeur ? <2:vs> <3:teacher:sm>
   Comment trouves-tu ton nouveau professeur ? <2:ts> <3:teacher:sm>
