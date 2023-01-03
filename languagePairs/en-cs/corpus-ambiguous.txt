@@ -10,53 +10,38 @@ He gave it to you.
 You are never happy.
   Nikdy nejsi šťastný. <2:tsm>
     Nikdy nejseš šťastná. <2:tsf>
-    Nikdy nejseš šťastný/á. <2:tsb>
     Nikdy nejste šťastný. <2:vsm>
     Nikdy nejste šťastná. <2:vsf>
-    Nikdy nejste šťastný/á. <2:vsb>
     Nikdy nejste šťastní. <2:pm>
     Nikdy nejste šťastné. <2:pf>
-    Nikdy nejste šťastní/é. <2:pb>
 You are never happy.
   Nikdy nejste šťastní. <2:pm>
     Nikdy nejseš šťastný. <2:tsm>
     Nikdy nejseš šťastná. <2:tsf>
-    Nikdy nejseš šťastný/á. <2:tsb>
     Nikdy nejste šťastný. <2:vsm>
     Nikdy nejste šťastná. <2:vsf>
-    Nikdy nejste šťastný/á. <2:vsb>
     Nikdy nejste šťastné. <2:pf>
-    Nikdy nejste šťastní/é. <2:pb>
 You wouldn't understand.
   Ty bys to nepochopil. <2:tsm>
     Ty bys to nepochopila. <2:tsf>
-    Ty bys to nepochopil/a. <2:tsb>
     Vy byste to nepochopil. <2:vsm>
     Vy byste to nepochopila. <2:vsf>
-    Vy byste to nepochopil/a. <2:vsb>
     Vy byste to nepochopili. <2:pm>
     Vy byste to nepochopily. <2:pf>
-    Vy byste to nepochopili/y. <2:pb>
 You wouldn't understand.
   Nepochopil bys to. <2:tsm>
     Nepochopila bys to. <2:tsf>
-    Nepochopil/a bys to. <2:tsb>
     Nepochopil byste to. <2:vsm>
     Nepochopila byste to. <2:vsf>
-    Nepochopil/a byste to. <2:vsb>
     Nepochopili byste to. <2:pm>
     Nepochopily byste to. <2:pf>
-    Nepochopili/y byste to. <2:pb>
 You wouldn't understand.
   To byste nepochopili. <2:pm>
     To bys nepochopil. <2:tsm>
     To bys nepochopila. <2:tsf>
-    To bys nepochopil/a. <2:tsb>
     To byste nepochopil. <2:vsm>
     To byste nepochopila. <2:vsf>
-    To byste nepochopil/a. <2:vsb>
     To byste nepochopily. <2:pf>
-    To byste nepochopili/y. <2:pb>
 Watch out!
   Dávej si pozor! <2:ts>
     Dávejte si pozor! <2:vs|p>
@@ -80,8 +65,6 @@ I have written to you.
     Napsal jsem ti. <1:sm> <2:ts>
     Napsala jsem ti. <1:sf> <2:ts>
     Napsala jsem vám. <1:sf> <2:vs|p>
-    Napsal/a jsem ti. <1:sb> <2:ts>
-    Napsal/a jsem vám. <1:sb> <2:vs|p>
 Who told you?
   Kdo vám to řekl? <2:vs|p>
     Kdo ti to řekl? <2:ts>
@@ -109,43 +92,31 @@ Will you introduce me to them?
 Did you see them there?
   Viděl jsi je tam? <2:tsm>
     Viděla jsi je tam? <2:tsf>
-    Viděl/a jsi je tam? <2:tsb>
     Viděl jste je tam? <2:vsm>
     Viděla jste je tam? <2:vsf>
-    Viděl/a jste je tam? <2:vsb>
     Viděli jste je tam? <2:pm>
     Viděly jste je tam? <2:pf>
-    Viděli/y jste je tam? <2:pb>
 Did you see them there?
   Viděli jste je tam? <2:pm>
     Viděl jsi je tam? <2:tsm>
     Viděla jsi je tam? <2:tsf>
-    Viděl/a jsi je tam? <2:tsb>
     Viděl jste je tam? <2:vsm>
     Viděla jste je tam? <2:vsf>
-    Viděl/a jste je tam? <2:vsb>
     Viděly jste je tam? <2:pf>
-    Viděli/y jste je tam? <2:pb>
 Did you see them there?
   Viděl jste je tam? <2:vsm>
     Viděl jsi je tam? <2:tsm>
     Viděla jsi je tam? <2:tsf>
-    Viděl/a jsi je tam? <2:tsb>
     Viděla jste je tam? <2:vsf>
-    Viděl/a jste je tam? <2:vsb>
     Viděli jste je tam? <2:pm>
     Viděly jste je tam? <2:pf>
-    Viděli/y jste je tam? <2:pb>
 Have you found them yet?
   Už jste je našli? <2:pm>
     Už jsi je našel? <2:tsm>
     Už jsi je našla? <2:tsf>
-    Už jsi je našel/la? <2:tsb>
     Už jste je našel? <2:vsm>
     Už jste je našla? <2:vsf>
-    Už jste je našel/la? <2:vsb>
     Už jste je našly? <2:pf>
-    Už jste je našli/y? <2:pb>
 Do you know her?
   Znáte ji? <2:vs|p>
     Znáš ji? <2:ts>
@@ -181,8 +152,6 @@ Nice to meet you.
     Rád tě poznávám. <1:sm> <2:ts>
     Ráda tě poznávám. <1:sf> <2:ts>
     Ráda vás poznávám. <1:sf> <2:vs|p>
-    Rád/a tě poznávám. <1:sb> <2:ts>
-    Rád/a vás poznávám. <1:sb> <2:vs|p>
 Nice to meet you.
   Těší mě, že vás poznávám. <2:vs|p>
     Těší mě, že tě poznávám. <2:ts>
@@ -198,36 +167,27 @@ How are you doing?
 How was your day?
   Jaký jsi měl den? <2:tsm>
     Jaký jsi měla den? <2:tsf>
-    Jaký jsi měl/a den? <2:tsb>
     Jaký jste měl den? <2:vsm>
     Jaký jste měla den? <2:vsf>
-    Jaký jste měl/a den? <2:vsb>
     Jaký jste měli den? <2:pm>
     Jaký jste měly den? <2:pf>
-    Jaký jste měli/y den? <2:pb>
 How was your day?
   Jaký byl váš den? <2:vs|p>
     Jaký byl tvůj den? <2:ts>
 How was your day?
   Jak ses dnes měl? <2:tsm>
     Jak ses dnes měla? <2:tsf>
-    Jak ses dnes měl/a? <2:tsb>
     Jak jste se dnes měl? <2:vsm>
     Jak jste se dnes měla? <2:vsf>
-    Jak jste se dnes měl/a? <2:vsb>
     Jak jste se dnes měli? <2:pm>
     Jak jste se dnes měly? <2:pf>
-    Jak jste se dnes měli/y? <2:pb>
 Are you having a good day?
   Měl jsi dobrý den? <2:tsm>
     Měla jsi dobrý den? <2:tsf>
-    Měl/a jsi dobrý den? <2:tsb>
     Měl jste dobrý den? <2:vsm>
     Měla jste dobrý den? <2:vsf>
-    Měl/a jste dobrý den? <2:vsb>
     Měli jste dobrý den? <2:pm>
     Měly jste dobrý den? <2:pf>
-    Měli/y jste dobrý den? <2:pb>
 Are you having a good day?
   Máte dobrý den? <2:vs|p>
     Máš dobrý den? <2:ts>
@@ -278,23 +238,17 @@ What are you doing?
 Where have you been?
   Kde jsi byl? <2:tsm>
     Kde jsi byla? <2:tsf>
-    Kde jsi byl/a? <2:tsb>
     Kde jste byl? <2:vsm>
     Kde jste byla? <2:vsf>
-    Kde jste byl/a? <2:vsb>
     Kde jste byli? <2:pm>
     Kde jste byly? <2:pf>
-    Kde jste byli/y? <2:pb>
 Who were you with?
   S kým jste byli? <2:pm>
   S kým jsi byl? <2:tsm>
   S kým jste byl? <2:vsm>
     S kým jsi byla? <2:tsf>
-    S kým jsi byl/a? <2:tsb>
     S kým jste byla? <2:vsf>
-    S kým jste byl/a? <2:vsb>
     S kým jste byly? <2:pf>
-    S kým jste byli/y? <2:pb>
 Who was with you?
   Kdo byl s tebou? <2:ts>
   Kdo byl s vámi? <2:vs|p>
@@ -321,21 +275,16 @@ I like you.
     Mám vás rád. <1:sm> <2:vs|p>
     Mám tě ráda. <1:sf> <2:ts>
     Mám vás ráda. <1:sf> <2:vs|p>
-    Mám tě rád/a. <1:sb> <2:ts>
-    Mám vás rád/a. <1:sb> <2:vs|p>
 I want you.
   Chci vás. <2:vs|p>
   Chci tě. <2:ts>
 You are so beautiful!
   Jsi tak krásná! <2:tsf>
     Jseš tak krásný! <2:tsm>
-    Jseš tak krásný/á! <2:tsb>
     Jste tak krásný! <2:vsm>
     Jste tak krásná! <2:vsf>
-    Jste tak krásný/á! <2:vsb>
     Jste tak krásní! <2:pm>
     Jste tak krásné! <2:pf>
-    Jste tak krásní/é! <2:pb>
 You are so beautiful!
   Moc ti to sluší! <2:ts>
     Moc vám to sluší! <2:vs|p>
@@ -347,8 +296,6 @@ I love you too.
     Já vás mám taky rád. <1:sm> <2:vs|p>
     Já tě mám taky ráda. <1:sf> <2:ts>
     Já vás mám taky ráda. <1:sf> <2:vs|p>
-    Já tě mám taky rád/a. <1:sb> <2:ts>
-    Já vás mám taky rád/a. <1:sb> <2:vs|p>
 I miss you too.
   Taky mi chybíš. <2:ts>
     Taky mi chybíte. <2:vs|p>
@@ -407,12 +354,9 @@ Please call a taxi for me.
   Mohli byste mi zavolat taxi? <2:pm>
     Mohl bys mi zavolat taxi? <2:tsm>
     Mohla bys mi zavolat taxi? <2:tsf>
-    Mohl/a bys mi zavolat taxi? <2:tsb>
     Mohl byste mi zavolat taxi? <2:vsm>
     Mohla byste mi zavolat taxi? <2:vsf>
-    Mohl/a byste mi zavolat taxi? <2:vsb>
     Mohly byste mi zavolat taxi? <2:pf>
-    Mohli/y byste mi zavolat taxi? <2:pb>
 Do you have a vacancy?
   Máte volné místo? <2:vs|p>
     Máš volné místo? <2:ts>
@@ -430,11 +374,8 @@ When did you last eat?
   Kdy jste naposledy jedl? <2:vsm>
   Kdy jste naposledy jedli? <2:pm>
     Kdy jsi naposledy jedla? <2:tsf>
-    Kdy jsi naposledy jedl/a? <2:tsb>
     Kdy jste naposledy jedla? <2:vsf>
-    Kdy jste naposledy jedl/a? <2:vsb>
     Kdy jste naposledy jedly? <2:pf>
-    Kdy jste naposledy jedli/y? <2:pb>
 Can you point to where it hurts?
   Můžeš ukázat, kde to bolí? <2:ts>
   Můžete ukázat, kde to bolí? <2:vs|p>
@@ -475,33 +416,24 @@ Are you taking any medication?
 Did you bring your laptop?
   Přinesl sis notebook? <2:tsm>
     Přinesla sis notebook? <2:tsf>
-    Přinesl/a sis notebook? <2:tsb>
     Přinesl jste si notebook? <2:vsm>
     Přinesla jste si notebook? <2:vsf>
-    Přinesl/a jste si notebook? <2:vsb>
     Přinesli jste si notebook? <2:pm>
     Přinesly jste si notebook? <2:pf>
-    Přinesli/y jste si notebook? <2:pb>
 Did you bring your laptop?
   Vzal sis s sebou notebook? <2:tsm>
     Vzala sis s sebou notebook? <2:tsf>
-    Vzal/a sis s sebou notebook? <2:tsb>
     Vzal jste si s sebou notebook? <2:vsm>
     Vzala jste si s sebou notebook? <2:vsf>
-    Vzal/a jste si s sebou notebook? <2:vsb>
     Vzali jste si s sebou notebook? <2:pm>
     Vzaly jste si s sebou notebook? <2:pf>
-    Vzali/y jste si s sebou notebook? <2:pb>
 Did you bring your laptop?
   Přinesli jste si notebook? <2:pm>
     Přinesl sis notebook? <2:tsm>
     Přinesla sis notebook? <2:tsf>
-    Přinesl/a sis notebook? <2:tsb>
     Přinesl jste si notebook? <2:vsm>
     Přinesla jste si notebook? <2:vsf>
-    Přinesl/a jste si notebook? <2:vsb>
     Přinesly jste si notebook? <2:pf>
-    Přinesli/y jste si notebook? <2:pb>
 Do you have a computer at home?
   Máte doma počítač? <2:vs|p>
     Máš doma počítač? <2:ts>
@@ -511,33 +443,24 @@ Do you have a printer?
 Could you take a photo?
   Mohl bys udělat fotku? <2:tsm>
     Mohla bys udělat fotku? <2:tsf>
-    Mohl/a bys udělat fotku? <2:tsb>
     Mohl byste udělat fotku? <2:vsm>
     Mohla byste udělat fotku? <2:vsf>
-    Mohl/a byste udělat fotku? <2:vsb>
     Mohli byste udělat fotku? <2:pm>
     Mohly byste udělat fotku? <2:pf>
-    Mohli/y byste udělat fotku? <2:pb>
 Could you take a photo?
   Mohl byste pořídit fotografii? <2:vsm>
     Mohl bys pořídit fotografii? <2:tsm>
     Mohla bys pořídit fotografii? <2:tsf>
-    Mohl/a bys pořídit fotografii? <2:tsb>
     Mohla byste pořídit fotografii? <2:vsf>
-    Mohl/a byste pořídit fotografii? <2:vsb>
     Mohli byste pořídit fotografii? <2:pm>
     Mohly byste pořídit fotografii? <2:pf>
-    Mohli/y byste pořídit fotografii? <2:pb>
 Could you take a photo?
   Mohli byste mě vyfotografovat? <2:pm>
     Mohl bys mě vyfotografovat? <2:tsm>
     Mohla bys mě vyfotografovat? <2:tsf>
-    Mohl/a bys mě vyfotografovat? <2:tsb>
     Mohl byste mě vyfotografovat? <2:vsm>
     Mohla byste mě vyfotografovat? <2:vsf>
-    Mohl/a byste mě vyfotografovat? <2:vsb>
     Mohly byste mě vyfotografovat? <2:pf>
-    Mohli/y byste mě vyfotografovat? <2:pb>
 What is your phone number?
   Jaké máte telefonní číslo? <2:vs|p>
     Jaké máš telefonní číslo? <2:ts>
@@ -559,13 +482,10 @@ Can you email it to me?
 Can you email it to me?
   Mohl bys mi to poslat e-mailem? <2:tsm>
     Mohla bys mi to poslat e-mailem? <2:tsf>
-    Mohl/a bys mi to poslat e-mailem? <2:tsb>
     Mohl byste mi to poslat e-mailem? <2:vsm>
     Mohla byste mi to poslat e-mailem? <2:vsf>
-    Mohl/a byste mi to poslat e-mailem? <2:vsb>
     Mohli byste mi to poslat e-mailem? <2:pm>
     Mohly byste mi to poslat e-mailem? <2:pf>
-    Mohli/y byste mi to poslat e-mailem? <2:pb>
 I'll send you a text.
   Pošlu vám SMS. <2:vs|p>
     Pošlu ti SMS. <2:ts>
@@ -582,12 +502,9 @@ Can you text it to me?
   Mohli byste mi poslat zprávu s informacemi? <2:pm>
     Mohl bys mi poslat zprávu s informacemi? <2:tsm>
     Mohla bys mi poslat zprávu s informacemi? <2:tsf>
-    Mohl/a bys mi poslat zprávu s informacemi? <2:tsb>
     Mohl byste mi poslat zprávu s informacemi? <2:vsm>
     Mohla byste mi poslat zprávu s informacemi? <2:vsf>
-    Mohl/a byste mi poslat zprávu s informacemi? <2:vsb>
     Mohly byste mi poslat zprávu s informacemi? <2:pf>
-    Mohli/y byste mi poslat zprávu s informacemi? <2:pb>
 Can you text me your contact information?
   Můžete mi napsat své kontaktní údaje? <2:vs|p>
     Můžeš mi napsat své kontaktní údaje? <2:ts>
@@ -595,144 +512,108 @@ Can you text me your contact information?
   Mohli byste mi odeslat zprávu s kontaktními údaji? <2:pm>
     Mohl bys mi odeslat zprávu s kontaktními údaji? <2:tsm>
     Mohla bys mi odeslat zprávu s kontaktními údaji? <2:tsf>
-    Mohl/a bys mi odeslat zprávu s kontaktními údaji? <2:tsb>
     Mohl byste mi odeslat zprávu s kontaktními údaji? <2:vsm>
     Mohla byste mi odeslat zprávu s kontaktními údaji? <2:vsf>
-    Mohl/a byste mi odeslat zprávu s kontaktními údaji? <2:vsb>
     Mohly byste mi odeslat zprávu s kontaktními údaji? <2:pf>
-    Mohli/y byste mi odeslat zprávu s kontaktními údaji? <2:pb>
 I would like a ticket.
   Chtěl bych lístek. <1:sm>
     Chtěla bych lístek. <1:sf>
-    Chtěl/a bych lístek. <1:sb>
 I would like a ticket.
   Chtěl bych jízdenku. <1:sm>
     Chtěla bych jízdenku. <1:sf>
-    Chtěl/a bych jízdenku. <1:sb>
 I would like to change my ticket.
   Rád bych si změnil lístek. <1:sm>
     Ráda bych si změnila lístek. <1:sf>
-    Rád/a bych si změnil/a lístek. <1:sb>
 I would like to change my ticket.
   Rád bych si změnil letenku. <1:sm>
     Ráda bych si změnila letenku. <1:sf>
-    Rád/a bych si změnil/a letenku. <1:sb>
 I would like to change my ticket.
   Chtěl bych vyměnit svůj lístek. <1:sm>
     Chtěla bych vyměnit svůj lístek. <1:sf>
-    Chtěl/a bych vyměnit svůj lístek. <1:sb>
 I would like to make a reservation.
   Chtěl bych provést rezervaci. <1:sm>
     Chtěla bych provést rezervaci. <1:sf>
-    Chtěl/a bych provést rezervaci. <1:sb>
 I would like to make a reservation.
   Rád bych si rezervoval ubytování. <1:sm>
     Ráda bych si rezervovala ubytování. <1:sf>
-    Rád/a bych si rezervoval/a ubytování. <1:sb>
 I would like to make a reservation.
   Chtěl bych udělat rezervaci. <1:sm>
     Chtěla bych udělat rezervaci. <1:sf>
-    Chtěl/a bych udělat rezervaci. <1:sb>
 I would like a room.
   Chtěl bych pokoj. <1:sm>
     Chtěla bych pokoj. <1:sf>
-    Chtěl/a bych pokoj. <1:sb>
 I would like a room.
   Přál bych si pokoj. <1:sm>
     Přála bych si pokoj. <1:sf>
-    Přál/a bych si pokoj. <1:sb>
 I would like some water.
   Chtěl bych trochu vody. <1:sm>
     Chtěla bych trochu vody. <1:sf>
-    Chtěl/a bych trochu vody. <1:sb>
 I'd like to change money.
   Chtěl bych vyměnit peníze. <1:sm>
     Chtěla bych vyměnit peníze. <1:sf>
-    Chtěl/a bych vyměnit peníze. <1:sb>
 I'd like to change money.
   Rád bych si vyměnil peníze. <1:sm>
     Ráda bych si vyměnila peníze. <1:sf>
-    Rád/a bych si vyměnil/a peníze. <1:sb>
 I would like to pay.
   Chtěl bych zaplatit. <1:sm>
     Chtěla bych zaplatit. <1:sf>
-    Chtěl/a bych zaplatit. <1:sb>
 I would like to pay.
   Rád bych zaplatil. <1:sm>
     Ráda bych zaplatila. <1:sf>
-    Rád/a bych zaplatil/a. <1:sb>
 I'm allergic to milk.
   Jsem alergická na mléko. <1:sf>
   Jsem alergický na mléko. <1:sm>
-    Jsem alergický/á na mléko. <1:sb>
 I'm allergic to peanuts.
   Jsem alergický na arašídy. <1:sm>
     Jsem alergická na arašídy. <1:sf>
-    Jsem alergický/á na arašídy. <1:sb>
 I'm allergic to peanuts.
   Jsem alergický na buráky. <1:sm>
     Jsem alergická na buráky. <1:sf>
-    Jsem alergický/á na buráky. <1:sb>
 I was in an accident.
   Měl jsem nehodu. <1:sm>
     Měla jsem nehodu. <1:sf>
-    Měl/a jsem nehodu. <1:sb>
 I hit my head.
   Uhodil jsem se do hlavy. <1:sm>
     Uhodila jsem se do hlavy. <1:sf>
-    Uhodil/a jsem se do hlavy. <1:sb>
 I hit my head.
   Praštil jsem se do hlavy. <1:sm>
     Praštila jsem se do hlavy. <1:sf>
-    Praštil/a jsem se do hlavy. <1:sb>
 I hit my head.
   Udeřil jsem se do hlavy. <1:sm>
     Udeřila jsem se do hlavy. <1:sf>
-    Udeřil/a jsem se do hlavy. <1:sb>
 I fell.
   Upadl jsem. <1:sm>
     Upadla jsem. <1:sf>
-    Upadl/a jsem. <1:sb>
 I fell.
   Spadnul jsem. <1:sm>
     Spadnula jsem. <1:sf>
-    Spadnul/a jsem. <1:sb>
 I fell.
   Spadl jsem. <1:sm>
     Spadla jsem. <1:sf>
-    Spadl/a jsem. <1:sb>
 I have cut my finger.
   Pořezal jsem si prst. <1:sm>
     Pořezala jsem si prst. <1:sf>
-    Pořezal/a jsem si prst. <1:sb>
 I have cut my finger.
   Říznul jsem se do prstu. <1:sm>
     Říznula jsem se do prstu. <1:sf>
-    Říznul/a jsem se do prstu. <1:sb>
 I have cut my finger.
   Řízl jsem se do prstu. <1:sm>
     Řízla jsem se do prstu. <1:sf>
-    Řízl/a jsem se do prstu. <1:sb>
 I'm sick.
   Jsem nemocný. <1:sm>
     Jsem nemocná. <1:sf>
-    Jsem nemocný/á. <1:sb>
 I lost my laptop.
   Ztratil jsem notebook. <1:sm>
     Ztratila jsem notebook. <1:sf>
-    Ztratil/a jsem notebook. <1:sb>
 I lost my laptop.
   Ztratil jsem laptop. <1:sm>
     Ztratila jsem laptop. <1:sf>
-    Ztratil/a jsem laptop. <1:sb>
 I would like to buy a SIM card.
   Chtěl bych si koupit SIM kartu. <1:sm>
     Chtěla bych si koupit SIM kartu. <1:sf>
-    Chtěl/a bych si koupit SIM kartu. <1:sb>
 I would like to buy a SIM card.
   Rád bych si koupil kartu SIM. <1:sm>
     Ráda bych si koupila kartu SIM. <1:sf>
-    Rád/a bych si koupil/a kartu SIM. <1:sb>
 Are you from here?
   Jsi odtud? <2:ts>
   Jste odtud? <2:vs|p>
@@ -760,29 +641,22 @@ You're fired.
 I had no idea.
   To jsem netušil. <1:sm>
     To jsem netušila. <1:sf>
-    To jsem netušil/a. <1:sb>
 I had no idea.
   Neměl jsem tušení. <1:sm>
     Neměla jsem tušení. <1:sf>
-    Neměl/a jsem tušení. <1:sb>
 I didn't know.
   Nevěděl jsem. <1:sm>
     Nevěděla jsem. <1:sf>
-    Nevěděl/a jsem. <1:sb>
 I didn't know.
   To jsem nevěděl. <1:sm>
     To jsem nevěděla. <1:sf>
-    To jsem nevěděl/a. <1:sb>
 Why did you do it?
   Proč jsi to udělal? <2:tsm>
   Proč jste to udělal? <2:vsm>
   Proč jste to udělali? <2:pm>
     Proč jsi to udělala? <2:tsf>
-    Proč jsi to udělal/a? <2:tsb>
     Proč jste to udělala? <2:vsf>
-    Proč jste to udělal/a? <2:vsb>
     Proč jste to udělaly? <2:pf>
-    Proč jste to udělali/y? <2:pb>
 Do you have anything to say?
   Máte co říct? <2:vs|p>
     Máš co říct? <2:ts>
@@ -809,91 +683,69 @@ I warned you.
   Varoval jsem vás. <1:sm> <2:vs|p>
     Varovala jsem tě. <1:sf> <2:ts>
     Varovala jsem vás. <1:sf> <2:vs|p>
-    Varoval/a jsem tě. <1:sb> <2:ts>
-    Varoval/a jsem vás. <1:sb> <2:vs|p>
 What did I say?
   Co jsem řekl? <1:sm>
     Co jsem řekla? <1:sf>
-    Co jsem řekl/a? <1:sb>
 What did I say?
   Co jsem říkal? <1:sm>
     Co jsem říkala? <1:sf>
-    Co jsem říkal/a? <1:sb>
 What did you say?
   Co jsi říkal? <2:tsm>
     Co jsi říkala? <2:tsf>
-    Co jsi říkal/a? <2:tsb>
     Co jste říkal? <2:vsm>
     Co jste říkala? <2:vsf>
-    Co jste říkal/a? <2:vsb>
     Co jste říkali? <2:pm>
     Co jste říkaly? <2:pf>
-    Co jste říkali/y? <2:pb>
 What did you say?
   Co povídáš? <2:ts>
     Co povídáte? <2:vs|p>
 I wouldn't recommend it.
   Nedoporučoval bych to. <1:sm>
     Nedoporučovala bych to. <1:sf>
-    Nedoporučoval/a bych to. <1:sb>
 What do you recommend?
   Co doporučuješ? <2:ts>
   Co doporučujete? <2:vs|p>
 We should go to bed.
   Měli bychom jít spát. <1:pm>
     Měly bychom jít spát. <1:pf>
-    Měli/y bychom jít spát. <1:pb>
 I got up late.
   Vstal jsem pozdě. <1:sm>
   Vstala jsem pozdě. <1:sf>
-    Vstal/a jsem pozdě. <1:sb>
 I got up late.
   Vstával jsem pozdě. <1:sm>
     Vstávala jsem pozdě. <1:sf>
-    Vstával/a jsem pozdě. <1:sb>
 I got up early this morning.
   Dnes ráno jsem vstal brzy. <1:sm>
   Dnes ráno jsem vstala brzy. <1:sf>
-    Dnes ráno jsem vstal/a brzy. <1:sb>
 I was watching a video.
   Díval jsem se na video. <1:sm>
     Dívala jsem se na video. <1:sf>
-    Díval/a jsem se na video. <1:sb>
 I was reading a magazine.
   Četl jsem časopis. <1:sm>
     Čtla jsem časopis. <1:sf>
-    Četl/čtla jsem časopis. <1:sb>
 I was reading a magazine.
   Četl jsem si časopis. <1:sm>
     Čtla jsem si časopis. <1:sf>
-    Četl/čtla jsem si časopis. <1:sb>
 I was listening to a podcast.
   Poslouchal jsem podcast. <1:sm>
     Poslouchala jsem podcast. <1:sf>
-    Poslouchal/a jsem podcast. <1:sb>
 I was watching TV.
   Díval jsem se na televizi. <1:sm>
     Dívala jsem se na televizi. <1:sf>
-    Díval/a jsem se na televizi. <1:sb>
 I have heard of it.
   Slyšel jsem o tom. <1:sm>
     Slyšela jsem o tom. <1:sf>
-    Slyšel/a jsem o tom. <1:sb>
 I have heard of you.
   Slyšel jsem o vás. <1:sm> <2:vs|p>
     Slyšel jsem o tobě. <1:sm> <2:ts>
     Slyšela jsem o tobě. <1:sf> <2:ts>
     Slyšela jsem o vás. <1:sf> <2:vs|p>
-    Slyšel/a jsem o tobě. <1:sb> <2:ts>
-    Slyšel/a jsem o vás. <1:sb> <2:vs|p>
 I have never heard of it.
   Nikdy jsem o tom neslyšel. <1:sm>
     Nikdy jsem o tom neslyšela. <1:sf>
-    Nikdy jsem o tom neslyšel/a. <1:sb>
 I have never seen it.
   Nikdy jsem to neviděl. <1:sm>
     Nikdy jsem to neviděla. <1:sf>
-    Nikdy jsem to neviděl/a. <1:sb>
 You need to try harder.
   Musíte se více snažit. <2:vs|p>
     Musíš se více snažit. <2:ts>
@@ -903,7 +755,6 @@ Say hello to your mother for me.
 Long time no see!
   Dlouho jsme se neviděli! <1:pm>
     Dlouho jsme se neviděly! <1:pf>
-    Dlouho jsme se neviděli/y! <1:pb>
 What are you doing here?
   Co tu děláš? <2:ts>
     Co tu děláte? <2:vs|p>
@@ -915,8 +766,6 @@ Fancy meeting you here!
   Ráda tě tu potkávám! <1:sf> <2:ts>
     Rád tě tu potkávám! <1:sm> <2:ts>
     Ráda vás tu potkávám! <1:sf> <2:vs|p>
-    Rád/a tě tu potkávám! <1:sb> <2:ts>
-    Rád/a vás tu potkávám! <1:sb> <2:vs|p>
 Can I get you a drink?
   Můžu ti dát drink? <2:ts>
     Můžu vám dát drink? <2:vs|p>
@@ -929,13 +778,10 @@ Can I get you a drink?
 You are so tall!
   Jsi tak vysoký! <2:tsm>
     Jseš tak vysoká! <2:tsf>
-    Jseš tak vysoký/á! <2:tsb>
     Jste tak vysoký! <2:vsm>
     Jste tak vysoká! <2:vsf>
-    Jste tak vysoký/á! <2:vsb>
     Jste tak vysocí! <2:pm>
     Jste tak vysoké! <2:pf>
-    Jste tak vysocí/ké! <2:pb>
 Call me when you're ready.
   Zavolejte mi, až budete připraveni. <2:vs>
     Zavolej mi, až jsi připraveni. <2:ts>
@@ -943,78 +789,56 @@ Call me when you're ready.
 I am not ready yet.
   Ještě nejsem připraven. <1:sm>
   Ještě nejsem připravena. <1:sf>
-  Ještě nejsem připraven/a. <1:sb>
 When will you be finished?
   Kdy budete hotovi? <2:pm>
     Kdy budeš hotov? <2:tsm>
     Kdy budeš hotova? <2:tsf>
-    Kdy budeš hotov/a? <2:tsb>
     Kdy budete hotov? <2:vsm>
     Kdy budete hotova? <2:vsf>
-    Kdy budete hotov/a? <2:vsb>
     Kdy budete hotovy? <2:pf>
-    Kdy budete hotovi/y? <2:pb>
 Did you call me?
   Volal jsi mi? <2:tsm>
     Volala jsi mi? <2:tsf>
-    Volal/a jsi mi? <2:tsb>
     Volal jste mi? <2:vsm>
     Volala jste mi? <2:vsf>
-    Volal/a jste mi? <2:vsb>
     Volali jste mi? <2:pm>
     Volaly jste mi? <2:pf>
-    Volali/y jste mi? <2:pb>
 Did you call me?
   Zavolal jsi mi? <2:tsm>
     Zavolala jsi mi? <2:tsf>
-    Zavolal/a jsi mi? <2:tsb>
     Zavolal jste mi? <2:vsm>
     Zavolala jste mi? <2:vsf>
-    Zavolal/a jste mi? <2:vsb>
     Zavolali jste mi? <2:pm>
     Zavolaly jste mi? <2:pf>
-    Zavolali/y jste mi? <2:pb>
 Have you voted yet?
   Už jste hlasovali? <2:pm>
     Už jsi hlasoval? <2:tsm>
     Už jsi hlasovala? <2:tsf>
-    Už jsi hlasoval/a? <2:tsb>
     Už jste hlasoval? <2:vsm>
     Už jste hlasovala? <2:vsf>
-    Už jste hlasoval/a? <2:vsb>
     Už jste hlasovaly? <2:pf>
-    Už jste hlasovali/y? <2:pb>
 I'm not as rich as you think.
   Nejsem tak bohatý, jak si myslíš. <1:sm> <2:ts>
   Nejsem tak bohatý, jak si myslíte. <1:sm> <2:vs|p>
     Nejsem tak bohatá, jak si myslíš. <1:sf> <2:ts>
     Nejsem tak bohatá, jak si myslíte. <1:sf> <2:vs|p>
-    Nejsem tak bohatý/á, jak si myslíš. <1:sb> <2:ts>
-    Nejsem tak bohatý/á, jak si myslíte. <1:sb> <2:vs|p>
 You are so clever!
   Jste tak šikovní! <2:pm>
     Jseš tak šikovný! <2:tsm>
     Jseš tak šikovná! <2:tsf>
-    Jseš tak šikovný/á! <2:tsb>
     Jste tak šikovný! <2:vsm>
     Jste tak šikovná! <2:vsf>
-    Jste tak šikovný/á! <2:vsb>
     Jste tak šikovné! <2:pf>
-    Jste tak šikovní/é! <2:pb>
 You are so clever!
   Jsi tak chytrý! <2:tsm>
     Jseš tak chytrá! <2:tsf>
-    Jseš tak chytrý/á! <2:tsb>
     Jste tak chytrý! <2:vsm>
     Jste tak chytrá! <2:vsf>
-    Jste tak chytrý/á! <2:vsb>
     Jste tak chytří! <2:pm>
     Jste tak chytré! <2:pf>
-    Jste tak chytří/ré! <2:pb>
 Where did I leave my glasses?
   Kde jsem nechal brýle? <1:sm>
     Kde jsem nechala brýle? <1:sf>
-    Kde jsem nechal/a brýle? <1:sb>
 I like your hair.
   Líbí se mi vaše vlasy. <2:vs|p>
   Líbí se mi tvoje vlasy. <2:ts>
@@ -1033,13 +857,10 @@ Don't worry!
 Are you scared?
   Jsi vyděšený? <2:tsm>
     Jsi vyděšená? <2:tsf>
-    Jsi vyděšený/á? <2:tsb>
     Jste vyděšený? <2:vsm>
     Jste vyděšená? <2:vsf>
-    Jste vyděšený/á? <2:vsb>
     Jste vyděšení? <2:pm>
     Jste vyděšené? <2:pf>
-    Jste vyděšení/é? <2:pb>
 Are you scared?
   Máte strach? <2:vs|p>
     Máš strach? <2:ts>
@@ -1049,30 +870,24 @@ Are you scared?
 What have I done?
   Co jsem udělal? <1:sm>
     Co jsem udělala? <1:sf>
-    Co jsem udělal/a? <1:sb>
 Are you on the train?
   Jste ve vlaku? <2:vs|p>
     Jseš v vlaku? <2:ts>
 They have already left.
   Už odešli. <3:pm>
     Už odešly. <3:pf>
-    Už odešli/y. <3:pb>
 I called them several times.
   Volal jsem jim několikrát. <1:sm>
     Volala jsem jim několikrát. <1:sf>
-    Volal/a jsem jim několikrát. <1:sb>
 I called them several times.
   Několikrát jsem jim volal. <1:sm>
     Několikrát jsem jim volala. <1:sf>
-    Několikrát jsem jim volal/a. <1:sb>
 The house was empty when I got home.
   Když jsem se vrátil domů, dům byl prázdný. <1:sm>
     Když jsem se vrátila domů, dům byl prázdný. <1:sf>
-    Když jsem se vrátil/a domů, dům byl prázdný. <1:sb>
 The house was empty when I got home.
   Když jsem přišel domů, byl dům prázdný. <1:sm>
     Když jsem přišla domů, byl dům prázdný. <1:sf>
-    Když jsem přišel/la domů, byl dům prázdný. <1:sb>
 Can I bring you anything else?
   Mohu vám přinést ještě něco? <2:vs|p>
     Mohu ti přinést ještě něco? <2:ts>
@@ -1085,13 +900,10 @@ Can I bring you anything else?
 Would you like to go for dinner with me?
   Chtěl bys se mnou jít na večeři? <2:tsm>
   Chtěla bys se mnou jít na večeři? <2:tsf>
-    Chtěl/a bys se mnou jít na večeři? <2:tsb>
     Chtěl byste se mnou jít na večeři? <2:vsm>
     Chtěla byste se mnou jít na večeři? <2:vsf>
-    Chtěl/a byste se mnou jít na večeři? <2:vsb>
     Chtěli byste se mnou jít na večeři? <2:pm>
     Chtěly byste se mnou jít na večeři? <2:pf>
-    Chtěli/y byste se mnou jít na večeři? <2:pb>
 Would you like to go for dinner with me?
   Chcete se mnou jít na večeři? <2:vs|p>
     Chceš se mnou jít na večeři? <2:ts>
@@ -1110,31 +922,21 @@ Open the window please.
 I am on my own here.
   Jsem tady sám. <1:sm>
     Jsem tady sama. <1:sf>
-    Jsem tady sám/sama. <1:sb>
 I am on my own here.
   Jsem tu sám. <1:sm>
     Jsem tu sama. <1:sf>
-    Jsem tu sám/sama. <1:sb>
 Are you here on your own?
   Jsi tu sám? <2:tsm>
   Jste tu sami? <2:pm>
     Jseš tu sama? <2:tsf>
-    Jseš tu sám/sama? <2:tsb>
     Jste tu sám? <2:vsm>
     Jste tu sama? <2:vsf>
-    Jste tu sám/sama? <2:vsb>
     Jste tu samy? <2:pf>
-    Jste tu sami/y? <2:pb>
 My doctor told me to stop smoking.
   Můj lékař mi řekl, abych přestal kouřit. <1:sm> <3:doctor:sm>
     Můj lékař mi řekl, abych přestala kouřit. <1:sf> <3:doctor:sm>
-    Můj lékař mi řekl, abych přestal/a kouřit. <1:sb> <3:doctor:sm>
     Moje lékařka mi řekla, abych přestal kouřit. <1:sm> <3:doctor:sf>
     Moje lékařka mi řekla, abych přestala kouřit. <1:sf> <3:doctor:sf>
-    Moje lékařka mi řekla, abych přestal/a kouřit. <1:sb> <3:doctor:sf>
-    Můj/Moje lékař/ka mi řekl/a, abych přestal kouřit. <1:sm> <3:doctor:sb>
-    Můj/Moje lékař/ka mi řekl/a, abych přestala kouřit. <1:sf> <3:doctor:sb>
-    Můj/Moje lékař/ka mi řekl/a, abych přestal/a kouřit. <1:sb> <3:doctor:sb>
 I don't need your help.
   Nepotřebuji vaši pomoc. <2:vs|p>
     Nepotřebuji tvoji pomoc. <2:ts>
@@ -1162,39 +964,29 @@ Are you working tomorrow?
 I went to bed early.
   Šel jsem do postele brzy. <1:sm>
     Šla jsem do postele brzy. <1:sf>
-    Šel/šla jsem do postele brzy. <1:sb>
 I went to bed early.
   Šel jsem brzy spát. <1:sm>
     Šla jsem brzy spát. <1:sf>
-    Šel/šla jsem brzy spát. <1:sb>
 I woke up this morning.
   Dnes ráno jsem se probudil. <1:sm>
     Dnes ráno jsem se probudila. <1:sf>
-    Dnes ráno jsem se probudil/a. <1:sb>
 What did I tell you?
   Co jsem ti řekl? <1:sm> <2:ts>
     Co jsem vám řekl? <1:sm> <2:vs|p>
     Co jsem ti řekla? <1:sf> <2:ts>
     Co jsem vám řekla? <1:sf> <2:vs|p>
-    Co jsem ti řekl/a? <1:sb> <2:ts>
-    Co jsem vám řekl/a? <1:sb> <2:vs|p>
 What did I tell you?
   Co jsem vám říkal? <1:sm> <2:vs|p>
     Co jsem ti říkal? <1:sm> <2:ts>
     Co jsem ti říkala? <1:sf> <2:ts>
     Co jsem vám říkala? <1:sf> <2:vs|p>
-    Co jsem ti říkal/a? <1:sb> <2:ts>
-    Co jsem vám říkal/a? <1:sb> <2:vs|p>
 What did you have for lunch?
   Co jste měli k obědu? <2:pm>
     Co jsi měl k obědu? <2:tsm>
     Co jsi měla k obědu? <2:tsf>
-    Co jsi měl/a k obědu? <2:tsb>
     Co jste měl k obědu? <2:vsm>
     Co jste měla k obědu? <2:vsf>
-    Co jste měl/a k obědu? <2:vsb>
     Co jste měly k obědu? <2:pf>
-    Co jste měli/y k obědu? <2:pb>
 What do you think?
   Co myslíš? <2:ts>
     Co myslíte? <2:vs|p>
@@ -1208,32 +1000,23 @@ You are too young.
   Jste příliš mladý. <2:vsm>
     Jseš příliš mladý. <2:tsm>
     Jseš příliš mladá. <2:tsf>
-    Jseš příliš mladý/á. <2:tsb>
     Jste příliš mladá. <2:vsf>
-    Jste příliš mladý/á. <2:vsb>
     Jste příliš mladí. <2:pm>
     Jste příliš mladé. <2:pf>
-    Jste příliš mladí/é. <2:pb>
 You are too young.
   Jsi příliš mladý. <2:tsm>
     Jsi příliš mladá. <2:tsf>
-    Jsi příliš mladý/á. <2:tsb>
     Jste příliš mladý. <2:vsm>
     Jste příliš mladá. <2:vsf>
-    Jste příliš mladý/á. <2:vsb>
     Jste příliš mladí. <2:pm>
     Jste příliš mladé. <2:pf>
-    Jste příliš mladí/é. <2:pb>
 What have you heard?
   Co jste slyšeli? <2:pm>
     Co jsi slyšel? <2:tsm>
     Co jsi slyšela? <2:tsf>
-    Co jsi slyšel/a? <2:tsb>
     Co jste slyšel? <2:vsm>
     Co jste slyšela? <2:vsf>
-    Co jste slyšel/a? <2:vsb>
     Co jste slyšely? <2:pf>
-    Co jste slyšeli/y? <2:pb>
 Don't spend it all!
   Neutrať to všechno! <2:ts>
     Neutraťte to všechno! <2:vs|p>
@@ -1246,54 +1029,40 @@ Are you at home?
 Am I a good doctor?
   Jsem dobrý lékař? <1:sm>
     Jsem dobrá lékařka? <1:sf>
-    Jsem dobrý/á lékař/ka? <1:sb>
 Are you a Czech citizen?
   Jste český občan? <2:vsm>
     Jseš český občan? <2:tsm>
     Jseš česká občanka? <2:tsf>
-    Jseš český/á občan/ka? <2:tsb>
     Jste česká občanka? <2:vsf>
-    Jste český/á občan/ka? <2:vsb>
 I work as a librarian.
   Pracuji jako knihovník. <3:librarian:sm>
   Pracuji jako knihovnice. <3:librarian:sf>
-    Pracuji jako knihovník/ice. <3:librarian:sb>
 I am a librarian.
   Jsem knihovník. <1:sm>
   Jsem knihovnice. <1:sf>
-    Jsem knihovník/ice. <1:sb>
 I am the fastest runner.
   Jsem nejrychlejší běžec. <1:sm>
     Jsem nejrychlejší běžkyně. <1:sf>
-    Jsem nejrychlejší běžec/kyně. <1:sb>
 I have bought a house!
   Koupil jsem dům! <1:sm>
     Koupila jsem dům! <1:sf>
-    Koupil/a jsem dům! <1:sb>
 That's not what I wanted.
   To jsem nechtěl. <1:sm>
     To jsem nechtěla. <1:sf>
-    To jsem nechtěl/a. <1:sb>
 You shouldn't guess if you can ask.
   Neměli byste hádat, jestli se můžete zeptat. <2:pm>
     Neměl bys hádat, jestli se můžeš zeptat. <2:tsm>
     Neměla bys hádat, jestli se můžeš zeptat. <2:tsf>
-    Neměl/a bys hádat, jestli se můžeš zeptat. <2:tsb>
     Neměl byste hádat, jestli se můžete zeptat. <2:vsm>
     Neměla byste hádat, jestli se můžete zeptat. <2:vsf>
-    Neměl/a byste hádat, jestli se můžete zeptat. <2:vsb>
     Neměly byste hádat, jestli se můžete zeptat. <2:pf>
-    Neměli/y byste hádat, jestli se můžete zeptat. <2:pb>
 You shouldn't guess if you can ask.
   Neměli byste hádat, pokud se můžete zeptat. <2:pm>
     Neměl bys hádat, pokud se můžeš zeptat. <2:tsm>
     Neměla bys hádat, pokud se můžeš zeptat. <2:tsf>
-    Neměl/a bys hádat, pokud se můžeš zeptat. <2:tsb>
     Neměl byste hádat, pokud se můžete zeptat. <2:vsm>
     Neměla byste hádat, pokud se můžete zeptat. <2:vsf>
-    Neměl/a byste hádat, pokud se můžete zeptat. <2:vsb>
     Neměly byste hádat, pokud se můžete zeptat. <2:pf>
-    Neměli/y byste hádat, pokud se můžete zeptat. <2:pb>
 Do you need more time?
   Potřebujete více času? <2:vs|p>
     Potřebuješ více času? <2:ts>
@@ -1301,12 +1070,9 @@ Have you finished yet?
   Už jsi skončil? <2:tsm>
   Už jste skončili? <2:pm>
     Už jsi skončila? <2:tsf>
-    Už jsi skončil/a? <2:tsb>
     Už jste skončil? <2:vsm>
     Už jste skončila? <2:vsf>
-    Už jste skončil/a? <2:vsb>
     Už jste skončily? <2:pf>
-    Už jste skončili/y? <2:pb>
 Are you still open?
   Máte ještě otevřeno? <2:vs|p>
     Máš ještě otevřeno? <2:ts>
@@ -1330,8 +1096,6 @@ Where have I seen you before?
     Kde jsem vás už viděl? <1:sm> <2:vs|p>
     Kde jsem tě už viděla? <1:sf> <2:ts>
     Kde jsem vás už viděla? <1:sf> <2:vs|p>
-    Kde jsem tě už viděl/a? <1:sb> <2:ts>
-    Kde jsem vás už viděl/a? <1:sb> <2:vs|p>
 I can't help you.
   Nemůžu ti pomoci. <2:ts>
     Nemůžu vám pomoci. <2:vs|p>
@@ -1378,22 +1142,16 @@ Thank you for coming.
   Děkuji, že jste přišli. <2:pm>
     Děkuji, že jsi přišel. <2:tsm>
     Děkuji, že jsi přišla. <2:tsf>
-    Děkuji, že jsi přišel/la. <2:tsb>
     Děkuji, že jste přišel. <2:vsm>
     Děkuji, že jste přišla. <2:vsf>
-    Děkuji, že jste přišel/la. <2:vsb>
     Děkuji, že jste přišly. <2:pf>
-    Děkuji, že jste přišli/y. <2:pb>
 Thank you for coming.
   Děkujeme, že jste přišli. <2:pm>
     Děkujeme, že jsi přišel. <2:tsm>
     Děkujeme, že jsi přišla. <2:tsf>
-    Děkujeme, že jsi přišel/la. <2:tsb>
     Děkujeme, že jste přišel. <2:vsm>
     Děkujeme, že jste přišla. <2:vsf>
-    Děkujeme, že jste přišel/la. <2:vsb>
     Děkujeme, že jste přišly. <2:pf>
-    Děkujeme, že jste přišli/y. <2:pb>
 Come here please.
   Pojď sem, prosím. <2:ts>
     Pojďte sem, prosím. <2:vs|p>
@@ -1407,12 +1165,9 @@ How was your Christmas?
   Jaké jste měli Vánoce? <2:pm>
     Jaké jsi měl Vánoce? <2:tsm>
     Jaké jsi měla Vánoce? <2:tsf>
-    Jaké jsi měl/a Vánoce? <2:tsb>
     Jaké jste měl Vánoce? <2:vsm>
     Jaké jste měla Vánoce? <2:vsf>
-    Jaké jste měl/a Vánoce? <2:vsb>
     Jaké jste měly Vánoce? <2:pf>
-    Jaké jste měli/y Vánoce? <2:pb>
 How was your Christmas?
   Jaké byly vaše Vánoce? <2:vs|p>
     Jaké byly tvoje Vánoce? <2:ts>
@@ -1421,60 +1176,43 @@ We would like to offer you the position.
     Rádi bychom Ti nabídli pozici. <1:pm> <2:ts>
     Rády bychom Ti nabídly pozici. <1:pf> <2:ts>
     Rády bychom Vám nabídly pozici. <1:pf> <2:vs|p>
-    Rádi/y bychom Ti nabídli/y pozici. <1:pb> <2:ts>
-    Rádi/y bychom Vám nabídli/y pozici. <1:pb> <2:vs|p>
 We would like to offer you the position.
   Rádi bychom vám nabídli tuto pozici. <1:pm> <2:vs|p>
     Rádi bychom ti nabídli tuto pozici. <1:pm> <2:ts>
     Rády bychom ti nabídly tuto pozici. <1:pf> <2:ts>
     Rády bychom vám nabídly tuto pozici. <1:pf> <2:vs|p>
-    Rádi/y bychom ti nabídli/y tuto pozici. <1:pb> <2:ts>
-    Rádi/y bychom vám nabídli/y tuto pozici. <1:pb> <2:vs|p>
 We would like to work with you.
   Rádi bychom s vámi spolupracovali. <1:pm> <2:vs|p>
     Rádi bychom s tebou spolupracovali. <1:pm> <2:ts>
     Rády bychom s tebou spolupracovaly. <1:pf> <2:ts>
     Rády bychom s vámi spolupracovaly. <1:pf> <2:vs|p>
-    Rádi/y bychom s tebou spolupracovali/y. <1:pb> <2:ts>
-    Rádi/y bychom s vámi spolupracovali/y. <1:pb> <2:vs|p>
 You have made the world a better place.
   Udělali jste svět lepším místem. <2:pm>
     Udělal jsi svět lepším místem. <2:tsm>
     Udělala jsi svět lepším místem. <2:tsf>
-    Udělal/a jsi svět lepším místem. <2:tsb>
     Udělal jste svět lepším místem. <2:vsm>
     Udělala jste svět lepším místem. <2:vsf>
-    Udělal/a jste svět lepším místem. <2:vsb>
     Udělaly jste svět lepším místem. <2:pf>
-    Udělali/y jste svět lepším místem. <2:pb>
 Your teacher is happy with you.
   Váš učitel je s vámi spokojený. <2:vs|p> <3:teacher:sm>
     Tvůj učitel je s tebou spokojený. <2:ts> <3:sm>
     Tvoje učitelka je s tebou spokojená. <2:ts> <3:sf>
-    Tvůj/je učitel/ka je s tebou spokojený/á. <2:ts> <3:sb>
     Vaše učitelka je s vámi spokojená. <2:vs|p> <3:sf>
-    Váš/vaše učitel/ka je s vámi spokojený/á. <2:vs|p> <3:sb>
 Why should we hire you?
   Proč bychom vás měli najmout? <1:pm> <2:vs|p>
     Proč bychom tě měli najmout? <1:pm> <2:ts>
     Proč bychom tě měly najmout? <1:pf> <2:ts>
     Proč bychom vás měly najmout? <1:pf> <2:vs|p>
-    Proč bychom tě měli/y najmout? <1:pb> <2:ts>
-    Proč bychom vás měli/y najmout? <1:pb> <2:vs|p>
 Why should we hire you?
   Proč bychom si měli najmout právě vás? <1:pm> <2:vs|p>
     Proč bychom si měli najmout právě tě? <1:pm> <2:ts>
     Proč bychom si měly najmout právě tě? <1:pf> <2:ts>
     Proč bychom si měly najmout právě vás? <1:pf> <2:vs|p>
-    Proč bychom si měli/y najmout právě tě? <1:pb> <2:ts>
-    Proč bychom si měli/y najmout právě vás? <1:pb> <2:vs|p>
 Why should we hire you?
   Proč bychom vás měli zaměstnat? <1:pm> <2:vs|p>
     Proč bychom tě měli zaměstnat? <1:pm> <2:ts>
     Proč bychom tě měly zaměstnat? <1:pf> <2:ts>
     Proč bychom vás měly zaměstnat? <1:pf> <2:vs|p>
-    Proč bychom tě měli/y zaměstnat? <1:pb> <2:ts>
-    Proč bychom vás měli/y zaměstnat? <1:pb> <2:vs|p>
 My dog likes you.
   Můj pes tě má rád. <2:ts>
     Můj pes vás má rád. <2:vs|p>
@@ -1496,28 +1234,22 @@ Are you vegan?
 I am vegetarian.
   Jsem vegetarián. <1:sm>
     Jsem vegetariánka. <1:sf>
-    Jsem vegetarián/ka. <1:sb>
 I am vegetarian.
   Jsem vegetariánka. <1:sf>
     Jsem vegetarián. <1:sm>
-    Jsem vegetarián/ka. <1:sb>
 Do you eat fish?
   Jíte ryby? <2:vs|p>
     Jíš ryby? <2:ts>
 My boss hates me.
   Můj šéf mě nenávidí. <3:boss:sm>
     Moje šéfka mě nenávidí. <3:sf>
-    Můj/moje šéf/ka mě nenávidí. <3:sb>
 Do you like your job?
   Máte rádi svou práci? <2:pm>
     Máš rád svou práci? <2:tsm>
     Máš ráda svou práci? <2:tsf>
-    Máš rád/a svou práci? <2:tsb>
     Máte rád svou práci? <2:vsm>
     Máte ráda svou práci? <2:vsf>
-    Máte rád/a svou práci? <2:vsb>
     Máte rády svou práci? <2:pf>
-    Máte rádi/y svou práci? <2:pb>
 Please wait.
   Prosím, čekejte. <2:vs|p>
     Prosím, čekej. <2:ts>
@@ -1527,7 +1259,6 @@ Please wait.
 Why are the students so lazy?
   Proč jsou studenti tak líní? <3:students:pm>
     Proč jsou studentky tak líné? <3:students:pf>
-    Proč jsou studenti/ky tak líní/é? <3:students:pb>
 I think he likes you.
   Myslím, že tě má rád. <2:ts>
     Myslím, že vás má rád. <2:vs|p>
@@ -1537,31 +1268,23 @@ I think he likes you.
 Have you been here before?
   Byl jsi tu už někdy předtím? <2:tsm>
     Byla jsi tu už někdy předtím? <2:tsf>
-    Byl/a jsi tu už někdy předtím? <2:tsb>
     Byl jste tu už někdy předtím? <2:vsm>
     Byla jste tu už někdy předtím? <2:vsf>
-    Byl/a jste tu už někdy předtím? <2:vsb>
     Byli jste tu už někdy předtím? <2:pm>
     Byly jste tu už někdy předtím? <2:pf>
-    Byli/y jste tu už někdy předtím? <2:pb>
 Have you been here before?
   Už jste tu někdy byli? <2:pm>
     Už jsi tu někdy byl? <2:tsm>
     Už jsi tu někdy byla? <2:tsf>
-    Už jsi tu někdy byl/a? <2:tsb>
     Už jste tu někdy byl? <2:vsm>
     Už jste tu někdy byla? <2:vsf>
-    Už jste tu někdy byl/a? <2:vsb>
     Už jste tu někdy byly? <2:pf>
-    Už jste tu někdy byli/y? <2:pb>
 I have never been here before.
   Nikdy předtím jsem tu nebyl. <1:sm>
     Nikdy předtím jsem tu nebyla. <1:sf>
-    Nikdy předtím jsem tu nebyl/a. <1:sb>
 All voters must register.
   Všichni voliči se musí zaregistrovat. <3:voters:pm>
     Všechny voličky se musí zaregistrovat. <3:voters:pf>
-    Všichni/Všechny voliči/ky se musí zaregistrovat. <3:voters:pb>
 Give me a few minutes.
   Dej mi pár minut. <2:ts>
   Dejte mi pár minut. <2:vs|p>
@@ -1569,72 +1292,38 @@ Have you met the new director yet?
   Už jste potkali nového ředitele? <2:pm> <3:director:sm>
     Už jsi potkal nového ředitele? <2:tsm> <3:director:sm>
     Už jsi potkal novou ředitelku? <2:tsm> <3:director:sf>
-    Už jsi potkal nového/ou ředitele/ku? <2:tsm> <3:director:sb>
     Už jsi potkala nového ředitele? <2:tsf> <3:director:sm>
     Už jsi potkala novou ředitelku? <2:tsf> <3:director:sf>
-    Už jsi potkala nového/ou ředitele/ku? <2:tsf> <3:director:sb>
-    Už jsi potkal/a nového ředitele? <2:tsb> <3:director:sm>
-    Už jsi potkal/a novou ředitelku? <2:tsb> <3:director:sf>
-    Už jsi potkal/a nového/ou ředitele/ku? <2:tsb> <3:director:sb>
     Už jste potkal nového ředitele? <2:vsm> <3:director:sm>
     Už jste potkal novou ředitelku? <2:vsm> <3:director:sf>
-    Už jste potkal nového/ou ředitele/ku? <2:vsm> <3:director:sb>
     Už jste potkala nového ředitele? <2:vsf> <3:director:sm>
     Už jste potkala novou ředitelku? <2:vsf> <3:director:sf>
-    Už jste potkala nového/ou ředitele/ku? <2:vsf> <3:director:sb>
-    Už jste potkal/a nového ředitele? <2:vsb> <3:director:sm>
-    Už jste potkal/a novou ředitelku? <2:vsb> <3:director:sf>
-    Už jste potkal/a nového/ou ředitele/ku? <2:vsb> <3:director:sb>
     Už jste potkali novou ředitelku? <2:pm> <3:director:sf>
-    Už jste potkali nového/ou ředitele/ku? <2:pm> <3:director:sb>
     Už jste potkaly nového ředitele? <2:pf> <3:director:sm>
     Už jste potkaly novou ředitelku? <2:pf> <3:director:sf>
-    Už jste potkaly nového/ou ředitele/ku? <2:pf> <3:director:sb>
-    Už jste potkali/y nového ředitele? <2:pb> <3:director:sm>
-    Už jste potkali/y novou ředitelku? <2:pb> <3:director:sf>
-    Už jste potkali/y nového/ou ředitele/ku? <2:pb> <3:director:sb>
 Have you met the new director yet?
   Už jste se setkali s novým ředitelem? <2:pm> <3:director:sm>
     Už ses setkal s novým ředitelem? <2:tsm> <3:director:sm>
     Už ses setkal s novou ředitelkou? <2:tsm> <3:director:sf>
-    Už ses setkal s novým/ou ředitelem/kou? <2:tsm> <3:director:sb>
     Už ses setkala s novým ředitelem? <2:tsf> <3:director:sm>
     Už ses setkala s novou ředitelkou? <2:tsf> <3:director:sf>
-    Už ses setkala s novým/ou ředitelem/kou? <2:tsf> <3:director:sb>
-    Už ses setkal/a s novým ředitelem? <2:tsb> <3:director:sm>
-    Už ses setkal/a s novou ředitelkou? <2:tsb> <3:director:sf>
-    Už ses setkal/a s novým/ou ředitelem/kou? <2:tsb> <3:director:sb>
   Už jste se setkal s novým ředitelem? <2:vsm> <3:director:sm>
     Už jste se setkal s novou ředitelkou? <2:vsm> <3:director:sf>
-    Už jste se setkal s novým/ou ředitelem/kou? <2:vsm> <3:director:sb>
     Už jste se setkala s novým ředitelem? <2:vsf> <3:director:sm>
     Už jste se setkala s novou ředitelkou? <2:vsf> <3:director:sf>
-    Už jste se setkala s novým/ou ředitelem/kou? <2:vsf> <3:director:sb>
-    Už jste se setkal/a s novým ředitelem? <2:vsb> <3:director:sm>
-    Už jste se setkal/a s novou ředitelkou? <2:vsb> <3:director:sf>
-    Už jste se setkal/a s novým/ou ředitelem/kou? <2:vsb> <3:director:sb>
     Už jste se setkali s novou ředitelkou? <2:pm> <3:director:sf>
-    Už jste se setkali s novým/ou ředitelem/kou? <2:pm> <3:director:sb>
     Už jste se setkaly s novým ředitelem? <2:pf> <3:director:sm>
     Už jste se setkaly s novou ředitelkou? <2:pf> <3:director:sf>
-    Už jste se setkaly s novým/ou ředitelem/kou? <2:pf> <3:director:sb>
-    Už jste se setkali/y s novým ředitelem? <2:pb> <3:director:sm>
-    Už jste se setkali/y s novou ředitelkou? <2:pb> <3:director:sf>
-    Už jste se setkali/y s novým/ou ředitelem/kou? <2:pb> <3:director:sb>
 Tell that to my lawyer.
   Řekni to mému právníkovi. <2:ts> <3:lawyer:sm>
   Řekněte to mému právníkovi. <2:vs|p> <3:lawyer:sm>
     Řekni to mé právničce. <2:ts> <3:lawyer:sf>
     Řekněte to mé právničce. <2:vs|p> <3:lawyer:sf>
-    Řekni to mé/mu právníkovi/ičce. <2:ts> <3:lawyer:sb>
-    Řekněte to mé/mu právníkovi/ičce. <2:vs|p> <3:lawyer:sb>
 Tell that to my lawyer.
   To řekněte mému právníkovi. <2:vs|p> <3:lawyer:sm>
     To řekni mému právníkovi. <2:ts> <3:lawyer:sm>
     To řekněte mé právničce. <2:vs|p> <3:lawyer:sf>
     To řekni mé právničce. <2:ts> <3:lawyer:sf>
-    To řekněte mé/mu právníkovi/ičce. <2:vs|p> <3:lawyer:sb>
-    To řekni mé/mu právníkovi/ičce. <2:ts> <3:lawyer:sb>
 Do you have everything you need?
   Máte vše, co potřebujete? <2:vs|p>
     Máš vše, co potřebuješ? <2:ts>
@@ -1646,28 +1335,20 @@ I made you breakfast.
   Udělala jsem ti snídani. <1:sf> <2:ts>
     Udělal jsem vám snídani. <1:sm> <2:vs|p>
     Udělala jsem vám snídani. <1:sf> <2:vs|p>
-    Udělal/a jsem ti snídani. <1:sb> <2:ts>
-    Udělal/a jsem vám snídani. <1:sb> <2:vs|p>
 Did you sleep well?
   Spal jsi dobře? <2:tsm>
   Spal jste dobře? <2:vsm>
   Spali jste dobře? <2:pm>
     Spala jsi dobře? <2:tsf>
-    Spal/a jsi dobře? <2:tsb>
     Spala jste dobře? <2:vsf>
-    Spal/a jste dobře? <2:vsb>
     Spaly jste dobře? <2:pf>
-    Spali/y jste dobře? <2:pb>
 Why are you angry with me?
   Proč jsi na mě naštvaný? <2:tsm>
     Proč jsi na mě naštvaná? <2:tsf>
-    Proč jsi na mě naštvaný/á? <2:tsb>
     Proč jste na mě naštvaný? <2:vsm>
     Proč jste na mě naštvaná? <2:vsf>
-    Proč jste na mě naštvaný/á? <2:vsb>
     Proč jste na mě naštvaní? <2:pm>
     Proč jste na mě naštvané? <2:pf>
-    Proč jste na mě naštvaní/é? <2:pb>
 Why are you angry with me?
   Proč se na mě zlobíš? <2:ts>
     Proč se na mě zlobíte? <2:vs|p>
@@ -1678,61 +1359,44 @@ You are a good doctor.
   Jste dobrý lékař. <2:vsm>
     Jseš dobrý lékař. <2:tsm>
     Jseš dobrá lékařka. <2:tsf>
-    Jseš dobrý/á lékař/ka. <2:tsb>
     Jste dobrá lékařka. <2:vsf>
-    Jste dobrý/á lékař/ka. <2:vsb>
 You should get some sleep.
   Měli byste se vyspat. <2:pm>
   Měl by ses vyspat. <2:tsm>
     Měla by ses vyspat. <2:tsf>
-    Měl/a by ses vyspat. <2:tsb>
     Měl byste se vyspat. <2:vsm>
     Měla byste se vyspat. <2:vsf>
-    Měl/a byste se vyspat. <2:vsb>
     Měly byste se vyspat. <2:pf>
-    Měli/y byste se vyspat. <2:pb>
 You should get some sleep.
   Měli byste se trochu vyspat. <2:pm>
   Měl by ses trochu vyspat. <2:tsm>
     Měla by ses trochu vyspat. <2:tsf>
-    Měl/a by ses trochu vyspat. <2:tsb>
     Měl byste se trochu vyspat. <2:vsm>
     Měla byste se trochu vyspat. <2:vsf>
-    Měl/a byste se trochu vyspat. <2:vsb>
     Měly byste se trochu vyspat. <2:pf>
-    Měli/y byste se trochu vyspat. <2:pb>
 I never met him.
   Nikdy jsem ho nepotkal. <1:sm>
     Nikdy jsem ho nepotkala. <1:sf>
-    Nikdy jsem ho nepotkal/a. <1:sb>
 I never met him.
   Nikdy jsem se s ním nesetkal. <1:sm>
     Nikdy jsem se s ním nesetkala. <1:sf>
-    Nikdy jsem se s ním nesetkal/a. <1:sb>
 I knew what you were going to say.
   Věděl jsem, co chceš říct. <1:sm> <2:ts>
     Věděl jsem, co chcete říct. <1:sm> <2:vs|p>
     Věděla jsem, co chceš říct. <1:sf> <2:ts>
     Věděla jsem, co chcete říct. <1:sf> <2:vs|p>
-    Věděl/a jsem, co chceš říct. <1:sb> <2:ts>
-    Věděl/a jsem, co chcete říct. <1:sb> <2:vs|p>
 I knew what you were going to say.
   Věděl jsem, co řekneš. <1:sm> <2:ts>
     Věděl jsem, co řeknete. <1:sm> <2:vs|p>
     Věděla jsem, co řekneš. <1:sf> <2:ts>
     Věděla jsem, co řeknete. <1:sf> <2:vs|p>
-    Věděl/a jsem, co řekneš. <1:sb> <2:ts>
-    Věděl/a jsem, co řeknete. <1:sb> <2:vs|p>
 How long have you been waiting?
   Jak dlouho jste čekali? <2:pm>
   Jak dlouho jsi čekal? <2:tsm>
     Jak dlouho jsi čekala? <2:tsf>
-    Jak dlouho jsi čekal/a? <2:tsb>
     Jak dlouho jste čekal? <2:vsm>
     Jak dlouho jste čekala? <2:vsf>
-    Jak dlouho jste čekal/a? <2:vsb>
     Jak dlouho jste čekaly? <2:pf>
-    Jak dlouho jste čekali/y? <2:pb>
 How long have you been waiting?
   Jak dlouho čekáte? <2:vs|p>
     Jak dlouho čekáš? <2:ts>
@@ -1748,50 +1412,38 @@ Are you here?
 Wish you were here.
   Kéž bys tu byl. <2:tsm>
     Kéž bys tu byla. <2:tsf>
-    Kéž bys tu byl/a. <2:tsb>
     Kéž byste tu byl. <2:vsm>
     Kéž byste tu byla. <2:vsf>
-    Kéž byste tu byl/a. <2:vsb>
     Kéž byste tu byli. <2:pm>
     Kéž byste tu byly. <2:pf>
-    Kéž byste tu byli/y. <2:pb>
 Wish you were here.
   Škoda, že tu nejsi. <2:ts>
     Škoda, že tu nejste. <2:vs>
 These are my students.
   To jsou moji studenti. <3:students:pm>
     To jsou moje studentky. <3:students:pf>
-    To jsou moji/e studenti/ky. <3:students:pb>
 What is the new teacher's name?
   Jak se jmenuje nový učitel? <3:teacher:sm>
     Jak se jmenuje nová učitelka? <3:teacher:sf>
-    Jak se jmenuje nový/á učitel/ka? <3:teacher:sb>
 How do you like your new teacher?
   Jak se vám líbí váš nový učitel? <2:vs|p> <3:teacher:sm>
     Jak se ti líbí tvůj nový učitel? <2:ts> <3:teacher:sm>
     Jak se ti líbí tvoje nová učitelka? <2:ts> <3:teacher:sf>
-    Jak se ti líbí tvůj/je nový/á učitel/ka? <2:ts> <3:teacher:sb>
     Jak se vám líbí vaše nová učitelka? <2:vs|p> <3:teacher:sf>
-    Jak se vám líbí váš/vaše nový/á učitel/ka? <2:vs|p> <3:teacher:sb>
 Are you our new teacher?
   Jste náš nový učitel? <2:vsm>
     Jseš náš nový učitel? <2:tsm>
     Jseš naše nová učitelka? <2:tsf>
-    Jseš náš/naše nový/á učitel/ka? <2:tsb>
     Jste naše nová učitelka? <2:vsf>
-    Jste náš/naše nový/á učitel/ka? <2:vsb>
 We are students.
   Jsme studenti. <1:pm>
     Jsme studentky. <1:pf>
-    Jsme studenti/ky. <1:pb>
 I am a student.
   Jsem student. <1:sm>
     Jsem studentka. <1:sf>
-    Jsem student/ka. <1:sb>
 I am a teacher.
   Jsem učitel. <1:sm>
     Jsem učitelka. <1:sf>
-    Jsem učitel/ka. <1:sb>
 What is your daughter's name?
   Jak se jmenuje tvoje dcera? <2:ts>
   Jak se jmenuje vaše dcera? <2:vs|p>
@@ -1819,20 +1471,15 @@ I have to tell you something.
 What have you done to yourself?
   Co sis to udělal? <2:tsm>
     Co sis to udělala? <2:tsf>
-    Co sis to udělal/a? <2:tsb>
     Co jste si to udělal? <2:vsm>
     Co jste si to udělala? <2:vsf>
-    Co jste si to udělal/a? <2:vsb>
 Why did you do that?
   Proč jsi to udělal? <2:tsm>
   Proč jste to udělal? <2:vsm>
   Proč jste to udělali? <2:pm>
     Proč jsi to udělala? <2:tsf>
-    Proč jsi to udělal/a? <2:tsb>
     Proč jste to udělala? <2:vsf>
-    Proč jste to udělal/a? <2:vsb>
     Proč jste to udělaly? <2:pf>
-    Proč jste to udělali/y? <2:pb>
 What do you want for your birthday?
   Co chceš k narozeninám? <2:ts>
     Co chcete k narozeninám? <2:vs|p>
@@ -1855,12 +1502,9 @@ You have said everything.
   Řekl jsi všechno. <2:tsm>
   Řekl jste všechno. <2:vsm>
     Řekla jsi všechno. <2:tsf>
-    Řekl/a jsi všechno. <2:tsb>
     Řekla jste všechno. <2:vsf>
-    Řekl/a jste všechno. <2:vsb>
     Řekli jste všechno. <2:pm>
     Řekly jste všechno. <2:pf>
-    Řekli/y jste všechno. <2:pb>
 I'll do anything for you.
   Udělám pro tebe cokoliv. <2:ts>
     Udělám pro vás cokoliv. <2:vs|p>
@@ -1879,13 +1523,10 @@ Don't ask me any questions.
 Do you like me?
   Máš mě rád? <2:tsm>
     Máš mě ráda? <2:tsf>
-    Máš mě rád/a? <2:tsb>
     Máte mě rád? <2:vsm>
     Máte mě ráda? <2:vsf>
-    Máte mě rád/a? <2:vsb>
     Máte mě rádi? <2:pm>
     Máte mě rády? <2:pf>
-    Máte mě rádi/y? <2:pb>
 Do you like me?
   Líbím se ti? <2:ts>
     Líbím se vám? <2:vs|p>

@@ -741,11 +741,9 @@ Are you here on your own?
 My doctor told me to stop smoking.
   Mein Arzt hat mir geraten, mit dem Rauchen aufzuhören. <3:doctor:sm>
     Meine Ärztin hat mir geraten, mit dem Rauchen aufzuhören. <3:doctor:sf>
-    Mein:e Ärzt:tin hat mir geraten, mit dem Rauchen aufzuhören. <3:doctor:sb>
 My doctor told me to stop smoking.
   Mein Arzt sagte mir, ich solle mit dem Rauchen aufhören. <3:doctor:sm>
     Meine Ärztin sagte mir, ich solle mit dem Rauchen aufhören. <3:doctor:sf>
-    Mein:e Ärzt:tin sagte mir, ich solle mit dem Rauchen aufhören. <3:doctor:sb>
 I don't need your help.
   Ich brauche deine Hilfe nicht. <2:ts>
   Ich brauche Ihre Hilfe nicht. <2:vs|vp>
@@ -809,7 +807,6 @@ Are you at home?
 Am I a good doctor?
   Bin ich ein guter Arzt? <1:sm>
     Bin ich eine gute Ärztin? <1:sf>
-    Bin ich ein:e gute:r Ärzt:tin? <1:sb>
 I work as a librarian.
   Ich arbeite als Bibliothekar. <1:sm>
   Ich arbeite als Bibliothekarin. <1:sf>
@@ -951,13 +948,10 @@ You have made the world a better place.
 Your teacher is happy with you.
   Dein Lehrer ist zufrieden mit dir. <2:ts> <3:teacher:sm>
     Deine Lehrerin ist zufrieden mit dir. <2:ts> <3:teacher:sf>
-    Dein:e Lehrer:in ist zufrieden mit dir. <2:ts> <3:teacher:sb>
     Ihr Lehrer ist zufrieden mit Ihnen. <2:vs|vp> <3:teacher:sm>
     Ihre Lehrerin ist zufrieden mit Ihnen. <2:vs|vp> <3:teacher:sf>
-    Ihr:e Lehrer:in ist zufrieden mit Ihnen. <2:vs|vp> <3:teacher:sb>
     Euer Lehrer ist zufrieden mit euch. <2:tp> <3:teacher:sm>
     Eure Lehrerin ist zufrieden mit euch. <2:tp> <3:teacher:sf>
-    Euer/eure Lehrer:in ist zufrieden mit euch. <2:tp> <3:teacher:sb>
 Why should we hire you?
   Warum sollten wir Sie einstellen? <2:vs|vp>
     Warum sollten wir dich einstellen? <2:ts>
@@ -982,14 +976,10 @@ Are you vegan?
   Bist du Veganer? <2:tsm>
   Sind Sie Veganer? <2:vsm|vpm>
     Bist du Veganerin? <2:tsf>
-    Bist du Veganer:in? <2:tsb>
     Sind Sie Veganerin? <2:vsf>
-    Sind Sie Veganer:in? <2:vsb>
     Sind Sie Veganerinnen? <2:vpf>
-    Sind Sie Veganer:innen? <2:vpb>
     Seid ihr Veganer? <2:tpm>
     Seid ihr Veganerinnen? <2:tpf>
-    Seid ihr Veganer:innen? <2:tpb>
 Are you vegan?
   Bist du vegan? <2:ts>
     Sind Sie vegan? <2:vs|vp>
@@ -997,7 +987,6 @@ Are you vegan?
 I am vegetarian.
   Ich bin Vegetarier. <1:sm>
     Ich bin Vegetarierin. <1:sf>
-    Ich bin Vegetarier:in. <1:sb>
 Do you eat fish?
   Essen Sie Fisch? <2:vs|vp>
     Isst du Fisch? <2:ts>
@@ -1005,7 +994,6 @@ Do you eat fish?
 My boss hates me.
   Mein Chef hasst mich. <3:boss:sm>
     Meine Chefin hasst mich. <3:boss:sf>
-    Mein:e Chef:in hasst mich. <3:boss:sb>
 Do you like your job?
   Magst du deinen Job? <2:ts>
     Mögen Sie Ihren Job? <2:vs|vp>
@@ -1029,7 +1017,6 @@ Please wait.
 Why are the students so lazy?
   Warum sind die Schüler so faul? <3:students:pm>
     Warum sind die Schülerinnen so faul? <3:students:pf>
-    Warum sind die Schüler:innen so faul? <3:students:pb>
 I think he likes you.
   Ich glaube er mag dich. <2:ts>
     Ich glaube er mag Sie. <2:vs|vp>
@@ -1045,11 +1032,9 @@ Have you been here before?
 All voters must register.
   Alle Wähler müssen sich registrieren. <3:voters:pm>
     Alle Wählerinnen müssen sich registrieren. <3:voters:pf>
-    Alle Wähler:innen müssen sich registrieren. <3:voters:pb>
 All voters must register.
   Alle Wähler müssen sich registrieren lassen. <3:voters:pm>
     Alle Wählerinnen müssen sich registrieren lassen. <3:voters:pf>
-    Alle Wähler:innen müssen sich registrieren lassen. <3:voters:pb>
 Give me a few minutes.
   Gib mir ein paar Minuten. <2:ts>
   Geben Sie mir ein paar Minuten. <2:vs|vp>
@@ -1058,42 +1043,30 @@ Have you met the new director yet?
   Kennen Sie den neuen Direktor schon? <2:vs|vp> <3:director:sm>
     Kennst du den neuen Direktor schon? <2:ts> <3:director:sm>
     Kennst du die neue Direktorin schon? <2:ts> <3:director:sf>
-    Kennst du den/die neue:n Direktor:in schon? <2:ts> <3:director:sb>
     Kennen Sie die neue Direktorin schon? <2:vs|vp> <3:director:sf>
-    Kennen Sie den/die neue:n Direktor:in schon? <2:vs|vp> <3:director:sb>
     Kennt ihr den neuen Direktor schon? <2:tp> <3:director:sm>
     Kennt ihr die neue Direktorin schon? <2:tp> <3:director:sf>
-    Kennt ihr den/die neue:n Direktor:in schon? <2:tp> <3:director:sb>
 Have you met the new director yet?
   Haben Sie den neuen Direktor schon kennengelernt? <2:vs|vp> <3:director:sm>
     Hast du den neuen Direktor schon kennengelernt? <2:ts> <3:director:sm>
     Hast du die neue Direktorin schon kennengelernt? <2:ts> <3:director:sf>
-    Hast du den/die neue:n Direktor:in schon kennengelernt? <2:ts> <3:director:sb>
     Haben Sie die neue Direktorin schon kennengelernt? <2:vs|vp> <3:director:sf>
-    Haben Sie den/die neue:n Direktor:in schon kennengelernt? <2:vs|vp> <3:director:sb>
     Habt ihr den neuen Direktor schon kennengelernt? <2:tp> <3:director:sm>
     Habt ihr die neue Direktorin schon kennengelernt? <2:tp> <3:director:sf>
-    Habt ihr den/die neue:n Direktor:in schon kennengelernt? <2:tp> <3:director:sb>
 Tell that to my lawyer.
   Sagen Sie das meinem Anwalt. <2:vs|vp> <4:lawyer:sm>
     Sag das meinem Anwalt. <2:ts> <4:lawyer:sm>
     Sag das meiner Anwältin. <2:ts> <4:lawyer:sf>
-    Sag das meinem:r Anwalt:tin. <2:ts> <4:lawyer:sb>
     Sagen Sie das meiner Anwältin. <2:vs|vp> <4:lawyer:sf>
-    Sagen Sie das meinem:r Anwalt:tin. <2:vs|vp> <4:lawyer:sb>
     Sagt das meinem Anwalt. <2:tp> <4:lawyer:sm>
     Sagt das meiner Anwältin. <2:tp> <4:lawyer:sf>
-    Sagt das meinem:r Anwalt:tin. <2:tp> <4:lawyer:sb>
 Tell that to my lawyer.
   Erzählen Sie das meinem Anwalt. <2:vs|vp> <4:lawyer:sm>
     Erzähl das meinem Anwalt. <2:ts> <4:lawyer:sm>
     Erzähl das meiner Anwältin. <2:ts> <4:lawyer:sf>
-    Erzähl das meinem:r Anwalt:tin. <2:ts> <4:lawyer:sb>
     Erzählen Sie das meiner Anwältin. <2:vs|vp> <4:lawyer:sf>
-    Erzählen Sie das meinem:r Anwalt:tin. <2:vs|vp> <4:lawyer:sb>
     Erzählt das meinem Anwalt. <2:tp> <4:lawyer:sm>
     Erzählt das meiner Anwältin. <2:tp> <4:lawyer:sf>
-    Erzählt das meinem:r Anwalt:tin. <2:tp> <4:lawyer:sb>
 Do you have everything you need?
   Haben Sie alles, was Sie brauchen? <2:vs|vp>
     Hast du alles, was du brauchst? <2:ts>
@@ -1138,9 +1111,7 @@ You are a good doctor.
   Sie sind ein guter Arzt. <2:vsm>
     Du bist ein guter Arzt. <2:tsm>
     Du bist eine gute Ärztin. <2:tsf>
-    Du bist ein:e gute:r Arzt:tin. <2:tsb>
     Sie sind eine gute Ärztin. <2:vsf>
-    Sie sind ein:e gute:r Arzt:tin. <2:vsb>
 You should get some sleep.
   Du solltest etwas schlafen. <2:ts>
   Sie sollten etwas schlafen. <2:vs|vp>
@@ -1176,64 +1147,48 @@ Wish you were here.
 These are my students.
   Das sind meine Schüler. <3:students:pm>
     Das sind meine Schülerinnen. <3:students:pf>
-    Das sind meine Schüler:innen. <3:students:pb>
 These are my students.
   Das sind meine Studenten. <3:students:pm>
     Das sind meine Studentinnen. <3:students:pf>
-    Das sind meine Studenten:nnen. <3:students:pb>
 What is the new teacher's name?
   Wie heißt die neue Lehrerin? <3:teacher:sf>
     Wie heißt der neue Lehrer? <3:teacher:sm>
-    Wie heißt der/die neue Lehrer:in? <3:teacher:sb>
 What is the new teacher's name?
   Wie lautet der Name des neuen Lehrers? <4:teacher:sm>
     Wie lautet der Name der neuen Lehrerin? <4:teacher:sf>
-    Wie lautet der Name des/der neuen Lehrers:in? <4:teacher:sb>
 What is the new teacher's name?
   Wie heißt der neue Lehrer? <3:teacher:sm>
     Wie heißt die neue Lehrerin? <3:teacher:sf>
-    Wie heißt der/die neue Lehrer:in? <3:teacher:sb>
 How do you like your new teacher?
   Wie gefällt dir deine neue Lehrerin? <2:ts> <3:teacher:sf>
   Wie gefällt dir dein neuer Lehrer? <2:ts> <3:teacher:sm>
   Wie gefällt Ihnen Ihr neuer Lehrer? <2:vs|vp> <3:teacher:sm>
-    Wie gefällt dir dein:e neue:r Lehrer:in? <2:ts> <3:teacher:sb>
     Wie gefällt Ihnen Ihre neue Lehrerin? <2:vs|vp> <3:teacher:sf>
-    Wie gefällt Ihnen Ihr:e neue:r Lehrer:in? <2:vs|vp> <3:teacher:sb>
     Wie gefällt euch euer neuer Lehrer? <2:tp> <3:teacher:sm>
     Wie gefällt euch eure neue Lehrerin? <2:tp> <3:teacher:sf>
-    Wie gefällt euch euer/eure neue:r Lehrer:in? <2:tp> <3:teacher:sb>
 Are you our new teacher?
   Bist du unser neuer Lehrer? <2:tsm>
   Sind Sie unser neuer Lehrer? <2:vsm>
     Bist du unsere neue Lehrerin? <2:tsf>
-    Bist du unser:e neue:r Lehrer:in? <2:tsb>
     Sind Sie unsere neue Lehrerin? <2:vsf>
-    Sind Sie unser:e neue:r Lehrer:in? <2:vsb>
 We are students.
   Wir sind Studenten. <1:pm>
     Wir sind Studentinnen. <1:pf>
-    Wir sind Studenten:nnen. <1:pb>
 I am a student.
   Ich bin ein Schüler. <1:sm>
     Ich bin eine Schülerin. <1:sf>
-    Ich bin ein:e Schüler:in. <1:sb>
 I am a student.
   Ich bin ein Student. <1:sm>
     Ich bin eine Studentin. <1:sf>
-    Ich bin ein:e Student:in. <1:sb>
 I am a student.
   Ich bin Student. <1:sm>
     Ich bin Studentin. <1:sf>
-    Ich bin Student:in. <1:sb>
 I am a teacher.
   Ich bin ein Lehrer. <1:sm>
     Ich bin eine Lehrerin. <1:sf>
-    Ich bin ein:e Lehrer:in. <1:sb>
 I am a teacher.
   Ich bin Lehrer. <1:sm>
     Ich bin Lehrerin. <1:sf>
-    Ich bin Lehrer:in. <1:sb>
 What is your daughter's name?
   Wie ist der Name deiner Tochter? <2:ts>
     Wie ist der Name Ihrer Tochter? <2:vs|vp>
@@ -1359,60 +1314,35 @@ This is what they sent you.
 The doctor saved the patient's live.
   Der Arzt rettete dem Patienten das Leben. <3:doctor:sm> <4:patient:sm>
     Der Arzt rettete der Patientin das Leben. <3:doctor:sm> <4:patient:sf>
-    Der Arzt rettete dem/der Patient:in das Leben. <3:doctor:sm> <4:patient:sb>
     Die Ärztin rettete dem Patient das Leben. <3:doctor:sf> <4:patient:sm>
     Die Ärztin rettete der Patientin das Leben. <3:doctor:sf> <4:patient:sf>
-    Die Ärztin rettete dem/der Patient:in das Leben. <3:doctor:sf> <4:patient:sb>
-    Der/die Arzt:tin rettete dem Patient das Leben. <3:doctor:sb> <4:patient:sm>
-    Der/die Arzt:tin rettete der Patientin das Leben. <3:doctor:sb> <4:patient:sf>
-    Der/die Arzt:tin rettete dem/der Patient:in das Leben. <3:doctor:sb> <4:patient:sb>
 The doctor saved the patient's live.
   Der Arzt rettete das Leben des Patienten. <3:doctor:sm> <5:patient:patient:sm>
     Der Arzt rettete das Leben der Patientin. <3:sdoctor:m> <5:patient:sf>
-    Der Arzt rettete das Leben des/der Patienten:n. <3:doctor:sm> <5:patient:sb>
     Die Ärztin rettete das Leben des Patienten. <3:doctor:sf> <5:patient:sm>
     Die Ärztin rettete das Leben der Patientin. <3:doctor:sf> <5:patient:sf>
-    Die Ärztin rettete das Leben des/der Patienten:n. <3:doctor:sf> <5:patient:sb>
-    Der/die Arzt:tin rettete das Leben des Patienten. <3:doctor:sb> <5:patient:sm>
-    Der/die Arzt:tin rettete das Leben der Patientin. <3:doctor:sb> <5:patient:sf>
-    Der/die Arzt:tin rettete das Leben des/der Patienten:n. <3:doctor:sb> <5:patient:sb>
 The nurse saved the patient's live.
   Die Krankenschwester rettete dem Patienten das Leben. <3:nurse:sf> <4:patient:sm>
     Der Krankenpfleger rettete dem Patient das Leben. <3:nurse:sm> <4:patient:sm>
     Der Krankenpfleger rettete der Patientin das Leben. <3:nurse:sm> <4:patient:sf>
-    Der Krankenpfleger rettete dem/der Patient:in das Leben. <3:nurse:sm> <4:patient:sb>
     Die Krankenschwester rettete der Patientin das Leben. <3:nurse:sf> <4:patient:sf>
-    Die Krankenschwester rettete dem/der Patient:in das Leben. <3:nurse:sf> <4:patient:sb>
-    Der/die Krankenpfleger:schwester rettete dem Patient das Leben. <3:nurse:sb> <4:patient:sm>
-    Der/die Krankenpfleger:schwester rettete der Patientin das Leben. <3:nurse:sb> <4:patient:sf>
-    Der/die Krankenpfleger:schwester rettete dem/der Patient:in das Leben. <3:nurse:sb> <4:patient:sb>
 The nurse saved the patient's live.
   Die Krankenschwester rettete das Leben des Patienten. <3:nurse:sf> <5:patient:sm>
     Der Krankenpfleger rettete das Leben des Patienten. <3:nurse:sm> <5:patient:sm>
     Der Krankenpfleger rettete das Leben der Patientin. <3:nurse:sm> <5:patient:sf>
-    Der Krankenpfleger rettete das Leben des/der Patienten:n. <3:nurse:sm> <5:patient:sb>
     Die Krankenschwester rettete das Leben der Patientin. <3:nurse:sf> <5:patient:sf>
-    Die Krankenschwester rettete das Leben des/der Patienten:n. <3:nurse:sf> <5:patient:sb>
-    Der/die Krankenpfleger:schwester rettete das Leben des Patienten. <3:nurse:sb> <5:patient:sm>
-    Der/die Krankenpfleger:schwester rettete das Leben der Patientin. <3:nurse:sb> <5:patient:sf>
-    Der/die Krankenpfleger:schwester rettete das Leben des/der Patienten:n. <3:nurse:sb> <5:spatient:b>
 The soldier returned home.
   Der Soldat kehrte nach Hause zurück. <3:soldier:sm>
     Die Soldatin kehrte nach Hause zurück. <3:soldier:sf>
-    Der/die Soldat:in kehrte nach Hause zurück. <3:soldier:sb>
 The pilot arrived late.
   Der Pilot kam zu spät. <3:pilot:sm>
     Die Pilotin kam zu spät. <3:pilot:sf>
-    Der/die Pilot:in kam zu spät. <3:pilot:sb>
 The flight attendant arrived late.
   Die Flugbegleiterin kam zu spät. <3:flight attendant:sf>
     Der Flugbegleiter kam zu spät. <3:flight attendant:sm>
-    Der/die Flugbegleiter:in kam zu spät. <3:flight attendant:sb>
 The dancer danced elegantly.
   Die Tänzerin tanzte elegant. <3:dancer:sf>
     Der Tänzer tanzte elegant. <3:dancer:sm>
-    Der/die Tänzer:in tanzte elegant. <3:dancer:sb>
 My neighbour goes to the gym.
   Mein Nachbar geht ins Fitnessstudio. <3:neighbour:sm>
     Meine Nachbarin geht in das Fitnessstudio. <3:neighbour:sf>
-    Mein:e Nachbar:in geht in das Fitnessstudio. <3:neighbour:sb>
