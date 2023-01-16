@@ -1,4 +1,5 @@
 Did he offer you anything?
+Did he offer you anything?
   Hat er dir etwas angeboten? <2:ts>
   Hat er Ihnen etwas angeboten? <2:vs|vp>
     Hat er euch etwas angeboten? <2:tp>
@@ -229,7 +230,7 @@ Do you agree?
 Do you agree?
   Stimmen Sie zu? <2:vs|vp>
     Stimmst du zu? <2:ts>
-    Stimmen ihr zu? <2:tp>
+    Stimmt ihr zu? <2:tp>
 Are you interested?
   Bist du interessiert? <2:ts>
   Sind Sie interessiert? <2:vs|vp>
@@ -1233,7 +1234,7 @@ What have you done to yourself?
   Was hast du dir angetan? <2:ts>
     Was haben Sie sich angetan? <2:vs>
 What have you done to yourself?
-  Was haben Sie mit sich selbst gemacht? <2:>
+  Was haben Sie mit sich selbst gemacht? <2:vs>
     Was hast du mit dir selbst gemacht? <2:ts>
 What have you done to yourself?
   Was hast du dir selbst angetan? <2:ts>
@@ -1314,16 +1315,16 @@ This is what they sent you.
 The doctor saved the patient's live.
   Der Arzt rettete dem Patienten das Leben. <3:doctor:sm> <3:patient:sm>
     Der Arzt rettete der Patientin das Leben. <3:doctor:sm> <3:patient:sf>
-    Die Ärztin rettete dem Patient das Leben. <3:doctor:sf> <3:patient:sm>
+    Die Ärztin rettete dem Patienten das Leben. <3:doctor:sf> <3:patient:sm>
     Die Ärztin rettete der Patientin das Leben. <3:doctor:sf> <3:patient:sf>
 The doctor saved the patient's live.
-  Der Arzt rettete das Leben des Patienten. <3:doctor:sm> <3:patient:patient:sm>
-    Der Arzt rettete das Leben der Patientin. <3:sdoctor:m> <3:patient:sf>
+  Der Arzt rettete das Leben des Patienten. <3:doctor:sm> <3:patient:sm>
+    Der Arzt rettete das Leben der Patientin. <3:sdoctor:sm> <3:patient:sf>
     Die Ärztin rettete das Leben des Patienten. <3:doctor:sf> <3:patient:sm>
     Die Ärztin rettete das Leben der Patientin. <3:doctor:sf> <3:patient:sf>
 The nurse saved the patient's live.
   Die Krankenschwester rettete dem Patienten das Leben. <3:nurse:sf> <3:patient:sm>
-    Der Krankenpfleger rettete dem Patient das Leben. <3:nurse:sm> <3:patient:sm>
+    Der Krankenpfleger rettete dem Patienten das Leben. <3:nurse:sm> <3:patient:sm>
     Der Krankenpfleger rettete der Patientin das Leben. <3:nurse:sm> <3:patient:sf>
     Die Krankenschwester rettete der Patientin das Leben. <3:nurse:sf> <3:patient:sf>
 The nurse saved the patient's live.
