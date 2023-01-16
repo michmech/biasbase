@@ -1,6 +1,6 @@
 Did he offer you anything?
   Vous a-t-il proposé quelque chose ? <2:vs|p>
-    T'a-t-ill proposé quelque chose ? <2:ts>
+    T'a-t-il proposé quelque chose ? <2:ts>
 Did he offer you anything?
   Il vous a proposé quelque chose ? <2:vs|p>
     Il t'a proposé quelque chose ? <2:ts>
@@ -1195,13 +1195,13 @@ How do you like our new director?
 Does your lawyer know this?
   Votre avocat le sait-il ? <2:vs|p> <3:lawyer:sm>
     Ton avocat le sait-il ? <2:ts> <3:lawyer:sm>
-    Ta avocate le sait-il ? <2:ts> <3:lawyer:sf>
-    Votre avocate le sait-il ? <2:vs|p> <3:lawyer:sf>
+    Ton avocate le sait-elle ? <2:ts> <3:lawyer:sf>
+    Votre avocate le sait-elle ? <2:vs|p> <3:lawyer:sf>
 Does your lawyer know this?
   Votre avocat le sait-il? <2:vs|p> <3:lawyer:sm>
     Ton avocat le sait-il? <2:ts> <3:lawyer:sm>
-    Ta avocate le sait-il? <2:ts> <3:lawyer:sf>
-    Votre avocate le sait-il? <2:vs|p> <3:lawyer:sf>
+    Ton avocate le sait-elle? <2:ts> <3:lawyer:sf>
+    Votre avocate le sait-elle? <2:vs|p> <3:lawyer:sf>
 This is the rudest bus driver I've ever seen.
   C'est le chauffeur de bus le plus grossier que j'ai jamais vu. <3:driver:sm>
     C'est la chauffeuse de bus le plus grossière que j'ai jamais vu. <3:driver:sf>
