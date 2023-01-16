@@ -6,7 +6,7 @@ Did he offer you anything?
     Il t'a proposé quelque chose ? <2:ts>
 Did he offer you anything?
   Vous a-t-il offert quelque chose? <2:vs|p>
-    T'a-t-tu offert quelque chose? <2:ts>
+    T'a-t-il offert quelque chose? <2:ts>
 He gave it to you.
   Il te l'a donné. <2:ts>
   Il vous l'a donné. <2:vs|p>
@@ -588,7 +588,7 @@ Don't worry!
     Ne toi inquiète pas! <2:ts>
 Are you scared?
   Es tu effrayé? <2:tsm>
-    Es tu effrayés? <2:tsf>
+    Es tu effrayée? <2:tsf>
     Êtes vous effrayé? <2:vsm>
     Êtes vous effrayée? <2:vsf>
     Êtes vous effrayés? <2:pm>
@@ -917,10 +917,10 @@ I think he likes you.
 Have you been here before?
   Es-tu déjà venu ici avant? <2:tsm>
     Es-tu déjà venue ici avant? <2:tsf>
-    Es-vous déjà venu ici avant? <2:vsm>
-    Es-vous déjà venue ici avant? <2:vsf>
-    Es-vous déjà venus ici avant? <2:pm>
-    Es-vous déjà venues ici avant? <2:pf>
+    Êtes-vous déjà venu ici avant? <2:vsm>
+    Êtes-vous déjà venue ici avant? <2:vsf>
+    Êtes-vous déjà venus ici avant? <2:pm>
+    Êtes-vous déjà venues ici avant? <2:pf>
 Have you been here before?
   Vous êtes déjà venu ici ? <2:vsm>
     Tu es déjà venu ici ? <2:tsm>
