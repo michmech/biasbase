@@ -874,8 +874,8 @@ Are you on the train?
   Jste ve vlaku? <2:vs|p>
     Jseš v vlaku? <2:ts>
 They have already left.
-  Už odešli. <3:pm>
-    Už odešly. <3:pf>
+  Už odešli. <3:they:pm>
+    Už odešly. <3:they:pf>
 I called them several times.
   Volal jsem jim několikrát. <1:sm>
     Volala jsem jim několikrát. <1:sf>
@@ -1195,9 +1195,9 @@ You have made the world a better place.
     Udělaly jste svět lepším místem. <2:pf>
 Your teacher is happy with you.
   Váš učitel je s vámi spokojený. <2:vs|p> <3:teacher:sm>
-    Tvůj učitel je s tebou spokojený. <2:ts> <3:sm>
-    Tvoje učitelka je s tebou spokojená. <2:ts> <3:sf>
-    Vaše učitelka je s vámi spokojená. <2:vs|p> <3:sf>
+    Tvůj učitel je s tebou spokojený. <2:ts> <3:teacher:sm>
+    Tvoje učitelka je s tebou spokojená. <2:ts> <3:teacher:sf>
+    Vaše učitelka je s vámi spokojená. <2:vs|p> <3:teacher:sf>
 Why should we hire you?
   Proč bychom vás měli najmout? <1:pm> <2:vs|p>
     Proč bychom tě měli najmout? <1:pm> <2:ts>
@@ -1242,7 +1242,7 @@ Do you eat fish?
     Jíš ryby? <2:ts>
 My boss hates me.
   Můj šéf mě nenávidí. <3:boss:sm>
-    Moje šéfka mě nenávidí. <3:sf>
+    Moje šéfka mě nenávidí. <3:boss:sf>
 Do you like your job?
   Máte rádi svou práci? <2:pm>
     Máš rád svou práci? <2:tsm>
