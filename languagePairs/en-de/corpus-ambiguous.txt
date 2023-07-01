@@ -1,5 +1,4 @@
 Did he offer you anything?
-Did he offer you anything?
   Hat er dir etwas angeboten? <2:ts>
   Hat er Ihnen etwas angeboten? <2:vs|vp>
     Hat er euch etwas angeboten? <2:tp>
@@ -192,7 +191,7 @@ Where have you been?
     Wo sind Sie gewesen? <2:vs|vp>
     Wo seid ihr gewesen? <2:tp>
 Who were you with?
-  Bei wem warst Du? <2:ts>
+  Bei wem warst du? <2:ts>
     Bei wem waren Sie? <2:vs|vp>
     Bei wem wart ihr? <2:tp>
 Who were you with?
@@ -268,9 +267,9 @@ I love you too.
     Ich liebe Sie auch. <2:vs|vp>
     Ich liebe euch auch. <2:tp>
 I miss you too.
-  Ich vermiss dich auch. <2:ts>
-    Ich vermiss Sie auch. <2:vs|vp>
-    Ich vermiss euch auch. <2:tp>
+  Ich vermisse dich auch. <2:ts>
+    Ich vermisse Sie auch. <2:vs|vp>
+    Ich vermisse euch auch. <2:tp>
 I miss you too.
   Ich vermisse dich auch. <2:ts>
     Ich vermisse Sie auch. <2:vs|vp>
@@ -293,31 +292,31 @@ Be quiet!
     Seid still! <2:tp>
 Go away!
   Gehen Sie weg! <2:vs|vp>
-  Geh weg! <2:ts>
+  Geh weg!|Gehe weg! <2:ts>
     Geht weg! <2:tp>
 Leave me alone!
-  Lass mich alleine! <2:ts>
+  Lass mich alleine!|Lasse mich alleine! <2:ts>
     Lassen Sie mich alleine! <2:vs|vp>
     Lasst mich alleine! <2:tp>
 Leave me alone!
   Lasst mich in Ruhe! <2:tp>
-    Lass mich in Ruhe! <2:ts>
+    Lass mich in Ruhe!|Lasse mich in Ruhe! <2:ts>
     Lassen Sie mich in Ruhe! <2:vs|vp>
 Leave me alone!
-  Lass mich in Ruhe! <2:ts>
+  Lass mich in Ruhe!|Lasse mich in Ruhe! <2:ts>
     Lassen Sie mich in Ruhe! <2:vs|vp>
     Lasst mich in Ruhe! <2:tp>
 Hurry up!
-  Beeil dich! <2:ts>
+  Beeil dich!|Beeile dich! <2:ts>
   Beeilen Sie sich! <2:vs|vp>
     Beeilt euch! <2:tp>
 Sit down!
-  Setz dich! <2:ts>
+  Setz dich!|Setze dich! <2:ts>
     Setzen Sie sich! <2:vs|vp>
     Setzt euch! <2:tp>
 Wake up!
   Wachen Sie auf! <2:vs|vp>
-  Wach auf! <2:ts>
+  Wach auf!|Wache auf! <2:ts>
     Wacht auf! <2:tp>
 Do you have a car?
   Hast du ein Auto? <2:ts>
@@ -337,15 +336,15 @@ Do you have a driver's licence?
     Seid ihr im Besitz eines Führerscheins? <2:tp>
 Please call a taxi for me.
   Bitte rufen Sie mir ein Taxi. <2:vs|vp>
-    Bitte ruf mir ein Taxi. <2:ts>
+    Bitte ruf mir ein Taxi.|Bitte rufe mir ein Taxi. <2:ts>
     Bitte ruft mir ein Taxi. <2:tp>
 Please call a taxi for me.
   Bitte rufen Sie ein Taxi für mich. <2:vs|vp>
-    Bitte ruf ein Taxi für mich. <2:ts>
+    Bitte ruf ein Taxi für mich.|Bitte rufe ein Taxi für mich. <2:ts>
     Bitte ruft ein Taxi für mich. <2:tp>
 Please call a taxi for me.
   Rufen Sie mir bitte ein Taxi. <2:vs|vp>
-    Ruf mir bitte ein Taxi. <2:ts>
+    Ruf mir bitte ein Taxi.|Rufe mir bitte ein Taxi. <2:ts>
     Ruft mir bitte ein Taxi. <2:tp>
 Do you have a vacancy?
   Haben Sie eine Stelle frei? <2:vs|vp>
@@ -493,7 +492,7 @@ Can you email it to me?
     Könnt ihr es mir mailen? <2:tp>
 Can you email it to me?
   Können Sie es mir per E-Mail zusenden? <2:vs|vp>
-    Können du es mir per E-Mail zusenden? <2:ts>
+    Kannst du es mir per E-Mail zusenden? <2:ts>
     Können ihr es mir per E-Mail zusenden? <2:tp>
 Can you email it to me?
   Können Sie mir die Daten bitte per E-Mail senden? <2:vs|vp>
@@ -604,7 +603,7 @@ Say hello to your mother for me.
   Grüßen Sie Ihre Mutter von mir. <2:vs|vp>
     Grüßt eure Mutter von mir. <2:tp>
 Say hello to your mother for me.
-  Sag Hallo zu deiner Mutter für mich. <2:ts>
+  Sag Hallo zu deiner Mutter für mich.|Sage Hallo zu deiner Mutter für mich. <2:ts>
     Sagen Sie Hallo zu Ihrer Mutter für mich. <2:vs|vp>
     Sagt Hallo zu eurer Mutter für mich. <2:tp>
 What are you doing here?
@@ -637,11 +636,11 @@ You are so tall!
     Ihr seid so groß! <2:tp>
 Call me when you're ready.
   Rufen Sie mich an, wenn Sie bereit sind. <2:vs|vp>
-    Ruf mich an, wenn du bereit bist. <2:ts>
+    Ruf mich an, wenn du bereit bist.|Rufe mich an, wenn du bereit bist. <2:ts>
     Ruft mich an, wenn ihr bereit seid. <2:tp>
 Call me when you're ready.
   Rufen Sie mich an, wenn Sie so weit sind. <2:vs|vp>
-    Ruf mich an, wenn du so weit bist. <2:ts>
+    Ruf mich an, wenn du so weit bist.|Rufe mich an, wenn du so weit bist. <2:ts>
     Ruft mich an, wenn ihr so weit seid. <2:tp>
 When will you be finished?
   Wann bist du fertig? <2:ts>
@@ -692,7 +691,7 @@ Is this a problem for you?
     Ist das ein Problem für dich? <2:ts>
     Ist das ein Problem für euch? <2:tp>
 Don't worry!
-  Mach dir keine Sorgen! <2:ts>
+  Mach dir keine Sorgen!|Mache dir keine Sorgen! <2:ts>
     Machen Sie sich keine Sorgen! <2:vs|vp>
     Macht euch keine Sorgen! <2:tp>
 Are you scared?
@@ -701,7 +700,7 @@ Are you scared?
     Habt ihr Angst? <2:tp>
 Are you on the train?
   Bist du im Zug? <2:ts>
-  Sind Sie imm Zug? <2:vs|vp>
+  Sind Sie im Zug? <2:vs|vp>
     Seid ihr im Zug? <2:tp>
 Can I bring you anything else?
   Kann ich dir irgendetwas anderes bringen? <2:ts>
@@ -725,7 +724,7 @@ Would you like to go for dinner with me?
     Möchtet ihr mit mir essen gehen? <2:tp>
 Close the windows please.
   Schließen Sie bitte die Fenster. <2:vs|vp>
-    Schließ bitte die Fenster. <2:ts>
+    Schließ bitte die Fenster.|Schließe bitte die Fenster. <2:ts>
     Schließt bitte die Fenster. <2:tp>
 Open the window please.
   Öffne bitte das Fenster. <2:ts>
@@ -891,8 +890,8 @@ You can rely on us.
     Auf uns kannst du dich verlassen. <2:ts>
     Auf uns könnt ihr euch verlassen. <2:tp>
 Hurry up please.
-  Beeil dich bitte. <2:ts>
-  Beeilen Sie bitte. <2:vs|vp>
+  Beeil dich bitte.|Beeile dich bitte. <2:ts>
+  Beeilen Sie sich bitte. <2:vs|vp>
     Beeilt euch bitte. <2:tp>
 You are late.
   Du bist spät. <2:ts>
@@ -1056,15 +1055,15 @@ Have you met the new director yet?
     Habt ihr die neue Direktorin schon kennengelernt? <2:tp> <3:director:sf>
 Tell that to my lawyer.
   Sagen Sie das meinem Anwalt. <2:vs|vp> <3:lawyer:sm>
-    Sag das meinem Anwalt. <2:ts> <3:lawyer:sm>
-    Sag das meiner Anwältin. <2:ts> <3:lawyer:sf>
+    Sag das meinem Anwalt.|Sage das meinem Anwalt. <2:ts> <3:lawyer:sm>
+    Sag das meiner Anwältin.|Sage das meiner Anwältin. <2:ts> <3:lawyer:sf>
     Sagen Sie das meiner Anwältin. <2:vs|vp> <3:lawyer:sf>
     Sagt das meinem Anwalt. <2:tp> <3:lawyer:sm>
     Sagt das meiner Anwältin. <2:tp> <3:lawyer:sf>
 Tell that to my lawyer.
   Erzählen Sie das meinem Anwalt. <2:vs|vp> <3:lawyer:sm>
-    Erzähl das meinem Anwalt. <2:ts> <3:lawyer:sm>
-    Erzähl das meiner Anwältin. <2:ts> <3:lawyer:sf>
+    Erzähl das meinem Anwalt.|Erzähle das meinem Anwalt. <2:ts> <3:lawyer:sm>
+    Erzähl das meiner Anwältin.|Erzähle das meiner Anwältin. <2:ts> <3:lawyer:sf>
     Erzählen Sie das meiner Anwältin. <2:vs|vp> <3:lawyer:sf>
     Erzählt das meinem Anwalt. <2:tp> <3:lawyer:sm>
     Erzählt das meiner Anwältin. <2:tp> <3:lawyer:sf>
@@ -1216,7 +1215,7 @@ I know where you live.
     Ich weiß, wo ihr wohnt. <2:tp>
 Tell me what you want.
   Sagen Sie mir, was Sie wollen. <2:vs|vp>
-  Sag mir, was du willst. <2:ts>
+  Sag mir, was du willst.|Sage mir, was du willst. <2:ts>
     Sagt mir, was ihr wollt. <2:tp>
 What did your mother tell you?
   Was hat dir deine Mutter gesagt? <2:ts>
@@ -1249,7 +1248,7 @@ What do you want for your birthday?
     Was wünscht ihr euch zum Geburtstag? <2:tp>
 What do you want for your birthday?
   Was wünschen Sie sich zu Ihrem Geburtstag? <2:vs|vp>
-    Was wünschst du dich zu deinem Geburtstag? <2:ts>
+    Was wünschst du dir zu deinem Geburtstag? <2:ts>
     Was wünscht ihr euch zu eurem Geburtstag? <2:tp>
 You have to protect yourselves.
   Sie müssen sich schützen. <2:vp>
@@ -1282,7 +1281,7 @@ I'll do anything for you.
     Ich werde alles für euch tun. <2:tp>
 Don't ask me any questions.
   Stellen Sie mir keine Fragen. <2:vs|vp>
-    Stell mir keine Fragen. <2:ts>
+    Stell mir keine Fragen.|Stelle mir keine Fragen. <2:ts>
     Stellt mir keine Fragen. <2:tp>
 Do you like me?
   Magst du mich? <2:ts>
@@ -1294,11 +1293,7 @@ I'm sorry but you're wrong.
     Es tut mir leid, aber ihr liegt falsch. <2:tp>
 Correct me if I'm wrong.
   Korrigieren Sie mich, wenn ich falsch liege. <2:vs|vp>
-    Korrigier mich, wenn ich falsch liege. <2:ts>
-    Korrigiert mich, wenn ich falsch liege. <2:tp>
-Correct me if I'm wrong.
-  Korrigiere mich, wenn ich falsch liege. <2:ts>
-    Korrigieren Sie mich, wenn ich falsch liege. <2:vs|vp>
+  Korrigier mich, wenn ich falsch liege.|Korrigiere mich, wenn ich falsch liege. <2:ts>
     Korrigiert mich, wenn ich falsch liege. <2:tp>
 This is what they sent you.
   Das haben sie dir geschickt. <2:ts>
@@ -1339,11 +1334,15 @@ The pilot arrived late.
   Der Pilot kam zu spät. <3:pilot:sm>
     Die Pilotin kam zu spät. <3:pilot:sf>
 The flight attendant arrived late.
-  Die Flugbegleiterin kam zu spät. <3:flight attendant:sf>
-    Der Flugbegleiter kam zu spät. <3:flight attendant:sm>
+  Die Flugbegleiterin kam zu spät. <3:attendant:sf>
+    Der Flugbegleiter kam zu spät. <3:attendant:sm>
 The dancer danced elegantly.
   Die Tänzerin tanzte elegant. <3:dancer:sf>
     Der Tänzer tanzte elegant. <3:dancer:sm>
 My neighbour goes to the gym.
   Mein Nachbar geht ins Fitnessstudio. <3:neighbour:sm>
     Meine Nachbarin geht in das Fitnessstudio. <3:neighbour:sf>
+I know a good lawyer in Vienna that I can recommend.
+  Ich kenne einen guten Anwalt in Wien, den ich empfehlen kann. <3:lawyer:sm>
+    Ich kenne eine gute Anwältin in Wien, die ich empfehlen kann. <3:lawyer:sf>
+
