@@ -1,0 +1,2096 @@
+You don't have to come tomorrow.
+  Ihr braucht morgen nicht zu kommen. <2:vs|vp>
+  Du brauchst morgen nicht zu kommen. <2:ts>
+    Ihr braucht morgen nicht zu kommen. <2:tp>
+Where have you been?
+  Wo sind Sie gewesen? <2:vs|vp>
+  Wo bist du gewesen? <2:ts>
+    Wo seid ihr gewesen? <2:tp>
+Do you live here?
+  Wohnen Sie hier? <2:vs|vp>
+  Wohnst du hier? <2:ts>
+    Wohnt ihr hier? <2:tp>
+You should have attended the meeting.
+  Sie hätten zum Meeting gehen sollen. <2:vs|vp>
+  Du hättest zum Meeting gehen sollen. <2:ts>
+    Ihr hättet zum Meeting gehen sollen. <2:tp>
+How many books do you have?
+  Wie viele Bücher haben Sie? <2:vs|vp>
+  Wie viele Bücher hast du? <2:ts>
+    Wie viele Bücher habt ihr? <2:tp>
+What are you looking for?
+  Was suchen Sie? <2:vs|vp>
+  Was suchst du? <2:ts>
+    Was sucht ihr? <2:tp>
+You only have to try hard.
+  Sie brauchen sich nur anzustrengen. <2:vs|vp>
+  Du brauchst dich nur anzustrengen. <2:ts>
+    Ihr braucht euch nur anzustrengen. <2:tp>
+You've done it!
+  Sie haben es getan! <2:vs|vp>
+  Du hast es getan! <2:ts>
+    Ihr habt es getan! <2:tp>
+You are very brave.
+  Sie sind sehr mutig. <2:vs|vp>
+  Du bist sehr mutig. <2:ts>
+    Ihr seid sehr mutig. <2:tp>
+I admire you for your courage.
+  Ich bewundere Sie für Ihren Mut. <2:vs|vp>
+  Ich bewundere dich für deinen Mut. <2:ts>
+    Ich bewundere euch für euren Mut. <2:tp>
+You have the advantage of a good education.
+  Ihr habt den Vorteil einer guten Bildung. <2:vs|vp>
+  Du hast den Vorteil einer guten Bildung. <2:ts>
+    Ihr habt den Vorteil einer guten Bildung. <2:tp>
+Who is your teacher?
+  Wer ist Ihr Lehrer? <2:vs|vp>
+  Wer ist dein Lehrer? <2:ts>
+    Wer ist Ihr Lehrer? <2:tp>
+Do you want to be rich?
+  Wollen Sie reich sein? <2:vs|vp>
+  Willst du reich sein? <2:ts>
+    Wollt ihr reich sein? <2:tp>
+You don't have to hurry.
+  Sie brauchen sich nicht zu beeilen. <2:vs|vp>
+  Du brauchst dich nicht zu beeilen. <2:ts>
+    Ihr braucht euch nicht zu beeilen. <2:tp>
+Be quick, or you will miss the train.
+  Beeilen Sie sich, oder Sie verpassen den Zug. <2:vs|vp>
+  Beeil dich, oder du verpasst den Zug. <2:ts>
+    Beeilt euch, oder ihr verpasst den Zug. <2:tp>
+Have a nice weekend.
+  Ich wünsche Ihnen ein schönes Wochenende. <2:vs|vp>
+  Ich wünsche dir ein schönes Wochenende. <2:ts>
+    Ich wünsche euch ein schönes Wochenende. <2:tp>
+What are you thinking about?
+  Woran denken Sie? <2:vs|vp>
+  Woran denkst du? <2:ts>
+    Woran denkt ihr? <2:tp>
+Have a nice day.
+  Ich wünsche Ihnen einen schönen Tag. <2:vs|vp>
+  Ich wünsche dir einen schönen Tag. <2:ts>
+    Ich wünsche euch einen schönen Tag. <2:tp>
+If you were in my place, what would you do?
+  Was würden Sie an meiner Stelle machen? <2:vs|vp>
+  Was würdest du an meiner Stelle machen? <2:ts>
+    Was würdet ihr an meiner Stelle machen? <2:tp>
+Have you ever been to Mexico?
+  Waren Sie schon mal in Mexiko? <2:vs|vp>
+  Warst du schon mal in Mexiko? <2:ts>
+    Wart ihr schon mal in Mexiko? <2:tp>
+You must be kidding!
+  Sie machen wohl Scherze! <2:vs|vp>
+  Du machst wohl Scherze! <2:ts>
+    Ihr macht wohl Scherze! <2:tp>
+Why are you crying?
+  Warum weinen Sie? <2:vs|vp>
+  Warum weinst du? <2:ts>
+    Warum weint ihr? <2:tp>
+How did you make it?
+  Wie haben Sie es gemacht? <2:vs|vp>
+  Wie hast du es gemacht? <2:ts>
+    Wie habt ihr es gemacht? <2:tp>
+Please take good care of yourself.
+  Passen Sie bitte gut auf sich auf! <2:vs|vp>
+  Pass bitte gut auf dich auf! <2:ts>
+    Passt bitte gut auf euch auf! <2:tp>
+There is no sense in your worrying about your health so much.
+  Es hat keinen Sinn, dass Sie sich um Ihren Gesundheitszustand so viele Sorgen machen. <2:vs|vp>
+  Es hat keinen Sinn, dass du dir um deinen Gesundheitszustand so viele Sorgen machst. <2:ts>
+    Es hat keinen Sinn, dass ihr euch um euren Gesundheitszustand so viele Sorgen macht. <2:tp>
+It serves you right.
+  Das haben Sie jetzt davon! <2:vs|vp>
+  Das hast du jetzt davon! <2:ts>
+    Das habt ihr jetzt davon! <2:tp>
+How did you like it?
+  Wie hat es Ihnen gefallen? <2:vs|vp>
+  Wie hat es dir gefallen? <2:ts>
+    Wie hat es euch gefallen? <2:tp>
+You made a good decision.
+  Ihr habt eine gute Entscheidung getroffen. <2:vs|vp>
+  Du hast eine gute Entscheidung getroffen. <2:ts>
+    Ihr habt eine gute Entscheidung getroffen. <2:tp>
+That depends on whether you are interested or not.
+  Das hängt davon ab, ob Sie daran Interesse haben oder nicht. <2:vs|vp>
+  Das hängt davon ab, ob du daran Interesse hast oder nicht. <2:ts>
+    Das hängt davon ab, ob ihr daran Interesse habt oder nicht. <2:tp>
+Keep away from that.
+  Halten Sie sich davon fern! <2:vs|vp>
+  Halte dich davon fern! <2:ts>
+    Haltet euch davon fern! <2:tp>
+Do you have any ideas about it?
+  Fällt Ihnen was dazu ein? <2:vs|vp>
+  Fällt dir was dazu ein? <2:ts>
+    Fällt euch was dazu ein? <2:tp>
+What do you mean by it?
+  Was meinen Sie damit? <2:vs|vp>
+  Was meinst du damit? <2:ts>
+    Was meint ihr damit? <2:tp>
+How do you feel about it?
+  Wie geht es Ihnen damit? <2:vs|vp>
+  Wie geht es dir damit? <2:ts>
+    Wie geht es euch damit? <2:tp>
+What do you mean by that?
+  Was meinen Sie damit? <2:vs|vp>
+  Was meinst du damit? <2:ts>
+    Was meint ihr damit? <2:tp>
+It is no use pretending you know nothing about it.
+  Es bringt nichts, so zu tun, als wüssten Sie nichts darüber. <2:vs|vp>
+  Es bringt nichts, so zu tun, als wüsstest du nichts darüber. <2:ts>
+    Es bringt nichts, so zu tun, als wüsstet ihr nichts darüber. <2:tp>
+I'll leave it up to your imagination.
+  Das überlasse ich Ihrer Phantasie. <2:vs|vp>
+  Das überlasse ich deiner Phantasie. <2:ts>
+    Das überlasse ich eurer Phantasie. <2:tp>
+Is this your car?
+  Ist dieses Auto Ihres? <2:vs|vp>
+  Ist dieses Auto deines? <2:ts>
+    Ist dieses Auto eures? <2:tp>
+Is this your book?
+  Ist das Ihr Buch? <2:vs|vp>
+  Ist dies dein Buch? <2:ts>
+    Ist das Ihr Buch? <2:tp>
+Are these the glasses you're looking for?
+  Ist das die Brille, die Sie gesucht haben? <2:vs|vp>
+  Ist das die Brille, die du gesucht hast? <2:ts>
+    Ist das die Brille, die ihr gesucht habt? <2:tp>
+Is this book yours?
+  Ist das Ihr Buch? <2:vs|vp>
+  Ist dies dein Buch? <2:ts>
+    Ist das Ihr Buch? <2:tp>
+How do you interpret these sentences?
+  Wie interpretieren Sie diese Sätze? <2:vs|vp>
+  Wie interpretierst du diese Sätze? <2:ts>
+    Wie interpretiert ihr diese Sätze? <2:tp>
+You had better not speak loudly in this room.
+  Ihr solltet in diesem Raum nicht laut sprechen. <2:vs|vp>
+  Du solltest in diesem Raum nicht laut sprechen. <2:ts>
+    Ihr solltet in diesem Raum nicht laut sprechen. <2:tp>
+Would you mind not smoking in this room?
+  Würde es Ihnen etwas ausmachen, in diesem Zimmer nicht zu rauchen? <2:vs|vp>
+  Würde es dir etwas ausmachen, in diesem Zimmer nicht zu rauchen? <2:ts>
+    Würde es euch etwas ausmachen, in diesem Zimmer nicht zu rauchen? <2:tp>
+Are you free this weekend?
+  Haben Sie an diesem Wochenende Zeit? <2:vs|vp>
+  Hast du an diesem Wochenende Zeit? <2:ts>
+    Habt ihr an diesem Wochenende Zeit? <2:tp>
+I'll miss you so much.
+  Ihr werdet mir so sehr fehlen. <2:vs|vp>
+  Du wirst mir so sehr fehlen. <2:ts>
+    Ihr werdet mir so sehr fehlen. <2:tp>
+Would you like to have a cup of tea?
+  Was würden Sie zu einer Tasse Tee sagen? <2:vs|vp>
+  Was würdest du zu einer Tasse Tee sagen? <2:ts>
+    Was würdet ihr zu einer Tasse Tee sagen? <2:tp>
+Thank you for coming.
+  Danke, dass Sie gekommen sind! <2:vs|vp>
+  Danke, dass du gekommen bist! <2:ts>
+    Danke, dass ihr gekommen seid! <2:tp>
+Are you busy?
+  Haben Sie zu tun? <2:vs|vp>
+  Hast du zu tun? <2:ts>
+    Habt ihr zu tun? <2:tp>
+You are absolutely right.
+  Ihr habt vollkommen recht. <2:vs|vp>
+  Du hast vollkommen recht. <2:ts>
+    Ihr habt vollkommen recht. <2:tp>
+When did you get home?
+  Wann sind Sie nach Hause gekommen? <2:vs|vp>
+  Wann bist du nach Hause gekommen? <2:ts>
+    Wann seid ihr nach Hause gekommen? <2:tp>
+How do you spell your family name?
+  Wie wird Ihr Familienname geschrieben? <2:vs|vp>
+  Wie wird dein Familienname geschrieben? <2:ts>
+    Wie wird Ihr Familienname geschrieben? <2:tp>
+Did you clean your room?
+  Haben Sie Ihr Zimmer aufgeräumt? <2:vs|vp>
+  Hast du dein Zimmer aufgeräumt? <2:ts>
+    Habt ihr euer Zimmer aufgeräumt? <2:tp>
+I'm willing to accept your offer.
+  Ich bin bereit, Ihr Angebot anzunehmen. <2:vs|vp>
+  Ich bin bereit, dein Angebot anzunehmen. <2:ts>
+    Ich bin bereit, euer Angebot anzunehmen. <2:tp>
+What is your name?
+  Wie ist Ihr Name? <2:vs|vp>
+  Was ist dein Name? <2:ts>
+    Wie ist Ihr Name? <2:tp>
+Who is your favorite author?
+  Wer ist Ihr Lieblingsschriftsteller? <2:vs|vp>
+  Wer ist dein Lieblingsschriftsteller? <2:ts>
+    Wer ist euer Lieblingsschriftsteller? <2:tp>
+Yours is over there.
+  Ihrer ist dort drüben. <2:vs|vp>
+  Deiner ist dort drüben. <2:ts>
+    Eurer ist dort drüben. <2:tp>
+I would like to tell you something.
+  Ich würde Ihnen gern etwas sagen. <2:vs|vp>
+  Ich würde dir gern etwas sagen. <2:ts>
+    Ich würde euch gern etwas sagen. <2:tp>
+I hope that you will like it.
+  Ich hoffe, es wird Ihnen gefallen. <2:vs|vp>
+  Ich hoffe, es wird dir gefallen. <2:ts>
+    Ich hoffe, es wird euch gefallen. <2:tp>
+We miss you very much.
+  Wir vermissen Sie sehr. <2:vs|vp>
+  Wir vermissen dich sehr. <2:ts>
+    Wir vermissen euch sehr. <2:tp>
+This book is yours.
+  Dieses Buch gehört Ihnen. <2:vs|vp>
+  Dieses Buch gehört dir. <2:ts>
+    Dieses Buch gehört euch. <2:tp>
+I am counting on you.
+  Ich zähle auf Sie. <2:vs|vp>
+  Ich zähle auf dich. <2:ts>
+    Ich zähle auf euch. <2:tp>
+I'll show you that I am right.
+  Ich werde Ihnen beweisen, dass ich recht habe. <2:vs|vp>
+  Ich werde dir beweisen, dass ich recht habe. <2:ts>
+    Ich werde euch beweisen, dass ich recht habe. <2:tp>
+You should not have done it without my permission.
+  Sie hätten das nicht ohne meine Erlaubnis tun sollen. <2:vs|vp>
+  Du hättest das nicht ohne meine Erlaubnis tun sollen. <2:ts>
+    Ihr hättet das nicht ohne meine Erlaubnis tun sollen. <2:tp>
+Put yourself in my place.
+  Versetzen Sie sich in meine Lage. <2:vs|vp>
+  Versetze dich in meine Lage. <2:ts>
+    Versetzt euch in meine Lage. <2:tp>
+We worry about your future.
+  Wir sorgen uns um Ihre Zukunft. <2:vs|vp>
+  Wir sorgen uns um deine Zukunft. <2:ts>
+    Wir sorgen uns um eure Zukunft. <2:tp>
+You must be joking!
+  Ihr beliebt wohl zu scherzen. <2:vs|vp>
+  Du beliebst wohl zu scherzen. <2:ts>
+    Ihr beliebt wohl zu scherzen. <2:tp>
+Did you stop at the red light?
+  Haben Sie an der roten Ampel angehalten? <2:vs|vp>
+  Hast du an der roten Ampel angehalten? <2:ts>
+    Habt ihr an der roten Ampel angehalten? <2:tp>
+May I have a look at your ticket?
+  Darf ich Ihr Ticket ansehen? <2:vs|vp>
+  Darf ich dein Ticket anschauen? <2:ts>
+    Darf ich Ihr Ticket ansehen? <2:tp>
+Look at the mountains covered with snow.
+  Schauen Sie sich die schneebedeckten Berge an! <2:vs|vp>
+  Schau dir die schneebedeckten Berge an! <2:ts>
+    Schaut euch die schneebedeckten Berge an! <2:tp>
+Do as he tells you.
+  Tun Sie, was er Ihnen sagt. <2:vs|vp>
+  Tu, was er dir sagt. <2:ts>
+    Tut, was er euch sagt. <2:tp>
+He asked after you.
+  Er fragte nach Ihnen. <2:vs|vp>
+  Er fragte nach dir. <2:ts>
+    Er fragte nach euch. <2:tp>
+Do you think her story is false?
+  Glauben Sie, ihre Geschichte stimmt nicht? <2:vs|vp>
+  Glaubst du, ihre Geschichte stimmt nicht? <2:ts>
+    Glaubt ihr, ihre Geschichte stimmt nicht? <2:tp>
+Do you know what I mean?
+  Verstehen Sie, was ich meine? <2:vs|vp>
+  Verstehst du, was ich meine? <2:ts>
+    Versteht ihr, was ich meine? <2:tp>
+Did you mention my book?
+  Haben Sie mein Buch angesprochen? <2:vs|vp>
+  Hast du mein Buch angesprochen? <2:ts>
+    Habt ihr mein Buch angesprochen? <2:tp>
+I'm depending on you.
+  Ich bin auf Sie angewiesen. <2:vs|vp>
+  Ich bin auf dich angewiesen. <2:ts>
+    Ich bin auf euch angewiesen. <2:tp>
+Please prepare for the trip.
+  Bitte bereiten Sie sich auf den Ausflug vor. <2:vs|vp>
+  Bitte bereite dich auf den Ausflug vor. <2:ts>
+    Bitte bereitet euch auf den Ausflug vor. <2:tp>
+May I sit next to you?
+  Darf ich mich neben Sie setzen? <2:vs|vp>
+  Darf ich mich neben dich setzen? <2:ts>
+    Darf ich mich neben euch setzen? <2:tp>
+Where are you from?
+  Wo sind Sie her? <2:vs|vp>
+  Wo bist du her? <2:ts>
+    Wo seid ihr her? <2:tp>
+How many pens do you have?
+  Wie viele Stifte haben Sie? <2:vs|vp>
+  Wie viele Stifte hast du? <2:ts>
+    Wie viele Stifte habt ihr? <2:tp>
+What do you want to eat?
+  Was wollen Sie essen? <2:vs|vp>
+  Was willst du essen? <2:ts>
+    Was wollt ihr essen? <2:tp>
+When you go, I'll miss you very much.
+  Wenn Sie gehen, werden Sie mir sehr fehlen. <2:vs|vp>
+  Wenn du gehst, wirst du mir sehr fehlen. <2:ts>
+    Wenn ihr geht, werdet ihr mir sehr fehlen. <2:tp>
+Why did you do that?
+  Warum haben Sie das getan? <2:vs|vp>
+  Warum hast du das getan? <2:ts>
+    Warum habt ihr das getan? <2:tp>
+Don't you have any money?
+  Haben Sie kein Geld? <2:vs|vp>
+  Hast du kein Geld? <2:ts>
+    Habt ihr kein Geld? <2:tp>
+Could you turn it down?
+  Konnten Sie es ablehnen? <2:vs|vp>
+  Konntest du es ablehnen? <2:ts>
+    Konntet ihr es ablehnen? <2:tp>
+You're kidding!
+  Sie machen wohl Witze! <2:vs|vp>
+  Du machst wohl Witze! <2:ts>
+    Ihr macht wohl Witze! <2:tp>
+You're joking!
+  Ihr beliebt wohl zu scherzen! <2:vs|vp>
+  Du beliebst wohl zu scherzen! <2:ts>
+    Ihr beliebt wohl zu scherzen! <2:tp>
+Don't overexert yourself.
+  Verausgaben Sie sich nicht. <2:vs|vp>
+  Verausgabe dich nicht. <2:ts>
+    Verausgabt euch nicht. <2:tp>
+How is your surname written?
+  Wie wird Ihr Familienname geschrieben? <2:vs|vp>
+  Wie wird dein Familienname geschrieben? <2:ts>
+    Wie wird Ihr Familienname geschrieben? <2:tp>
+We miss you a lot.
+  Wir vermissen Sie sehr. <2:vs|vp>
+  Wir vermissen dich sehr. <2:ts>
+    Wir vermissen euch sehr. <2:tp>
+May I help you?
+  Darf ich Ihnen helfen? <2:vs|vp>
+  Darf ich dir helfen? <2:ts>
+    Darf ich euch helfen? <2:tp>
+Are you speaking to me?
+  Reden Sie mit mir? <2:vs|vp>
+  Redest du mit mir? <2:ts>
+    Redet ihr mit mir? <2:tp>
+You should go.
+  Sie sollten gehen. <2:vs|vp>
+  Du solltest gehen. <2:ts>
+    Ihr solltet gehen. <2:tp>
+Would you like to go to a movie tomorrow night?
+  Würdet Ihr morgen Abend gerne ins Kino gehen? <2:vs|vp>
+  Würdest du morgen Abend gerne ins Kino gehen? <2:ts>
+    Würdet Ihr morgen Abend gerne ins Kino gehen? <2:tp>
+Are you going, too?
+  Gehen Sie auch dorthin? <2:vs|vp>
+  Gehst du auch dorthin? <2:ts>
+    Geht ihr auch dorthin? <2:tp>
+Jesus hates you.
+  Jesus verabscheut Sie. <2:vs|vp>
+  Jesus verabscheut dich. <2:ts>
+    Jesus verabscheut euch. <2:tp>
+Are you afraid of horror movies?
+  Bekommen Sie bei Horrorfilmen Angst? <2:vs|vp>
+  Bekommst du bei Horrorfilmen Angst? <2:ts>
+    Bekommt ihr bei Horrorfilmen Angst? <2:tp>
+What method do you use to organize your files?
+  Was für eine Methode benutzen Sie, um Ihre Dateien zu ordnen? <2:vs|vp>
+  Was für eine Methode benutzt du, um deine Dateien zu ordnen? <2:ts>
+    Was für eine Methode benutzt ihr, um eure Dateien zu ordnen? <2:tp>
+I do not want to cause you any trouble.
+  Ich möchte Ihnen keine Umstände bereiten. <2:vs|vp>
+  Ich möchte dir keine Umstände bereiten. <2:ts>
+    Ich möchte euch keine Umstände bereiten. <2:tp>
+You should wash your hands before you eat.
+  Sie sollten sich vor dem Essen die Hände waschen. <2:vs|vp>
+  Du solltest dir vor dem Essen die Hände waschen. <2:ts>
+    Ihr solltet euch vor dem Essen die Hände waschen. <2:tp>
+You've put on weight.
+  Ihr habt zugenommen. <2:vs|vp>
+  Du hast zugenommen. <2:ts>
+    Ihr habt zugenommen. <2:tp>
+I hear you.
+  Ich weiß, was Sie meinen. <2:vs|vp>
+  Ich weiß, was du meinst. <2:ts>
+    Ich weiß, was ihr meint. <2:tp>
+You're starting to piss me off.
+  Sie gehen mir langsam auf die Eier. <2:vs|vp>
+  Du gehst mir langsam auf die Eier. <2:ts>
+    Ihr geht mir langsam auf die Eier. <2:tp>
+What's your favorite image editing software?
+  Was ist Ihr Lieblingsbildbearbeitungsprogramm? <2:vs|vp>
+  Was ist dein Lieblingsbildbearbeitungsprogramm? <2:ts>
+    Was ist Ihr Lieblingsbildbearbeitungsprogramm? <2:tp>
+What's your favorite operating system?
+  Was ist Ihr Lieblingsbetriebssystem? <2:vs|vp>
+  Was ist dein Lieblingsbetriebssystem? <2:ts>
+    Was ist Ihr Lieblingsbetriebssystem? <2:tp>
+What's your favorite war movie?
+  Was ist Ihr Lieblingskriegsfilm? <2:vs|vp>
+  Was ist dein Lieblingskriegsfilm? <2:ts>
+    Was ist Ihr Lieblingskriegsfilm? <2:tp>
+Who's your favorite painter?
+  Wer ist Ihre Lieblingsmalerin? <2:vs|vp>
+  Wer ist deine Lieblingsmalerin? <2:ts>
+    Wer ist Ihr Lieblingsmaler? <2:tp>
+Who's your favorite singer-songwriter?
+  Wer ist Ihr Lieblingsliedermacher? <2:vs|vp>
+  Wer ist dein Lieblingsliedermacher? <2:ts>
+    Wer ist Ihr Lieblingsliedermacher? <2:tp>
+How is your family name written?
+  Wie wird Ihr Familienname geschrieben? <2:vs|vp>
+  Wie wird dein Familienname geschrieben? <2:ts>
+    Wie wird Ihr Familienname geschrieben? <2:tp>
+What's the spelling of your family name?
+  Wie wird Ihr Familienname geschrieben? <2:vs|vp>
+  Wie wird dein Familienname geschrieben? <2:ts>
+    Wie wird Ihr Familienname geschrieben? <2:tp>
+How do you write your last name?
+  Wie wird Ihr Familienname geschrieben? <2:vs|vp>
+  Wie wird dein Familienname geschrieben? <2:ts>
+    Wie wird Ihr Familienname geschrieben? <2:tp>
+How do you spell your last name?
+  Wie wird Ihr Familienname geschrieben? <2:vs|vp>
+  Wie wird dein Familienname geschrieben? <2:ts>
+    Wie wird Ihr Familienname geschrieben? <2:tp>
+Who's your teacher?
+  Wer ist Ihr Lehrer? <2:vs|vp>
+  Wer ist dein Lehrer? <2:ts>
+    Wer ist Ihr Lehrer? <2:tp>
+Are you on Facebook?
+  Sind Sie bei Facebook? <2:vs|vp>
+  Bist du bei Facebook? <2:ts>
+    Seid ihr bei Facebook? <2:tp>
+Do you think I'm ugly?
+  Finden Sie, ich bin hässlich? <2:vs|vp>
+  Findest du, ich bin hässlich? <2:ts>
+    Findet ihr, ich bin hässlich? <2:tp>
+Aren't you coming to the party tomorrow?
+  Kommen Sie nicht zur Party morgen? <2:vs|vp>
+  Kommst du nicht zur Party morgen? <2:ts>
+    Kommt ihr nicht zur Party morgen? <2:tp>
+You've got a vivid imagination!
+  Sie haben eine blühende Phantasie! <2:vs|vp>
+  Du hast eine blühende Phantasie! <2:ts>
+    Ihr habt eine blühende Phantasie! <2:tp>
+How is your last name written?
+  Wie wird Ihr Familienname geschrieben? <2:vs|vp>
+  Wie wird dein Familienname geschrieben? <2:ts>
+    Wie wird Ihr Familienname geschrieben? <2:tp>
+You have no driving experience.
+  Sie haben keine Fahrpraxis. <2:vs|vp>
+  Du hast keine Fahrerfahrung. <2:ts>
+    Ihr habt keine Fahrpraxis. <2:tp>
+Are you sure about this?
+  Sind Sie sich da sicher? <2:vs|vp>
+  Bist du dir dessen sicher? <2:ts>
+    Seid ihr euch dessen sicher? <2:tp>
+How was your trip?
+  Wie war Ihre Reise? <2:vs|vp>
+  Wie war deine Reise? <2:ts>
+    Wie war eure Reise? <2:tp>
+You again?
+  Ihr schon wieder? <2:vs|vp>
+  Du schon wieder? <2:ts>
+    Ihr schon wieder? <2:tp>
+I'm going to miss your cooking.
+  Mir werden Ihre Kochkünste fehlen. <2:vs|vp>
+  Mir werden deine Kochkünste fehlen. <2:ts>
+    Mir werden eure Kochkünste fehlen. <2:tp>
+Did you make it?
+  Haben Sie es gemacht? <2:vs|vp>
+  Hast du es gemacht? <2:ts>
+    Habt ihr es gemacht? <2:tp>
+Do whatever you like.
+  Tun Sie, was auch immer Sie wollen. <2:vs|vp>
+  Tu, was auch immer du willst. <2:ts>
+    Tut, was auch immer ihr wollt. <2:tp>
+It is vital that you be present.
+  Es ist sehr wichtig, dass Sie zugegen sind. <2:vs|vp>
+  Es ist sehr wichtig, dass du zugegen bist. <2:ts>
+    Es ist sehr wichtig, dass ihr zugegen seid. <2:tp>
+Do you understand the difference?
+  Verstehen Sie den Unterschied? <2:vs|vp>
+  Verstehst du den Unterschied? <2:ts>
+    Versteht ihr den Unterschied? <2:tp>
+Where in Turkey do you live?
+  Wo in der Türkei wohnen Sie? <2:vs|vp>
+  Wo in der Türkei wohnst du? <2:ts>
+    Wo in der Türkei wohnt ihr? <2:tp>
+Did you know that?
+  Haben Sie das gewusst? <2:vs|vp>
+  Hast du das gewusst? <2:ts>
+    Habt ihr das gewusst? <2:tp>
+Why are you still here?
+  Warum sind Sie noch hier? <2:vs|vp>
+  Warum bist du noch hier? <2:ts>
+    Warum seid ihr noch hier? <2:tp>
+Why have you parked here?
+  Warum haben Sie hier parkiert? <2:vs|vp>
+  Warum hast du hier parkiert? <2:ts>
+    Warum habt ihr hier parkiert? <2:tp>
+Why didn't you tell me?
+  Warum haben Sie mir nichts gesagt? <2:vs|vp>
+  Warum hast du mir nichts gesagt? <2:ts>
+    Warum habt ihr mir nichts gesagt? <2:tp>
+Don't you have a pen?
+  Haben Sie keinen Stift? <2:vs|vp>
+  Hast du keinen Stift? <2:ts>
+    Habt ihr keinen Stift? <2:tp>
+I hear what you're saying.
+  Ich weiß, was Sie meinen. <2:vs|vp>
+  Ich weiß, was du meinst. <2:ts>
+    Ich weiß, was ihr meint. <2:tp>
+Have you ever read "Moby Dick"?
+  Haben Sie schon einmal „Moby Dick“ gelesen? <2:vs|vp>
+  Hast du schon einmal „Moby Dick“ gelesen? <2:ts>
+    Habt ihr schon einmal „Moby Dick“ gelesen? <2:tp>
+You've been warned.
+  Man hat Sie gewarnt. <2:vs|vp>
+  Man hat dich gewarnt. <2:ts>
+    Man hat Euch gewarnt. <2:tp>
+You're late to the party.
+  Sie kommen spät zum Fest. <2:vs|vp>
+  Du kommst spät zur Feier. <2:ts>
+    Ihr kommt spät zum Fest. <2:tp>
+Have you tried it before?
+  Haben Sie es schon einmal ausprobiert? <2:vs|vp>
+  Hast du es schon einmal ausprobiert? <2:ts>
+    Habt ihr es schon einmal ausprobiert? <2:tp>
+How about a cup of hot coffee?
+  Was würden Sie zu einem heißen Kaffee sagen? <2:vs|vp>
+  Was würdest du zu einem heißen Kaffee sagen? <2:ts>
+    Was würdet ihr zu einem heißen Kaffee sagen? <2:tp>
+How about a cup of coffee?
+  Was würden Sie zu einer Tasse Kaffee sagen? <2:vs|vp>
+  Was würdest du zu einer Tasse Kaffee sagen? <2:ts>
+    Was würdet ihr zu einer Tasse Kaffee sagen? <2:tp>
+Drop your weapons!
+  Werfen Sie Ihre Waffen weg! <2:vs|vp>
+  Wirf deine Waffen weg! <2:ts>
+    Werft eure Waffen weg! <2:tp>
+You're the best.
+  Sie sind die Beste. <2:vs|vp>
+  Du bist die Beste. <2:ts>
+    Ihr seid die Besten. <2:tp>
+I'd be happy to sing for you.
+  Es wäre mir ein Vergnügen, für Sie zu singen. <2:vs|vp>
+  Es wäre mir ein Vergnügen, für dich zu singen. <2:ts>
+    Es wäre mir ein Vergnügen, für euch zu singen. <2:tp>
+I want you to fly to Boston tomorrow.
+  Ich möchte, dass Sie morgen nach Boston fliegen. <2:vs|vp>
+  Ich möchte, dass du morgen nach Boston fliegst. <2:ts>
+    Ich möchte, dass ihr morgen nach Boston fliegt. <2:tp>
+Where've you been?
+  Wo sind Sie gewesen? <2:vs|vp>
+  Wo bist du gewesen? <2:ts>
+    Wo seid ihr gewesen? <2:tp>
+Don't worry. I won't tell anyone.
+  Machen Sie sich keine Gedanken. Ich sage keinem etwas. <2:vs|vp>
+  Mach dir keine Gedanken. Ich sage keinem etwas. <2:ts>
+    Macht euch keine Gedanken. Ich sage keinem etwas. <2:tp>
+Do you participate in the marathon?
+  Machen Sie mit beim Marathon? <2:vs|vp>
+  Machst du mit beim Marathon? <2:ts>
+    Macht ihr mit beim Marathon? <2:tp>
+Do you have any more questions?
+  Haben Sie noch weitere Fragen? <2:vs|vp>
+  Hast du noch weitere Fragen? <2:ts>
+    Habt ihr noch weitere Fragen? <2:tp>
+Why didn't you say goodbye?
+  Warum haben Sie nicht auf Wiedersehen gesagt? <2:vs|vp>
+  Warum hast du nicht auf Wiedersehen gesagt? <2:ts>
+    Warum habt ihr nicht auf Wiedersehen gesagt? <2:tp>
+Think of your family.
+  Denken Sie an Ihre Familie! <2:vs|vp>
+  Denke an deine Familie! <2:ts>
+    Denkt an eure Familie! <2:tp>
+You are completely wrong.
+  Sie liegen völlig falsch. <2:vs|vp>
+  Du liegst völlig falsch. <2:ts>
+    Ihr liegt völlig falsch. <2:tp>
+I thought you'd be alone.
+  Ich dachte, Sie wären allein. <2:vs|vp>
+  Ich dachte, du wärest allein. <2:ts>
+    Ich dachte, ihr wäret allein. <2:tp>
+Do you want me to wait?
+  Wollen Sie, dass ich warte? <2:vs|vp>
+  Willst du, dass ich warte? <2:ts>
+    Wollt ihr, dass ich warte? <2:tp>
+I don't want to see you.
+  Ich will mich nicht mit Ihnen treffen. <2:vs|vp>
+  Ich will mich nicht mit dir treffen. <2:ts>
+    Ich will mich nicht mit euch treffen. <2:tp>
+Do you want to risk that?
+  Wollen Sie das wagen? <2:vs|vp>
+  Willst du das wagen? <2:ts>
+    Wollt ihr das wagen? <2:tp>
+Your lawyers want to see you.
+  Ihre Anwälte wollen Sie sprechen. <2:vs|vp>
+  Deine Anwälte wollen dich sprechen. <2:ts>
+    Eure Anwälte wollen euch sprechen. <2:tp>
+Don't you want to know what happened?
+  Wollen Sie nicht wissen, was passiert ist? <2:vs|vp>
+  Willst du nicht wissen, was passiert ist? <2:ts>
+    Wollt ihr nicht wissen, was passiert ist? <2:tp>
+Do you want to resign?
+  Haben Sie vor, zurückzutreten? <2:vs|vp>
+  Hast du vor, zurückzutreten? <2:ts>
+    Habt ihr vor, zurückzutreten? <2:tp>
+I didn't want to scare you.
+  Ich wollte Ihnen keine Angst machen. <2:vs|vp>
+  Ich wollte dir keine Angst machen. <2:ts>
+    Ich wollte euch keine Angst machen. <2:tp>
+Nobody wants you to do that.
+  Keiner möchte, dass Sie das tun. <2:vs|vp>
+  Keiner möchte, dass du das tust. <2:ts>
+    Keiner möchte, dass ihr das tut. <2:tp>
+Nobody wants you to do this.
+  Keiner möchte, dass Sie das tun. <2:vs|vp>
+  Keiner möchte, dass du das tust. <2:ts>
+    Keiner möchte, dass ihr das tut. <2:tp>
+I want to know how you did it.
+  Ich möchte wissen, wie Sie das gemacht haben. <2:vs|vp>
+  Ich möchte wissen, wie du das gemacht hast. <2:ts>
+    Ich möchte wissen, wie ihr das gemacht habt. <2:tp>
+I want you to turn off the radio.
+  Ich möchte, dass Sie das Radio ausmachen. <2:vs|vp>
+  Ich möchte, dass du das Radio ausmachst. <2:ts>
+    Ich möchte, dass ihr das Radio ausmacht. <2:tp>
+You don't want to make Tom mad, do you?
+  Sie wollen Tom doch nicht wütend machen, oder? <2:vs|vp>
+  Du willst Tom doch nicht wütend machen, oder? <2:ts>
+    Ihr wollt Tom doch nicht wütend machen, oder? <2:tp>
+I thought you said you didn't want to be disturbed.
+  Ich dachte, Sie sagten, Sie wollten nicht gestört werden. <2:vs|vp>
+  Ich dachte, du sagtest, du wollest nicht gestört werden. <2:ts>
+    Ich dachte, ihr sagtet, ihr wollet nicht gestört werden. <2:tp>
+You don't have to talk about it if you don't want to.
+  Sie brauchen darüber nicht zu sprechen, wenn Sie nicht wollen. <2:vs|vp>
+  Du brauchst darüber nicht zu sprechen, wenn du nicht willst. <2:ts>
+    Ihr braucht darüber nicht zu sprechen, wenn ihr nicht wollt. <2:tp>
+Does that make you happy?
+  Beglückt Sie das? <2:vs|vp>
+  Beglückt dich das? <2:ts>
+    Beglückt euch das? <2:tp>
+You don't look all that happy.
+  Ihr seht gar nicht so glücklich aus. <2:vs|vp>
+  Du siehst gar nicht so glücklich aus. <2:ts>
+    Ihr seht gar nicht so glücklich aus. <2:tp>
+You scared the living day lights out of me!
+  Ihr habt mich zu Tode erschreckt! <2:vs|vp>
+  Du hast mich zu Tode erschreckt! <2:ts>
+    Ihr habt mich zu Tode erschreckt! <2:tp>
+No one can help you.
+  Niemand kann Ihnen helfen. <2:vs|vp>
+  Niemand kann dir helfen. <2:ts>
+    Niemand kann euch helfen. <2:tp>
+You're useless.
+  Sie sind nutzlos. <2:vs|vp>
+  Du bist nutzlos. <2:ts>
+    Ihr seid nutzlos. <2:tp>
+You're worried.
+  Sie machen sich Sorgen. <2:vs|vp>
+  Du machst dir Sorgen. <2:ts>
+    Ihr macht euch Sorgen. <2:tp>
+You're contributing.
+  Sie leisten Beiträge. <2:vs|vp>
+  Du leistest Beiträge. <2:ts>
+    Ihr leistet Beiträge. <2:tp>
+You're cooperating.
+  Ihr kooperiert. <2:vs|vp>
+  Du kooperierst. <2:ts>
+    Ihr kooperiert. <2:tp>
+You're dying.
+  Sie liegen im Sterben. <2:vs|vp>
+  Du liegst im Sterben. <2:ts>
+    Ihr liegt im Sterben. <2:tp>
+You're humming.
+  Sie summen gerade. <2:vs|vp>
+  Du summst gerade. <2:ts>
+    Ihr summt gerade. <2:tp>
+You're winning.
+  Sie sind am Gewinnen. <2:vs|vp>
+  Du bist am Gewinnen. <2:ts>
+    Ihr seid am Gewinnen. <2:tp>
+How long did you stay at the party?
+  Wie lange blieben Sie auf der Feier? <2:vs|vp>
+  WIe lange bliebst du auf der Feier? <2:ts>
+    Wie lange bliebt ihr auf der Feier? <2:tp>
+How long did you stay in Boston?
+  Wie lange blieben Sie in Boston? <2:vs|vp>
+  Wie lange bliebst du in Boston? <2:ts>
+    Wie lange bliebt ihr in Boston? <2:tp>
+Call your brother.
+  Rufen Sie Ihren Bruder. <2:vs|vp>
+  Ruf deinen Bruder. <2:ts>
+    Ruft euren Bruder. <2:tp>
+You weren't there.
+  Ihr wart nicht dort. <2:vs|vp>
+  Du warst nicht dort. <2:ts>
+    Ihr wart nicht dort. <2:tp>
+I've been waiting for you for hours.
+  Ich warte schon stundenlang auf Sie. <2:vs|vp>
+  Ich warte schon stundenlang auf dich. <2:ts>
+    Ich warte schon stundenlang auf euch. <2:tp>
+How could you be so cruel?
+  Wie könnten Sie nur so grausam sein? <2:vs|vp>
+  Wie könntest du nur so grausam sein? <2:ts>
+    Wie könntet ihr nur so grausam sein? <2:tp>
+I came looking for you.
+  Ich bin gekommen, um Sie zu suchen. <2:vs|vp>
+  Ich bin gekommen, um dich zu suchen. <2:ts>
+    Ich bin gekommen, um euch zu suchen. <2:tp>
+Why are you looking at me like that?
+  Warum sehen Sie mich so an? <2:vs|vp>
+  Warum siehst du mich so an? <2:ts>
+    Warum seht ihr mich so an? <2:tp>
+You didn't have any reasons to be angry.
+  Ihr hattet keinen Grund, wütend zu sein. <2:vs|vp>
+  Du hattest keinen Grund, wütend zu sein. <2:ts>
+    Ihr hattet keinen Grund, wütend zu sein. <2:tp>
+I've already told you that.
+  Ich habe es Ihnen schon gesagt. <2:vs|vp>
+  Ich habe es dir schon gesagt. <2:ts>
+    Ich habe es euch schon gesagt. <2:tp>
+I knew you wouldn't believe me.
+  Ich habe gewusst, dass Sie mir nicht glauben würden. <2:vs|vp>
+  Ich habe gewusst, dass du mir nicht glauben würdest. <2:ts>
+    Ich habe gewusst, dass ihr mir nicht glauben würdet. <2:tp>
+I knew you wouldn't forget Tom.
+  Ich habe gewusst, dass Sie Tom nicht vergessen würden. <2:vs|vp>
+  Ich habe gewusst, dass du Tom nicht vergessen würdest. <2:ts>
+    Ich habe gewusst, dass ihr Tom nicht vergessen würdet. <2:tp>
+I received your message yesterday.
+  Ich habe gestern Ihre Nachricht bekommen. <2:vs|vp>
+  Ich habe gestern deine Nachricht bekommen. <2:ts>
+    Ich habe gestern eure Nachricht bekommen. <2:tp>
+What if you get caught?
+  Was ist, wenn Sie ertappt werden? <2:vs|vp>
+  Was ist, wenn du ertappt wirst? <2:ts>
+    Was ist, wenn ihr ertappt werdet? <2:tp>
+You're absolutely right.
+  Ihr habt vollkommen recht. <2:vs|vp>
+  Du hast vollkommen recht. <2:ts>
+    Ihr habt vollkommen recht. <2:tp>
+I wish you didn't have to leave.
+  Ich wünschte, Sie brauchten nicht zu gehen. <2:vs|vp>
+  Ich wünschte, du brauchtest nicht zu gehen. <2:ts>
+    Ich wünschte, ihr brauchtet nicht zu gehen. <2:tp>
+I'm glad you were there.
+  Ich freue mich, dass Sie da waren. <2:vs|vp>
+  Ich freue mich, dass du da warst. <2:ts>
+    Ich freue mich, dass ihr da wart. <2:tp>
+I'm afraid you're wrong.
+  Ich fürchte, Sie haben unrecht. <2:vs|vp>
+  Ich fürchte, du hast unrecht. <2:ts>
+    Ich fürchte, ihr habt unrecht. <2:tp>
+Have you fed the dog yet?
+  Haben Sie den Hund schon gefüttert? <2:vs|vp>
+  Hast du den Hund schon gefüttert? <2:ts>
+    Habt ihr den Hund schon gefüttert? <2:tp>
+I'll have something for you soon.
+  Ich werde bald etwas für Sie haben. <2:vs|vp>
+  Ich werde bald etwas für dich haben. <2:ts>
+    Ich werde bald etwas für euch haben. <2:tp>
+I want you here tomorrow by 2:30.
+  Ich möchte, dass Sie morgen um 2.30 Uhr hier sind. <2:vs|vp>
+  Ich möchte, dass du morgen um 2.30 Uhr hier bist. <2:ts>
+    Ich möchte, dass ihr morgen um 2.30 Uhr hier seid. <2:tp>
+Help yourself to a piece of cake.
+  Nehmen Sie sich ein Stück Kuchen! <2:vs|vp>
+  Nimm dir ein Stück Kuchen! <2:ts>
+    Nehmt euch ein Stück Kuchen! <2:tp>
+Do you want another one of these?
+  Wollen Sie noch eine von denen? <2:vs|vp>
+  Willst du noch einen von denen? <2:ts>
+    Wollt ihr noch eine von denen? <2:tp>
+Do you know something about this?
+  Ist Ihnen etwas darüber bekannt? <2:vs|vp>
+  Ist dir etwas darüber bekannt? <2:ts>
+    Ist euch etwas darüber bekannt? <2:tp>
+Did you see what Tom did to Mary?
+  Haben Sie gesehen, was Tom Maria angetan hat? <2:vs|vp>
+  Hast du gesehen, was Tom Maria angetan hat? <2:ts>
+    Habt ihr gesehen, was Tom Maria angetan hat? <2:tp>
+Are you planning on buying a car?
+  Beabsichtigen Sie, sich ein Auto zu kaufen? <2:vs|vp>
+  Beabsichtigst du, dir ein Auto zu kaufen? <2:ts>
+    Beabsichtigt ihr, euch ein Auto zu kaufen? <2:tp>
+You'll never guess what Tom did.
+  Sie werden nie darauf kommen, was Tom getan hat! <2:vs|vp>
+  Du wirst nie darauf kommen, was Tom getan hat! <2:ts>
+    Ihr werdet nie darauf kommen, was Tom getan hat! <2:tp>
+You'll feel better after a bath.
+  Nach einem Bad werden Sie sich besser fühlen. <2:vs|vp>
+  Nach einem Bad wirst du dich besser fühlen. <2:ts>
+    Nach einem Bad werdet ihr euch besser fühlen. <2:tp>
+You were very busy, weren't you?
+  Sie waren sehr beschäftigt, oder? <2:vs|vp>
+  Du warst sehr beschäftigt, oder? <2:ts>
+    Ihr wart sehr beschäftigt, oder? <2:tp>
+You never answered the question.
+  Sie haben auf die Frage nie geantwortet. <2:vs|vp>
+  Du hast auf die Frage nie geantwortet. <2:ts>
+    Ihr habt auf die Frage nie geantwortet. <2:tp>
+You had a good time, didn't you?
+  Sie haben sich gut amüsiert, oder? <2:vs|vp>
+  Du hast dich gut amüsiert, oder? <2:ts>
+    Ihr habt euch gut amüsiert, oder? <2:tp>
+What've you been doing recently?
+  Was haben Sie in letzter Zeit so getan? <2:vs|vp>
+  Was hast du in letzter Zeit so getan? <2:ts>
+    Was habt ihr in letzter Zeit so getan? <2:tp>
+Who is your friend?
+  Wer ist Ihre Freundin? <2:vs|vp>
+  Wer ist deine Freundin? <2:ts>
+    Wer ist eure Freundin? <2:tp>
+Don't worry about the baby.
+  Machen Sie sich keine Sorgen um das Baby. <2:vs|vp>
+  Mach dir keine Sorgen um das Baby. <2:ts>
+    Macht euch keine Sorgen um das Baby. <2:tp>
+How would you feel?
+  Wie wäre Ihnen zumute? <2:vs|vp>
+  Wie wäre dir zumute? <2:ts>
+    Wie wäre euch zumute? <2:tp>
+Is your headache gone?
+  Ist Ihr Kopfweh jetzt vorbei? <2:vs|vp>
+  Ist dein Kopfweh jetzt vorbei? <2:ts>
+    Ist Ihr Kopfweh jetzt vorbei? <2:tp>
+Do you do that often?
+  Tun Sie das oft? <2:vs|vp>
+  Tust du das oft? <2:ts>
+    Tut ihr das oft? <2:tp>
+You should have one of us do it.
+  Ihr solltet es einen von uns tun lassen. <2:vs|vp>
+  Du solltest es einen von uns tun lassen. <2:ts>
+    Ihr solltet es einen von uns tun lassen. <2:tp>
+I think you should apologize to Tom.
+  Ich finde, Sie sollten sich bei Tom entschuldigen. <2:vs|vp>
+  Ich finde, du solltest dich bei Tom entschuldigen. <2:ts>
+    Ich finde, ihr solltet euch bei Tom entschuldigen. <2:tp>
+"Did you like his music?" - "No, did you?"
+  „Hat Ihnen seine Musik gefallen?“ - „Nein, Ihnen?“ <2:vs|vp>
+  „Hat dir seine Musik gefallen?“ - „Nein, dir?“ <2:ts>
+    „Hat euch seine Musik gefallen?“ - „Nein, euch?“ <2:tp>
+You abandoned us in the most disgraceful manner.
+  Ihr habt uns schmählich im Stich gelassen. <2:vs|vp>
+  Du hast uns schmählich im Stich gelassen. <2:ts>
+    Ihr habt uns schmählich im Stich gelassen. <2:tp>
+You don't use it, do you?
+  Sie benutzen es nicht, oder? <2:vs|vp>
+  Du benutzt es nicht, oder? <2:ts>
+    Ihr benutzt es nicht, oder? <2:tp>
+You're very different from us.
+  Sie sind ganz anders als wir. <2:vs|vp>
+  Du bist ganz anders als wir. <2:ts>
+    Ihr seid ganz anders als wir. <2:tp>
+Have you ever been to the Black Sea?
+  Sind Sie schon einmal am Schwarzen Meer gewesen? <2:vs|vp>
+  Bist du schon einmal am Schwarzen Meer gewesen? <2:ts>
+    Seid ihr schon einmal am Schwarzen Meer gewesen? <2:tp>
+Would you mind if I ask you a question?
+  Hätten Sie etwas dagegen, wenn ich Ihnen eine Frage stellte? <2:vs|vp>
+  Hättest du etwas dagegen, wenn ich dir eine Frage stellte? <2:ts>
+    Hättet ihr etwas dagegen, wenn ich euch eine Frage stellte? <2:tp>
+You swim very quickly.
+  Ihr schwimmt sehr schnell. <2:vs|vp>
+  Du schwimmst sehr schnell. <2:ts>
+    Ihr schwimmt sehr schnell. <2:tp>
+A lot has happened while you've been gone.
+  Während Ihrer Abwesenheit ist viel passiert. <2:vs|vp>
+  Während deiner Abwesenheit ist viel passiert. <2:ts>
+    Während eurer Abwesenheit ist viel passiert. <2:tp>
+Who told you I was Canadian?
+  Wer hat Ihnen erzählt, dass ich Kanadier sei? <2:vs|vp>
+  Wer hat dir erzählt, dass ich Kanadier sei? <2:ts>
+    Wer hat euch erzählt, dass ich Kanadier sei? <2:tp>
+I think you're exaggerating.
+  Ich finde, Sie übertreiben. <2:vs|vp>
+  Ich finde, du übertreibst. <2:ts>
+    Ich finde, ihr übertreibt. <2:tp>
+What do you expect me to do?
+  Was soll ich Ihrer Meinung nach tun? <2:vs|vp>
+  Was soll ich deiner Meinung nach tun? <2:ts>
+    Was soll ich eurer Meinung nach tun? <2:tp>
+Did you get in touch with Tom?
+  Haben Sie sich bei Tom gemeldet? <2:vs|vp>
+  Hast du dich bei Tom gemeldet? <2:ts>
+    Habt ihr euch bei Tom gemeldet? <2:tp>
+Why did you want to talk to Tom?
+  Warum wollten Sie mit Tom sprechen? <2:vs|vp>
+  Warum wolltest du mit Tom sprechen? <2:ts>
+    Warum wolltet ihr mit Tom sprechen? <2:tp>
+Did you remember to thank Tom?
+  Haben Sie daran gedacht, sich bei Tom zu bedanken? <2:vs|vp>
+  Hast du daran gedacht, dich bei Tom zu bedanken? <2:ts>
+    Habt ihr daran gedacht, euch bei Tom zu bedanken? <2:tp>
+Did you get that ticket from Tom?
+  Haben Sie die Fahrkarte von Tom bekommen? <2:vs|vp>
+  Hast du die Fahrkarte von Tom bekommen? <2:ts>
+    Habt ihr die Fahrkarte von Tom bekommen? <2:tp>
+How long did you work for Tom?
+  Wie lange haben Sie bei Tom gearbeitet? <2:vs|vp>
+  Wie lange hast du bei Tom gearbeitet? <2:ts>
+    Wie lange habt ihr bei Tom gearbeitet? <2:tp>
+Could you turn off the TV?
+  Könnten Sie den Fernseher ausschalten? <2:vs|vp>
+  Könntest du den Fernseher ausstellen? <2:ts>
+    Könntet ihr den Fernseher ausschalten? <2:tp>
+I thought you said it wasn't contagious.
+  Ihr sagtet doch, das sei nicht ansteckend. <2:vs|vp>
+  Du sagtest doch, das sei nicht ansteckend. <2:ts>
+    Ihr sagtet doch, das sei nicht ansteckend. <2:tp>
+What is it you're afraid of?
+  Wovor fürchten Sie sich? <2:vs|vp>
+  Wovor fürchtest du dich? <2:ts>
+    Wovor fürchtet ihr euch? <2:tp>
+Keep doing what you're doing.
+  Setzen Sie Ihr Tun fort! <2:vs|vp>
+  Setze dein Tun fort! <2:ts>
+    Setzt euer Tun fort! <2:tp>
+Have you fixed the thermostat?
+  Haben Sie das Thermostat instand gesetzt? <2:vs|vp>
+  Hast du das Thermostat instand gesetzt? <2:ts>
+    Habt ihr das Thermostat instand gesetzt? <2:tp>
+You're not going to walk, are you?
+  Sie wollen doch wohl nicht laufen, oder? <2:vs|vp>
+  Du willst doch wohl nicht laufen, oder? <2:ts>
+    Ihr wollt doch wohl nicht laufen, oder? <2:tp>
+Tom isn't as intelligent as you.
+  Tom ist nicht so klug wie Sie. <2:vs|vp>
+  Tom ist nicht so klug wie du. <2:ts>
+    Tom ist nicht so klug wie ihr. <2:tp>
+Tom isn't mad at you.
+  Tom ist nicht wütend auf Sie. <2:vs|vp>
+  Tom ist nicht wütend auf dich. <2:ts>
+    Tom ist nicht wütend auf euch. <2:tp>
+You don't really care, do you?
+  Das interessiert Sie gar nicht, oder? <2:vs|vp>
+  Das interessiert dich gar nicht, oder? <2:ts>
+    Das interessiert euch gar nicht, oder? <2:tp>
+Why would I fire you?
+  Warum sollte ich Sie rausschmeißen? <2:vs|vp>
+  Warum sollte ich dich rausschmeißen? <2:ts>
+    Warum sollte ich euch rausschmeißen? <2:tp>
+It was never my intention to hurt you.
+  Ich hatte nie die Absicht, Ihnen weh zu tun. <2:vs|vp>
+  Ich hatte nie die Absicht, dir weh zu tun. <2:ts>
+    Ich hatte nie die Absicht, euch weh zu tun. <2:tp>
+Where can we meet you?
+  Wo können wir uns mit Ihnen treffen? <2:vs|vp>
+  Wo können wir uns mit dir treffen? <2:ts>
+    Wo können wir uns mit euch treffen? <2:tp>
+I think Tom misses you.
+  Ich glaube, Sie fehlen Tom. <2:vs|vp>
+  Ich glaube, du fehlst Tom. <2:ts>
+    Ich glaube, ihr fehlt Tom. <2:tp>
+What motivated you?
+  Was hat Sie angetrieben? <2:vs|vp>
+  Was hat dich angetrieben? <2:ts>
+    Was hat euch angetrieben? <2:tp>
+You shouldn't have brought Tom with you.
+  Ihr hättet Tom besser nicht mitgebracht. <2:vs|vp>
+  Du hättest Tom besser nicht mitgebracht. <2:ts>
+    Ihr hättet Tom besser nicht mitgebracht. <2:tp>
+You tortured a prisoner.
+  Ihr habt einen Gefangenen gefoltert. <2:vs|vp>
+  Du hast einen Gefangenen gefoltert. <2:ts>
+    Ihr habt einen Gefangenen gefoltert. <2:tp>
+You asked for our help.
+  Ihr habt uns um Hilfe gebeten. <2:vs|vp>
+  Du hast uns um Hilfe gebeten. <2:ts>
+    Ihr habt uns um Hilfe gebeten. <2:tp>
+Do you have a friend named Tom?
+  Haben Sie einen Freund namens Tom? <2:vs|vp>
+  Hast du einen Freund namens Tom? <2:ts>
+    Habt ihr einen Freund namens Tom? <2:tp>
+How did you know I was Canadian?
+  Woher wussten Sie, dass ich Kanadier bin? <2:vs|vp>
+  Woher wusstest du, dass ich Kanadierin bin? <2:ts>
+    Woher wusstet ihr, dass ich Kanadier bin? <2:tp>
+Tell me where you plan to go for your summer vacation.
+  Erzählen Sie mir, wohin Sie in Ihrem Sommerurlaub planen zu fahren. <2:vs|vp>
+  Erzähl mir, wohin du in deinem Sommerurlaub planst zu fahren. <2:ts>
+    Erzählt mir, wohin ihr in eurem Sommerurlaub plant zu fahren. <2:tp>
+Did you know this?
+  Haben Sie das gewusst? <2:vs|vp>
+  Hast du das gewusst? <2:ts>
+    Habt ihr das gewusst? <2:tp>
+Did you mean this?
+  Haben Sie das beabsichtigt? <2:vs|vp>
+  Hast du das beabsichtigt? <2:ts>
+    Habt ihr das beabsichtigt? <2:tp>
+Do what he tells you.
+  Tun Sie, was er Ihnen sagt. <2:vs|vp>
+  Tu, was er dir sagt. <2:ts>
+    Tut, was er euch sagt. <2:tp>
+So you talked to Mary?
+  Ihr habt also mit Maria gesprochen? <2:vs|vp>
+  Du hast also mit Maria gesprochen? <2:ts>
+    Ihr habt also mit Maria gesprochen? <2:tp>
+What advice did Tom give you?
+  Welchen Rat hat Tom Ihnen gegeben? <2:vs|vp>
+  Welchen Rat hat Tom dir gegeben? <2:ts>
+    Welchen Rat hat Tom euch gegeben? <2:tp>
+Did you cook this yourself?
+  Haben Sie das selbst gekocht? <2:vs|vp>
+  Hast du das selber gekocht? <2:ts>
+    Habt ihr das selber gekocht? <2:tp>
+Are you enjoying this?
+  Haben Sie Freude daran? <2:vs|vp>
+  Hast du Freude daran? <2:ts>
+    Habt ihr Freude daran? <2:tp>
+Did you enjoy that?
+  Hat Ihnen das Freude gemacht? <2:vs|vp>
+  Hat dir das Freude gemacht? <2:ts>
+    Hat euch das Freude gemacht? <2:tp>
+You've taught us a great deal.
+  Ihr habt uns viel beigebracht. <2:vs|vp>
+  Du hast uns viel beigebracht. <2:ts>
+    Ihr habt uns viel beigebracht. <2:tp>
+You've been a great help.
+  Sie waren uns eine große Hilfe. <2:vs|vp>
+  Du warst uns eine große Hilfe. <2:ts>
+    Ihr wart uns eine große Hilfe. <2:tp>
+What are you afraid of?
+  Wovor fürchten Sie sich? <2:vs|vp>
+  Wovor fürchtest du dich? <2:ts>
+    Wovor fürchtet ihr euch? <2:tp>
+What did you wear?
+  Was haben Sie angehabt? <2:vs|vp>
+  Was hast du angehabt? <2:ts>
+    Was habt ihr angehabt? <2:tp>
+Did you know my father?
+  Haben Sie meinen Vater gekannt? <2:vs|vp>
+  Hast du meinen Vater gekannt? <2:ts>
+    Habt ihr meinen Vater gekannt? <2:tp>
+Can I give you some friendly advice?
+  Darf ich Ihnen einen freundschaftlichen Rat geben? <2:vs|vp>
+  Darf ich dir einen freundschaftlichen Rat geben? <2:ts>
+    Darf ich euch einen freundschaftlichen Rat geben? <2:tp>
+I promise I won't tell anyone where you are.
+  Ich verspreche, dass ich niemandem sagen werde, wo Sie sind. <2:vs|vp>
+  Ich verspreche, dass ich niemandem sagen werde, wo du bist. <2:ts>
+    Ich verspreche, dass ich niemandem sagen werde, wo ihr seid. <2:tp>
+You don't seem too enthusiastic.
+  Sie scheinen nicht allzu begeistert zu sein. <2:vs|vp>
+  Du scheinst nicht allzu begeistert zu sein. <2:ts>
+    Ihr scheint nicht allzu begeistert zu sein. <2:tp>
+What I told you yesterday wasn't true.
+  Was ich Ihnen gestern gesagt habe, stimmte nicht. <2:vs|vp>
+  Was ich dir gestern gesagt habe, stimmte nicht. <2:ts>
+    Was ich euch gestern gesagt habe, stimmte nicht. <2:tp>
+When did you start writing songs?
+  Wann haben Sie mit dem Liederschreiben angefangen? <2:vs|vp>
+  Wann hast du mit dem Liederschreiben angefangen? <2:ts>
+    Wann habt ihr mit dem Liederschreiben angefangen? <2:tp>
+You've lost too much blood.
+  Ihr habt zu viel Blut verloren. <2:vs|vp>
+  Du hast zu viel Blut verloren. <2:ts>
+    Ihr habt zu viel Blut verloren. <2:tp>
+Why are you pretending you don't remember?
+  Warum tun Sie so, als würden Sie sich nicht erinnern? <2:vs|vp>
+  Warum tust du so, als würdest du dich nicht erinnern? <2:ts>
+    Warum tut ihr so, als würdet ihr euch nicht erinnern? <2:tp>
+How do you like my new suit?
+  Wie finden Sie mein neues Kostüm? <2:vs|vp>
+  Wie findest du mein neues Kostüm? <2:ts>
+    Wie findet ihr mein neues Kostüm? <2:tp>
+Would you like me to show you how to do that?
+  Soll ich Ihnen zeigen, wie man das macht? <2:vs|vp>
+  Soll ich dir zeigen, wie man das macht? <2:ts>
+    Soll ich euch zeigen, wie man das macht? <2:tp>
+Are you German?
+  Sind Sie Deutsche? <2:vs|vp>
+  Bist du Deutsche? <2:ts>
+    Seid ihr Deutsche? <2:tp>
+If you change your mind, let us know.
+  Geben Sie uns Bescheid, wenn Sie es sich anders überlegen. <2:vs|vp>
+  Gib uns Bescheid, wenn du es dir anders überlegst. <2:ts>
+    Gebt uns Bescheid, wenn ihr es euch anders überlegt. <2:tp>
+What do I owe you?
+  Was bin ich Ihnen schuldig? <2:vs|vp>
+  Was bin ich dir schuldig? <2:ts>
+    Was bin ich euch schuldig? <2:tp>
+Do I owe you something?
+  Bin ich Ihnen etwas schuldig? <2:vs|vp>
+  Bin ich dir etwas schuldig? <2:ts>
+    Bin ich euch etwas schuldig? <2:tp>
+Do I owe you money?
+  Bin ich Ihnen Geld schuldig? <2:vs|vp>
+  Bin ich dir Geld schuldig? <2:ts>
+    Bin ich euch Geld schuldig? <2:tp>
+How much do I owe you?
+  Wie viel bin ich Ihnen schuldig? <2:vs|vp>
+  Wie viel bin ich dir schuldig? <2:ts>
+    Wie viel bin ich euch schuldig? <2:tp>
+How much money do I owe you?
+  Wie viel Geld schulde ich Ihnen? <2:vs|vp>
+  Wie viel Geld schulde ich dir? <2:ts>
+    Wie viel Geld schulde ich euch? <2:tp>
+How much do I owe you for the ticket?
+  Wie viel schulde ich Ihnen für die Eintrittskarte? <2:vs|vp>
+  Wie viel schulde ich dir für die Eintrittskarte? <2:ts>
+    Wie viel schulde ich euch für die Eintrittskarte? <2:tp>
+Does Tom still owe you money?
+  Ist Tom Ihnen immer noch Geld schuldig? <2:vs|vp>
+  Ist Tom dir immer noch Geld schuldig? <2:ts>
+    Ist Tom euch immer noch Geld schuldig? <2:tp>
+How much money does Tom owe you?
+  Wie viel Geld ist Tom Ihnen schuldig? <2:vs|vp>
+  Wie viel Geld ist Tom dir schuldig? <2:ts>
+    Wie viel Geld ist Tom euch schuldig? <2:tp>
+Did you bring yours?
+  Haben Sie Ihre mitgebracht? <2:vs|vp>
+  Hast du deinen mitgebracht? <2:ts>
+    Habt ihr euren mitgebracht? <2:tp>
+Why did you bring it?
+  Warum haben Sie sie mitgebracht? <2:vs|vp>
+  Warum hast du sie mitgebracht? <2:ts>
+    Warum habt ihr sie mitgebracht? <2:tp>
+Can I take your picture?
+  Darf ich ein Foto von Ihnen machen? <2:vs|vp>
+  Darf ich ein Foto von dir machen? <2:ts>
+    Darf ich ein Foto von euch machen? <2:tp>
+You survived.
+  Ihr habt überlebt. <2:vs|vp>
+  Du hast überlebt. <2:ts>
+    Ihr habt überlebt. <2:tp>
+Please take one.
+  Bitte nehmen Sie sich eins. <2:vs|vp>
+  Bitte nimm dir einen. <2:ts>
+    Bitte nehmt euch eins. <2:tp>
+You look European.
+  Ihr seht europäisch aus. <2:vs|vp>
+  Du siehst europäisch aus. <2:ts>
+    Ihr seht europäisch aus. <2:tp>
+You've been really helpful.
+  Ihr wart eine große Hilfe. <2:vs|vp>
+  Du warst eine große Hilfe. <2:ts>
+    Ihr wart eine große Hilfe. <2:tp>
+You should take things more seriously.
+  Ihr solltet die Dinge ernster nehmen. <2:vs|vp>
+  Du solltest die Dinge ernster nehmen. <2:ts>
+    Ihr solltet die Dinge ernster nehmen. <2:tp>
+You should be more careful the next time.
+  Ihr solltet das nächste Mal vorsichtiger sein. <2:vs|vp>
+  Du solltest das nächste Mal vorsichtiger sein. <2:ts>
+    Ihr solltet das nächste Mal vorsichtiger sein. <2:tp>
+Thank you very much for your present.
+  Vielen Dank für Ihr Geschenk. <2:vs|vp>
+  Vielen Dank für dein Geschenk. <2:ts>
+    Vielen Dank für Ihr Geschenk. <2:tp>
+Where are you going to?
+  Wohin gehen Sie? <2:vs|vp>
+  Wohin gehst du? <2:ts>
+    Wohin geht ihr? <2:tp>
+You have laughed at me.
+  Ihr habt mich ausgelacht. <2:vs|vp>
+  Du hast mich ausgelacht. <2:ts>
+    Ihr habt mich ausgelacht. <2:tp>
+Are you Hungarian?
+  Sind Sie Ungarinnen? <2:vs|vp>
+  Bist du Ungarin? <2:ts>
+    Seid ihr Ungarinnen? <2:tp>
+Don't leave your belongings unattended.
+  Lassen Sie Ihre Sachen nie unbeaufsichtigt liegen! <2:vs|vp>
+  Lass deine Sachen nie unbeaufsichtigt liegen! <2:ts>
+    Lasst eure Sachen nie unbeaufsichtigt liegen! <2:tp>
+Just do only what Tom tells you.
+  Tun Sie einfach nur, was Tom Ihnen sagt! <2:vs|vp>
+  Tu einfach nur, was Tom dir sagt! <2:ts>
+    Tut einfach nur, was Tom euch sagt! <2:tp>
+You aren't Canadian.
+  Sie sind keine Kanadierinnen. <2:vs|vp>
+  Du bist keine Kanadierin. <2:ts>
+    Ihr seid keine Kanadierinnen. <2:tp>
+You're not Canadian.
+  Sie sind kein Kanadier. <2:vs|vp>
+  Du bist kein Kanadier. <2:ts>
+    Ihr seid keine Kanadier. <2:tp>
+You'd better not go out today.
+  Ihr solltet heute besser nicht rausgehen. <2:vs|vp>
+  Du solltest heute besser nicht rausgehen. <2:ts>
+    Ihr solltet heute besser nicht rausgehen. <2:tp>
+Whatever you do, don't let go of the rope.
+  Was Sie auch machen, lassen Sie nicht das Seil los. <2:vs|vp>
+  Was du auch machst, lass nicht das Seil los. <2:ts>
+    Was ihr auch macht, lasst nicht das Seil los. <2:tp>
+What do you find so interesting about him?
+  Was finden Sie an ihm so interessant? <2:vs|vp>
+  Was findest du an ihm so interessant? <2:ts>
+    Was findet ihr an ihm so interessant? <2:tp>
+What do you find so interesting about squirrels?
+  Was finden Sie an Eichhörnchen so interessant? <2:vs|vp>
+  Was findest du an Eichhörnchen so interessant? <2:ts>
+    Was findet ihr an Eichhörnchen so interessant? <2:tp>
+You've got willpower.
+  Ihr habt Willensstärke. <2:vs|vp>
+  Du hast Willensstärke. <2:ts>
+    Ihr habt Willensstärke. <2:tp>
+You don't have to answer this question.
+  Ihr braucht diese Frage nicht zu beantworten. <2:vs|vp>
+  Du brauchst diese Frage nicht zu beantworten. <2:ts>
+    Ihr braucht diese Frage nicht zu beantworten. <2:tp>
+I bet you're hungry.
+  Ich wette, Sie sind hungrig. <2:vs|vp>
+  Ich wette, du bist hungrig. <2:ts>
+    Ich wette, ihr seid hungrig. <2:tp>
+Let me know if you need my help.
+  Geben Sie mir Bescheid, wenn Sie Hilfe brauchen. <2:vs|vp>
+  Gib mir Bescheid, wenn du Hilfe brauchst. <2:ts>
+    Gebt mir Bescheid, wenn ihr Hilfe braucht. <2:tp>
+You should've told me earlier.
+  Ihr hättet mir früher Bescheid geben sollen. <2:vs|vp>
+  Du hättest mir früher Bescheid geben sollen. <2:ts>
+    Ihr hättet mir früher Bescheid geben sollen. <2:tp>
+I'll let you know tomorrow.
+  Ich werde Ihnen morgen Bescheid geben. <2:vs|vp>
+  Ich werde dir morgen Bescheid geben. <2:ts>
+    Ich werde euch morgen Bescheid geben. <2:tp>
+Tom can give you advice about that.
+  Dazu kann Ihnen Tom Ratschläge geben. <2:vs|vp>
+  Dazu kann dir Tom Ratschläge geben. <2:ts>
+    Dazu kann euch Tom Ratschläge geben. <2:tp>
+You did that on purpose.
+  Das haben Sie mit Absicht gemacht. <2:vs|vp>
+  Das hast du mit Absicht getan. <2:ts>
+    Das habt ihr mit Absicht getan. <2:tp>
+I can't do it without you.
+  Ohne Sie schaffe ich es nicht. <2:vs|vp>
+  Ohne dich schaffe ich es nicht. <2:ts>
+    Ohne euch schaffe ich es nicht. <2:tp>
+Did Tom contact you?
+  Hat Tom Sie kontaktiert? <2:vs|vp>
+  Hat Tom dich kontaktiert? <2:ts>
+    Hat Tom euch kontaktiert? <2:tp>
+Did you shoot Tom?
+  Haben Sie auf Tom geschossen? <2:vs|vp>
+  Hast du auf Tom geschossen? <2:ts>
+    Habt ihr auf Tom geschossen? <2:tp>
+You won't tell Tom, will you?
+  Ihr werdet Tom doch nichts sagen, oder? <2:vs|vp>
+  Du wirst Tom doch nichts sagen, oder? <2:ts>
+    Ihr werdet Tom doch nichts sagen, oder? <2:tp>
+Did you enjoy the film?
+  Hat Ihnen der Film gefallen? <2:vs|vp>
+  Hat der Film dir gefallen? <2:ts>
+    Hat euch der Film gefallen? <2:tp>
+You played football yesterday.
+  Ihr habt gestern Fußball gespielt. <2:vs|vp>
+  Du hast gestern Fußball gespielt. <2:ts>
+    Ihr habt gestern Fußball gespielt. <2:tp>
+I'm afraid I can't tell you that.
+  Ich kann Ihnen das leider nicht sagen. <2:vs|vp>
+  Ich kann dir das leider nicht sagen. <2:ts>
+    Ich kann euch das leider nicht sagen. <2:tp>
+Do you have children already?
+  Haben Sie bereits Kinder? <2:vs|vp>
+  Hast du bereits Kinder? <2:ts>
+    Habt ihr bereits Kinder? <2:tp>
+You lost.
+  Ihr habt verloren. <2:vs|vp>
+  Du hast verloren. <2:ts>
+    Ihr habt verloren. <2:tp>
+Have you ever lost?
+  Haben Sie schon einmal verloren? <2:vs|vp>
+  Hast du schon einmal verloren? <2:ts>
+    Habt ihr schon einmal verloren? <2:tp>
+Have you lost your ticket?
+  Haben Sie Ihre Eintrittskarte verloren? <2:vs|vp>
+  Hast du deine Eintrittskarte verloren? <2:ts>
+    Habt ihr eure Eintrittskarte verloren? <2:tp>
+You'll be fine!
+  Sie werden schon klarkommen. <2:vs|vp>
+  Du wirst schon klarkommen. <2:ts>
+    Ihr werdet schon klarkommen. <2:tp>
+We have one for you, too.
+  Wir haben auch eins für Sie. <2:vs|vp>
+  Wir haben auch eine für dich. <2:ts>
+    Wir haben auch einen für euch. <2:tp>
+Why don't you have one?
+  Warum haben Sie keins? <2:vs|vp>
+  Warum hast du keins? <2:ts>
+    Warum habt ihr keine? <2:tp>
+How much cash do you have?
+  Wie viel Bargeld haben Sie? <2:vs|vp>
+  Wie viel Bargeld hast du? <2:ts>
+    Wie viel Bargeld habt ihr? <2:tp>
+Who saw you?
+  Wer sah Sie? <2:vs|vp>
+  Wer sah dich? <2:ts>
+    Wer sah euch? <2:tp>
+Could you do that?
+  Könnten Sie das tun? <2:vs|vp>
+  Könntest du das tun? <2:ts>
+    Könntet ihr das tun? <2:tp>
+How could you do that?
+  Wie konnten Sie das tun? <2:vs|vp>
+  Wie konntest du das tun? <2:ts>
+    Wie konntet ihr das tun? <2:tp>
+You could never do that.
+  Ihr könntet das nie tun. <2:vs|vp>
+  Du könntest das niemals tun. <2:ts>
+    Ihr könntet das nie tun. <2:tp>
+Which one do you like best?
+  Welches gefällt Ihnen am meisten? <2:vs|vp>
+  Welche gefällt dir am meisten? <2:ts>
+    Welches gefällt euch am meisten? <2:tp>
+You think too much.
+  Ihr denkt zu viel nach. <2:vs|vp>
+  Du denkst zu viel nach. <2:ts>
+    Ihr denkt zu viel nach. <2:tp>
+Nobody can help you.
+  Niemand kann Ihnen helfen. <2:vs|vp>
+  Niemand kann dir helfen. <2:ts>
+    Niemand kann euch helfen. <2:tp>
+Are you Swedish?
+  Sind Sie Schweden? <2:vs|vp>
+  Bist du Schwedin? <2:ts>
+    Seid ihr Schwedinnen? <2:tp>
+You've done so much for me.
+  Ihr habt so viel für mich getan! <2:vs|vp>
+  Du hast so viel für mich getan! <2:ts>
+    Ihr habt so viel für mich getan! <2:tp>
+I hope you're doing well.
+  Ich hoffe, es geht Ihnen gut. <2:vs|vp>
+  Ich hoffe, es geht dir gut. <2:ts>
+    Ich hoffe, es geht euch gut. <2:tp>
+You are not needed.
+  Man braucht Sie nicht. <2:vs|vp>
+  Man braucht dich nicht. <2:ts>
+    Man braucht euch nicht. <2:tp>
+I hope nobody saw you doing that.
+  Ich hoffe, dass Sie keiner dabei gesehen hat. <2:vs|vp>
+  Ich hoffe, dass dich keiner dabei gesehen hat. <2:ts>
+    Ich hoffe, dass euch keiner dabei gesehen hat. <2:tp>
+Are you still happy with your new car?
+  Sind Sie immer noch zufrieden mit Ihrem neuen Wagen? <2:vs|vp>
+  Bist du immer noch zufrieden mit deinem neuen Wagen? <2:ts>
+    Seid ihr immer noch zufrieden mit eurem neuen Wagen? <2:tp>
+Why don't you understand?
+  Warum kapieren Sie das nicht? <2:vs|vp>
+  Warum kapierst du das nicht? <2:ts>
+    Warum kapiert ihr das nicht? <2:tp>
+Are you well prepared for today's exam?
+  Haben Sie sich gut auf die heutige Prüfung vorbereitet? <2:vs|vp>
+  Hast du dich gut auf die heutige Prüfung vorbereitet? <2:ts>
+    Habt ihr euch gut auf die heutige Prüfung vorbereitet? <2:tp>
+You should've seen the look on Tom's face when I told him.
+  Ihr hättet Toms Gesichtsausdruck sehen müssen, als ich es ihm sagte. <2:vs|vp>
+  Du hättest Toms Gesichtsausdruck sehen müssen, als ich es ihm sagte. <2:ts>
+    Ihr hättet Toms Gesichtsausdruck sehen müssen, als ich es ihm sagte. <2:tp>
+You asked us to do that.
+  Ihr habt das von uns verlangt. <2:vs|vp>
+  Du hast das von uns verlangt. <2:ts>
+    Ihr habt das von uns verlangt. <2:tp>
+I wanted to be the first to congratulate you.
+  Ich wollte Ihnen als erster gratulieren. <2:vs|vp>
+  Ich wollte dir als erste gratulieren. <2:ts>
+    Ich wollte euch als erster gratulieren. <2:tp>
+What will you use it for?
+  Wofür werden Sie sie benutzen? <2:vs|vp>
+  Wofür wirst du sie benutzen? <2:ts>
+    Wofür werdet ihr sie benutzen? <2:tp>
+Do you remember this?
+  Erinnern Sie sich an die? <2:vs|vp>
+  Erinnerst du dich an die? <2:ts>
+    Erinnert ihr euch an die? <2:tp>
+You're arrogant.
+  Sie sind überheblich. <2:vs|vp>
+  Du bist überheblich. <2:ts>
+    Ihr seid überheblich. <2:tp>
+How do you make money?
+  Womit verdienen Sie Ihr Geld? <2:vs|vp>
+  Womit verdienst du dein Geld? <2:ts>
+    Womit verdient ihr euer Geld? <2:tp>
+You're making me hungry.
+  Sie machen mir Appetit. <2:vs|vp>
+  Du machst mir Appetit. <2:ts>
+    Ihr macht mir Appetit. <2:tp>
+What time's your curfew?
+  Ab wann haben Sie Ausgangssperre? <2:vs|vp>
+  Ab wann hast du Ausgangssperre? <2:ts>
+    Ab wann habt ihr Ausgangssperre? <2:tp>
+You're talkative.
+  Sie sind redselig. <2:vs|vp>
+  Du bist redselig. <2:ts>
+    Ihr seid redselig. <2:tp>
+What do you fear the most?
+  Wovor haben Sie am meisten Angst? <2:vs|vp>
+  Wovor hast du am meisten Angst? <2:ts>
+    Wovor habt ihr am meisten Angst? <2:tp>
+Why did you need a chainsaw?
+  Wozu haben Sie eine Kettensäge gebraucht? <2:vs|vp>
+  Wozu hast du eine Kettensäge gebraucht? <2:ts>
+    Wozu habt ihr eine Kettensäge gebraucht? <2:tp>
+I didn't do anything to you.
+  Ich habe Ihnen nichts angetan. <2:vs|vp>
+  Ich habe dir nichts angetan. <2:ts>
+    Ich habe euch nichts angetan. <2:tp>
+Tom won't leave you.
+  Tom wird Sie nicht verlassen. <2:vs|vp>
+  Tom wird dich nicht verlassen. <2:ts>
+    Tom wird euch nicht verlassen. <2:tp>
+How many changes of clothes did you pack?
+  Wie viele Kleider zum Wechseln haben Sie eingepackt? <2:vs|vp>
+  Wie viele Kleider zum Wechseln hast du eingepackt? <2:ts>
+    Wie viele Kleider zum Wechseln habt ihr eingepackt? <2:tp>
+You made too many mistakes.
+  Ihr habt zu viele Fehler gemacht. <2:vs|vp>
+  Du hast zu viele Fehler gemacht. <2:ts>
+    Ihr habt zu viele Fehler gemacht. <2:tp>
+You've made too many mistakes.
+  Ihr habt zu viele Fehler gemacht. <2:vs|vp>
+  Du hast zu viele Fehler gemacht. <2:ts>
+    Ihr habt zu viele Fehler gemacht. <2:tp>
+You'll love Australia.
+  Sie werden Australien lieben. <2:vs|vp>
+  Du wirst Australien lieben. <2:ts>
+    Ihr werdet Australien lieben. <2:tp>
+Where did Tom see you?
+  Wo sah Tom Sie? <2:vs|vp>
+  Wo sah Tom dich? <2:ts>
+    Wo sah Tom euch? <2:tp>
+Try harder next time.
+  Geben Sie sich nächstes Mal mehr Mühe. <2:vs|vp>
+  Gib dir nächstes Mal mehr Mühe. <2:ts>
+    Gebt euch nächstes Mal mehr Mühe. <2:tp>
+You'd better get up early.
+  Ihr solltet lieber früh aufstehen. <2:vs|vp>
+  Du solltest lieber früher aufstehen. <2:ts>
+    Ihr solltet lieber früh aufstehen. <2:tp>
+You've got my phone.
+  Ihr habt mein Telefon. <2:vs|vp>
+  Du hast mein Telefon. <2:ts>
+    Ihr habt mein Telefon. <2:tp>
+Thank your friend for the gift.
+  Bedanken Sie sich bei Ihrem Freund für das Geschenk! <2:vs|vp>
+  Bedanke dich bei deinem Freund für das Geschenk! <2:ts>
+    Bedankt euch bei eurem Freund für das Geschenk! <2:tp>
+You just have to do as you're told.
+  Sie brauchen einfach nur zu tun, was man Ihnen sagt. <2:vs|vp>
+  Du brauchst einfach nur zu tun, was man dir sagt. <2:ts>
+    Ihr braucht einfach nur zu tun, was man euch sagt. <2:tp>
+I'd like to be your friend.
+  Ich möchte gern Ihre Freundin sein. <2:vs|vp>
+  Ich möchte gern deine Freundin sein. <2:ts>
+    Ich möchte gern eure Freundin sein. <2:tp>
+You do not have to do it now.
+  Ihr braucht das jetzt nicht zu tun. <2:vs|vp>
+  Du brauchst das jetzt nicht zu tun. <2:ts>
+    Ihr braucht das jetzt nicht zu tun. <2:tp>
+You'd better stop smoking.
+  Ihr solltet besser mit dem Rauchen aufhören. <2:vs|vp>
+  Du solltest besser mit dem Rauchen aufhören. <2:ts>
+    Ihr solltet besser mit dem Rauchen aufhören. <2:tp>
+You'd better wait until the police come.
+  Ihr solltet besser warten, bis die Polizei kommt. <2:vs|vp>
+  Du solltest besser warten, bis die Polizei kommt. <2:ts>
+    Ihr solltet besser warten, bis die Polizei kommt. <2:tp>
+You live in a big house.
+  Ihr wohnt in einem großen Haus. <2:vs|vp>
+  Du wohnst in einem großen Haus. <2:ts>
+    Ihr wohnt in einem großen Haus. <2:tp>
+I'm very sorry for you.
+  Ihr tut mir sehr leid. <2:vs|vp>
+  Du tust mir sehr leid. <2:ts>
+    Ihr tut mir sehr leid. <2:tp>
+You should have started with simpler questions.
+  Ihr hättet mit leichteren Fragen anfangen sollen. <2:vs|vp>
+  Du hättest mit leichteren Fragen anfangen sollen. <2:ts>
+    Ihr hättet mit leichteren Fragen anfangen sollen. <2:tp>
+Please hurry!
+  Bitte beeilen Sie sich. <2:vs|vp>
+  Bitte beeil dich! <2:ts>
+    Bitte beeilt euch. <2:tp>
+I can put it back in the drawer if you want.
+  Ich kann sie wieder in die Schublade tun, wenn Sie wollen. <2:vs|vp>
+  Ich kann sie wieder in die Schublade tun, wenn du willst. <2:ts>
+    Ich kann sie wieder in die Schublade tun, wenn ihr wollt. <2:tp>
+Did you pass the exam?
+  Haben Sie die Klausur bestanden? <2:vs|vp>
+  Hast du die Klausur bestanden? <2:ts>
+    Habt ihr die Klausur bestanden? <2:tp>
+Are you English?
+  Sind Sie Engländerinnen? <2:vs|vp>
+  Bist du Engländer? <2:ts>
+    Seid ihr Engländerinnen? <2:tp>
+You almost missed the deadline.
+  Ihr habt die Abgabefrist fast versäumt. <2:vs|vp>
+  Du hast die Abgabefrist fast versäumt. <2:ts>
+    Ihr habt die Abgabefrist fast versäumt. <2:tp>
+I've really missed you.
+  Sie haben mir echt gefehlt. <2:vs|vp>
+  Du hast mir echt gefehlt. <2:ts>
+    Ihr habt mir echt gefehlt. <2:tp>
+Do you do yoga?
+  Betreiben Sie Yoga? <2:vs|vp>
+  Betreibst du Yoga? <2:ts>
+    Betreibt ihr Yoga? <2:tp>
+Did you take notes?
+  Haben Sie sich Notizen gemacht? <2:vs|vp>
+  Hast du dir Notizen gemacht? <2:ts>
+    Habt ihr euch Notizen gemacht? <2:tp>
+You had better ask him in advance how much it will cost.
+  Ihr solltet ihn vorher fragen, wie viel das kosten wird. <2:vs|vp>
+  Du solltest ihn vorher fragen, wie viel das kosten wird. <2:ts>
+    Ihr solltet ihn vorher fragen, wie viel das kosten wird. <2:tp>
+You need him.
+  Ihr braucht ihn. <2:vs|vp>
+  Du brauchst ihn. <2:ts>
+    Ihr braucht ihn. <2:tp>
+Do you still work for Tom?
+  Arbeiten Sie immer noch für Tom? <2:vs|vp>
+  Arbeitest du immer noch für Tom? <2:ts>
+    Arbeitet ihr immer noch für Tom? <2:tp>
+You don't seem too surprised.
+  Ihr scheint nicht allzu überrascht zu sein. <2:vs|vp>
+  Du scheinst nicht allzu überrascht zu sein. <2:ts>
+    Ihr scheint nicht allzu überrascht zu sein. <2:tp>
+Can I tell you something?
+  Kann ich Ihnen etwas sagen? <2:vs|vp>
+  Kann ich dir etwas sagen? <2:ts>
+    Kann ich euch etwas sagen? <2:tp>
+Nobody believes you.
+  Keiner glaubt Ihnen. <2:vs|vp>
+  Keiner glaubt dir. <2:ts>
+    Keiner glaubt euch. <2:tp>
+No one believes you.
+  Keiner glaubt Ihnen. <2:vs|vp>
+  Keiner glaubt dir. <2:ts>
+    Keiner glaubt euch. <2:tp>
+You should have called me sooner.
+  Ihr hättet mich eher anrufen sollen. <2:vs|vp>
+  Du hättest mich eher anrufen sollen. <2:ts>
+    Ihr hättet mich eher anrufen sollen. <2:tp>
+You should've called me sooner.
+  Ihr hättet mich eher anrufen sollen. <2:vs|vp>
+  Du hättest mich eher anrufen sollen. <2:ts>
+    Ihr hättet mich eher anrufen sollen. <2:tp>
+I think your plan isn't realistic.
+  Ich finde, Ihr Plan ist nicht realistisch. <2:vs|vp>
+  Ich finde, dein Plan ist nicht realistisch. <2:ts>
+    Ich finde, Ihr Plan ist nicht realistisch. <2:tp>
+You should've asked me sooner.
+  Ihr hättet mich eher fragen sollen. <2:vs|vp>
+  Du hättest mich eher fragen sollen. <2:ts>
+    Ihr hättet mich eher fragen sollen. <2:tp>
+Maybe you'll succeed.
+  Vielleicht schaffen Sie es. <2:vs|vp>
+  Vielleicht schaffst du es. <2:ts>
+    Vielleicht schafft ihr es. <2:tp>
+I don't want to hear any more of your stupid jokes.
+  Ich will Ihre dummen Witze nicht mehr hören. <2:vs|vp>
+  Ich will deine dummen Witze nicht mehr hören. <2:ts>
+    Ich will eure dummen Witze nicht mehr hören. <2:tp>
+You live across the street, don't you?
+  Ihr wohnt gegenüber, oder? <2:vs|vp>
+  Du wohnst gegenüber, oder? <2:ts>
+    Ihr wohnt gegenüber, oder? <2:tp>
+Would 8:30 be convenient for you?
+  Wäre es Ihnen um halb neun recht? <2:vs|vp>
+  Wäre es dir um halb neun recht? <2:ts>
+    Wäre es euch um halb neun recht? <2:tp>
+Even you would help us.
+  Selbst Sie hülfen uns. <2:vs|vp>
+  Selbst du hülfest uns. <2:ts>
+    Selbst ihr hülfet uns. <2:tp>
+You're not ready yet, are you?
+  Sie sind noch nicht fertig, oder? <2:vs|vp>
+  Du bist noch nicht fertig, oder? <2:ts>
+    Ihr seid noch nicht fertig, oder? <2:tp>
+You aren't ready yet, are you?
+  Sie sind noch nicht fertig, oder? <2:vs|vp>
+  Du bist noch nicht fertig, oder? <2:ts>
+    Ihr seid noch nicht fertig, oder? <2:tp>
+Why are you tormenting me with that?
+  Warum quälen Sie mich damit? <2:vs|vp>
+  Warum quälst du mich damit? <2:ts>
+    Warum quält ihr mich damit? <2:tp>
+You don't think I'm right, do you?
+  Ihr glaubt nicht, dass ich recht habe, oder? <2:vs|vp>
+  Du glaubst nicht, dass ich recht habe, oder? <2:ts>
+    Ihr glaubt nicht, dass ich recht habe, oder? <2:tp>
+You will get used to it.
+  Sie werden sich daran gewöhnen. <2:vs|vp>
+  Du wirst dich daran gewöhnen. <2:ts>
+    Ihr werdet euch daran gewöhnen. <2:tp>
+You're being treated unfairly.
+  Ihr werdet ungerecht behandelt. <2:vs|vp>
+  Du wirst ungerecht behandelt. <2:ts>
+    Ihr werdet ungerecht behandelt. <2:tp>
+I should have told you this long ago.
+  Ich hätte Ihnen das schon längst sagen sollen. <2:vs|vp>
+  Ich hätte dir das schon längst sagen sollen. <2:ts>
+    Ich hätte euch das schon längst sagen sollen. <2:tp>
+Are you looking for me?
+  Suchen Sie mich? <2:vs|vp>
+  Suchst du mich? <2:ts>
+    Sucht ihr mich? <2:tp>
+How do I know you won't steal it?
+  Woher weiß ich denn, dass Sie ihn nicht klauen? <2:vs|vp>
+  Woher weiß ich denn, dass du ihn nicht klaust? <2:ts>
+    Woher weiß ich denn, dass ihr ihn nicht klaut? <2:tp>
+You always pick her side.
+  Immer ergreifen Sie für sie Partei! <2:vs|vp>
+  Immer ergreifst du für sie Partei! <2:ts>
+    Immer ergreift ihr für sie Partei! <2:tp>
+Could you show me another one?
+  Könnten Sie mir noch einen weiteren zeigen? <2:vs|vp>
+  Könntest du mir noch eine weitere zeigen? <2:ts>
+    Könntet ihr mir noch eine weitere zeigen? <2:tp>
+Could I please use your phone?
+  Darf ich Ihr Telefon benutzen? <2:vs|vp>
+  Darf ich dein Telefon benutzen? <2:ts>
+    Darf ich Ihr Telefon benutzen? <2:tp>
+How long are you staying in Japan?
+  Wie lange werden Sie in Japan bleiben? <2:vs|vp>
+  Wie lange wirst du in Japan bleiben? <2:ts>
+    Wie lange werdet ihr in Japan bleiben? <2:tp>
+You should've woken me up.
+  Ihr hättet mich wecken sollen. <2:vs|vp>
+  Du hättest mich wecken sollen. <2:ts>
+    Ihr hättet mich wecken sollen. <2:tp>
+Do you miss her?
+  Fehlt sie Ihnen? <2:vs|vp>
+  Fehlt sie dir? <2:ts>
+    Fehlt sie euch? <2:tp>
+You'll miss him.
+  Sie werden ihn vermissen. <2:vs|vp>
+  Du wirst ihn vermissen. <2:ts>
+    Ihr werdet ihn vermissen. <2:tp>
+I hope you brought coffee.
+  Ich hoffe, dass Sie Kaffee mitgebracht haben. <2:vs|vp>
+  Ich hoffe, dass du Kaffee mitgebracht hast. <2:ts>
+    Ich hoffe, dass ihr Kaffee mitgebracht habt. <2:tp>
+Would you care to comment?
+  Möchten Sie sich dazu äußern? <2:vs|vp>
+  Möchtest du dich dazu äußern? <2:ts>
+    Möchtet ihr euch dazu äußern? <2:tp>
+Do you mean this one?
+  Meinen Sie dieses? <2:vs|vp>
+  Meinst du dieses? <2:ts>
+    Meint ihr dieses? <2:tp>
+Did you get my flowers?
+  Haben Sie meine Blumen gekriegt? <2:vs|vp>
+  Hast du meine Blumen gekriegt? <2:ts>
+    Habt ihr meine Blumen gekriegt? <2:tp>
+Have you missed me?
+  Habe ich Ihnen gefehlt? <2:vs|vp>
+  Habe ich dir gefehlt? <2:ts>
+    Habe ich euch gefehlt? <2:tp>
+Why didn't you take a taxi?
+  Warum sind Sie nicht mit dem Taxi gefahren? <2:vs|vp>
+  Warum bist du nicht mit dem Taxi gefahren? <2:ts>
+    Warum seid ihr nicht mit dem Taxi gefahren? <2:tp>
+Which candidate do you prefer?
+  Welche Kandidatin finden Sie besser? <2:vs|vp>
+  Welche Kandidatin findest du besser? <2:ts>
+    Welche Kandidatin findet ihr besser? <2:tp>
+I miss your jokes.
+  Mir fehlen Ihre Witze. <2:vs|vp>
+  Mir fehlen deine Witze. <2:ts>
+    Mir fehlen eure Witze. <2:tp>
+I hope you have an alibi.
+  Ich hoffe, Sie haben ein Alibi. <2:vs|vp>
+  Ich hoffe, du hast ein Alibi. <2:ts>
+    Ich hoffe, ihr habt ein Alibi. <2:tp>
+Why didn't you do it?
+  Warum haben Sie das nicht gemacht? <2:vs|vp>
+  Warum hast du das nicht gemacht? <2:ts>
+    Warum habt ihr das nicht gemacht? <2:tp>
+What's your cousin's name?
+  Wie heißt Ihre Cousine? <2:vs|vp>
+  Wie heißt deine Cousine? <2:ts>
+    Wie heißt eure Cousine? <2:tp>
+You've got problems.
+  Ihr habt Probleme. <2:vs|vp>
+  Du hast Probleme. <2:ts>
+    Ihr habt Probleme. <2:tp>
+I don't need your sympathy.
+  Ich brauche Ihr Mitleid nicht. <2:vs|vp>
+  Ich brauche dein Mitleid nicht. <2:ts>
+    Ich brauche Ihr Mitleid nicht. <2:tp>
+I'll definitely miss you.
+  Sie werden mir auf jeden Fall fehlen. <2:vs|vp>
+  Du wirst mir auf jeden Fall fehlen. <2:ts>
+    Ihr werdet mir auf jeden Fall fehlen. <2:tp>
+I'm definitely going to miss you.
+  Ich werde Sie auf jeden Fall vermissen. <2:vs|vp>
+  Ich werde dich auf jeden Fall vermissen. <2:ts>
+    Ich werde euch auf jeden Fall vermissen. <2:tp>
+I don't need your pity.
+  Ihr Mitleid brauche ich nicht. <2:vs|vp>
+  Dein Mitleid brauche ich nicht. <2:ts>
+    Ihr Mitleid brauche ich nicht. <2:tp>
+I'm your French teacher.
+  Ich bin Ihre Französischlehrerin. <2:vs|vp>
+  Ich bin deine Französischlehrerin. <2:ts>
+    Ich bin Ihr Französischlehrer. <2:tp>
+You're correct.
+  Ihr habt Recht. <2:vs|vp>
+  Du hast Recht. <2:ts>
+    Ihr habt Recht. <2:tp>
+Doesn't that strike you as odd?
+  Kommt Ihnen das nicht seltsam vor? <2:vs|vp>
+  Kommt dir das nicht seltsam vor? <2:ts>
+    Kommt euch das nicht seltsam vor? <2:tp>
+Are you coming along?
+  Gehen Sie mit? <2:vs|vp>
+  Gehst du mit? <2:ts>
+    Geht ihr mit? <2:tp>
+Are you going to come along?
+  Gehen Sie mit? <2:vs|vp>
+  Gehst du mit? <2:ts>
+    Geht ihr mit? <2:tp>
+Did you change the filter?
+  Haben Sie den Filter getauscht? <2:vs|vp>
+  Hast du den Filter getauscht? <2:ts>
+    Habt ihr den Filter getauscht? <2:tp>
+The police want to talk to you.
+  Die Polizei will Sie sprechen. <2:vs|vp>
+  Die Polizei will dich sprechen. <2:ts>
+    Die Polizei will euch sprechen. <2:tp>
+You don't have to help me.
+  Sie brauchen mir nicht zu helfen. <2:vs|vp>
+  Du brauchst mir nicht zu helfen. <2:ts>
+    Ihr braucht mir nicht zu helfen. <2:tp>
+Were you bit?
+  Wurden Sie gebissen? <2:vs|vp>
+  Wurdest du gebissen? <2:ts>
+    Wurdet ihr gebissen? <2:tp>
+Nothing can stop you.
+  Nichts kann Sie aufhalten. <2:vs|vp>
+  Nichts kann dich aufhalten. <2:ts>
+    Nichts kann euch aufhalten. <2:tp>
+You don't need to do this.
+  Sie brauchen das nicht zu tun. <2:vs|vp>
+  Du brauchst das nicht zu tun. <2:ts>
+    Ihr braucht das nicht zu tun. <2:tp>
+I have your file.
+  Ich habe Ihre Datei. <2:vs|vp>
+  Ich habe deine Datei. <2:ts>
+    Ich habe eure Datei. <2:tp>
+Can you hear me?
+  Hören Sie mich? <2:vs|vp>
+  Hörst du mich? <2:ts>
+    Hört ihr mich? <2:tp>
+You speak French, don't you?
+  Sie sprechen doch Französisch, oder? <2:vs|vp>
+  Du sprichst doch Französisch, oder? <2:ts>
+    Ihr sprecht doch Französisch, oder? <2:tp>
+Have you told your parents yet?
+  Haben Sie Ihren Eltern schon davon erzählt? <2:vs|vp>
+  Hast du deinen Eltern schon davon erzählt? <2:ts>
+    Habt ihr euren Eltern schon davon erzählt? <2:tp>
+Everyone believed you.
+  Alle haben Ihnen geglaubt. <2:vs|vp>
+  Alle haben dir geglaubt. <2:ts>
+    Alle haben euch geglaubt. <2:tp>
+Where's your university?
+  Wo ist Ihre Uni? <2:vs|vp>
+  Wo ist deine Uni? <2:ts>
+    Wo ist eure Uni? <2:tp>
+What have you told Tom?
+  Was haben Sie Tom erzählt? <2:vs|vp>
+  Was hast du Tom erzählt? <2:ts>
+    Was habt ihr Tom erzählt? <2:tp>
+Who is your dance partner?
+  Wer ist Ihre Tanzpartnerin? <2:vs|vp>
+  Wer ist deine Tanzpartnerin? <2:ts>
+    Wer ist Ihr Tanzpartner? <2:tp>
+You don't need to do that now.
+  Sie brauchen das jetzt nicht zu machen. <2:vs|vp>
+  Du brauchst das jetzt nicht zu machen. <2:ts>
+    Ihr braucht das jetzt nicht zu machen. <2:tp>
+Lie low.
+  Legen Sie sich hin! <2:vs|vp>
+  Leg dich hin! <2:ts>
+    Legt euch hin! <2:tp>
+You are coming at just the right moment.
+  Ihr kommt gerade im richtigen Augenblick. <2:vs|vp>
+  Du kommst gerade im richtigen Augenblick. <2:ts>
+    Ihr kommt gerade im richtigen Augenblick. <2:tp>
+You came at just the right moment.
+  Ihr kamt wie gerufen. <2:vs|vp>
+  Du kamst wie gerufen. <2:ts>
+    Ihr kamt wie gerufen. <2:tp>
+I adore you.
+  Ich bete Sie an. <2:vs|vp>
+  Ich bete dich an. <2:ts>
+    Ich bete euch an. <2:tp>
+You should resign.
+  Sie sollten abdanken! <2:vs|vp>
+  Du solltest abdanken! <2:ts>
+    Ihr solltet abdanken! <2:tp>
+I can't do that to you.
+  Ich kann Ihnen das nicht antun. <2:vs|vp>
+  Ich kann dir das nicht antun. <2:ts>
+    Ich kann euch das nicht antun. <2:tp>
+Have you tried the rice?
+  Haben Sie den Reis gekostet? <2:vs|vp>
+  Hast du den Reis gekostet? <2:ts>
+    Habt ihr den Reis gekostet? <2:tp>
+You crossed the street.
+  Ihr habt die Straße überquert. <2:vs|vp>
+  Du hast die Straße überquert. <2:ts>
+    Ihr habt die Straße überquert. <2:tp>
+You crossed over the road.
+  Sie überquerten die Straße. <2:vs|vp>
+  Du überquertest die Straße. <2:ts>
+    Ihr überquertet die Straße. <2:tp>
+Why did you come this early?
+  Warum sind Sie so früh gekommen? <2:vs|vp>
+  Wieso bist du so früh gekommen? <2:ts>
+    Warum seid ihr so früh gekommen? <2:tp>
+Don't you want to use mine?
+  Wollen Sie nicht meins benutzen? <2:vs|vp>
+  Willst du nicht meins benutzen? <2:ts>
+    Wollt ihr nicht meins benutzen? <2:tp>
+Who's your roommate?
+  Wer ist Ihre Mitbewohnerin? <2:vs|vp>
+  Wer ist deine Mitbewohnerin? <2:ts>
+    Wer ist Ihr Mitbewohner? <2:tp>
+You didn't buy the train tickets?
+  Ihr habt die Bahntickets nicht gekauft? <2:vs|vp>
+  Du hast die Bahntickets nicht gekauft? <2:ts>
+    Ihr habt die Bahntickets nicht gekauft? <2:tp>
+You thought about everything.
+  Ihr habt an alles gedacht. <2:vs|vp>
+  Du hast an alles gedacht. <2:ts>
+    Ihr habt an alles gedacht. <2:tp>
+What does your son do in Germany?
+  Was macht Ihr Sohn denn in Deutschland? <2:vs|vp>
+  Was macht dein Sohn denn in Deutschland? <2:ts>
+    Was macht Ihr Sohn denn in Deutschland? <2:tp>
+When will your book be published?
+  Wann wird Ihr Buch herausgegeben? <2:vs|vp>
+  Wann wird dein Buch herausgegeben? <2:ts>
+    Wann wird Ihr Buch herausgegeben? <2:tp>
+From the bottom of my heart, thank you.
+  Ich danke Ihnen von Herzen. <2:vs|vp>
+  Ich danke dir von Herzen. <2:ts>
+    Ich danke euch von Herzen. <2:tp>
+You'd better not stay up late.
+  Ihr solltet besser nicht so lange aufbleiben. <2:vs|vp>
+  Du solltest besser nicht so lange aufbleiben. <2:ts>
+    Ihr solltet besser nicht so lange aufbleiben. <2:tp>
+You'll paint the fence tomorrow.
+  Ihr streicht morgen den Zaun. <2:vs|vp>
+  Du streichst morgen den Zaun. <2:ts>
+    Ihr streicht morgen den Zaun. <2:tp>
+Who is your doctor?
+  Wer ist Ihr Arzt? <2:vs|vp>
+  Wer ist dein Arzt? <2:ts>
+    Wer ist Ihr Arzt? <2:tp>
+Is it your car?
+  Ist das Ihr Wagen? <2:vs|vp>
+  Ist das dein Wagen? <2:ts>
+    Ist das Ihr Wagen? <2:tp>
+You've got a visitor.
+  Ihr habt Besuch. <2:vs|vp>
+  Du hast Besuch. <2:ts>
+    Ihr habt Besuch. <2:tp>
+I would like you to meet my new boyfriend.
+  Ich möchte Ihnen meinen neuen Freund vorstellen. <2:vs|vp>
+  Ich möchte dir meinen neuen Freund vorstellen. <2:ts>
+    Ich möchte euch meinen neuen Freund vorstellen. <2:tp>
+You're going to like him.
+  Ihr werdet ihn mögen. <2:vs|vp>
+  Du wirst ihn mögen. <2:ts>
+    Ihr werdet ihn mögen. <2:tp>
+You needn't go there if you don't want to.
+  Sie brauchen nicht dorthin, wenn Sie nicht wollen. <2:vs|vp>
+  Du brauchst nicht dorthin, wenn du nicht willst. <2:ts>
+    Ihr braucht nicht dorthin, wenn ihr nicht wollt. <2:tp>
+I'll tell you this as a doctor.
+  Ich sage Ihnen das als Ärztin. <2:vs|vp>
+  Ich sage dir das als Ärztin. <2:ts>
+    Ich sage euch das als Ärztin. <2:tp>
+You've got three children.
+  Ihr habt drei Kinder. <2:vs|vp>
+  Du hast drei Kinder. <2:ts>
+    Ihr habt drei Kinder. <2:tp>
+You've got three kids.
+  Ihr habt drei Kinder. <2:vs|vp>
+  Du hast drei Kinder. <2:ts>
+    Ihr habt drei Kinder. <2:tp>
+Who is your favourite actor?
+  Wer ist Ihr Lieblingsschauspieler? <2:vs|vp>
+  Wer ist dein Lieblingsdarsteller? <2:ts>
+    Wer ist Ihr Lieblingsschauspieler? <2:tp>
+Who's your favourite actor?
+  Wer ist Ihr Lieblingsschauspieler? <2:vs|vp>
+  Wer ist dein Lieblingsdarsteller? <2:ts>
+    Wer ist Ihr Lieblingsschauspieler? <2:tp>
+Is this your brolly?
+  Ist das Ihr Regenschirm? <2:vs|vp>
+  Ist das dein Regenschirm? <2:ts>
+    Ist das euer Regenschirm? <2:tp>
+I'm sorry I didn't tell you earlier.
+  Entschuldigen Sie, dass ich es Ihnen nicht eher gesagt habe. <2:vs|vp>
+  Entschuldige, dass ich es dir nicht eher gesagt habe. <2:ts>
+    Entschuldigt, dass ich es euch nicht eher gesagt habe. <2:tp>
+I wasn't pleased by your rude behavior.
+  Ich war nicht erfreut über Ihr unverschämtes Verhalten. <2:vs|vp>
+  Ich war nicht erfreut über dein unverschämtes Verhalten. <2:ts>
+    Ich war nicht erfreut über euer unverschämtes Verhalten. <2:tp>
+You help us too.
+  Ihr helft uns auch. <2:vs|vp>
+  Du hilfst uns auch. <2:ts>
+    Ihr helft uns auch. <2:tp>
+Who has a key to your office?
+  Wer hat alles einen Schlüssel für Ihr Büro? <2:vs|vp>
+  Wer hat alles einen Schlüssel für dein Büro? <2:ts>
+    Wer hat alles einen Schlüssel für euer Büro? <2:tp>
+You deserve to be promoted.
+  Ihr verdient eine Beförderung. <2:vs|vp>
+  Du verdienst eine Beförderung. <2:ts>
+    Ihr verdient eine Beförderung. <2:tp>
+Are you Jewish?
+  Sind Sie Jüdinnen? <2:vs|vp>
+  Bist du Jüdin? <2:ts>
+    Seid ihr Jüdinnen? <2:tp>
+You come from home.
+  Ihr kommt von zu Hause. <2:vs|vp>
+  Du kommst von zu Hause. <2:ts>
+    Ihr kommt von zu Hause. <2:tp>
+No one asked you to do that.
+  Es hat Sie niemand gebeten, das zu tun. <2:vs|vp>
+  Es hat dich niemand gebeten, das zu tun. <2:ts>
+    Es hat euch niemand gebeten, das zu tun. <2:tp>
+I'm glad to hear that.
+  Schön für Sie. <2:vs|vp>
+  Schön für dich. <2:ts>
+    Schön für euch. <2:tp>
+Have you visited the Tower of London?
+  Haben Sie den Tower von London besichtigt? <2:vs|vp>
+  Hast du den Tower von London besichtigt? <2:ts>
+    Habt ihr den Tower von London besichtigt? <2:tp>
+Where did you park your car?
+  Wo haben Sie den Wagen geparkt? <2:vs|vp>
+  Wo hast du den Wagen geparkt? <2:ts>
+    Wo habt ihr den Wagen geparkt? <2:tp>
+Are you here on holiday?
+  Machen Sie hier Ferien? <2:vs|vp>
+  Machst du hier Ferien? <2:ts>
+    Macht ihr hier Ferien? <2:tp>
+How did you like the movie?
+  Hat Ihnen der Film Freude gemacht? <2:vs|vp>
+  Hat dir der Film Freude gemacht? <2:ts>
+    Hat euch der Film Freude gemacht? <2:tp>
+Did you say something?
+  Könnten Sie das wiederholen? <2:vs|vp>
+  Könntest du das wiederholen? <2:ts>
+    Könnt ihr das wiederholen? <2:tp>
+You know this woman's child.
+  Ihr kennt das Kind dieser Frau. <2:vs|vp>
+  Du kennst das Kind dieser Frau. <2:ts>
+    Ihr kennt das Kind dieser Frau. <2:tp>
+Yes, of course, you're right.
+  Ja, natürlich. Ihr habt recht. <2:vs|vp>
+  Ja, natürlich. Du hast recht. <2:ts>
+    Ja, natürlich. Ihr habt recht. <2:tp>
+Don't believe everything you see.
+  Glauben Sie nicht alles, was Sie sehen! <2:vs|vp>
+  Glaub nicht alles, was du siehst! <2:ts>
+    Glaubt nicht alles, was ihr seht! <2:tp>
+I didn't know you had come.
+  Ich wusste nicht, dass Sie gekommen waren. <2:vs|vp>
+  Ich wusste nicht, dass du gekommen warst. <2:ts>
+    Ich wusste nicht, dass ihr gekommen wart. <2:tp>
+You shouldn't get married.
+  Ihr solltet nicht heiraten. <2:vs|vp>
+  Du solltest nicht heiraten. <2:ts>
+    Ihr solltet nicht heiraten. <2:tp>
+You've something that belongs to me.
+  Ihr habt etwas, was mir gehört. <2:vs|vp>
+  Du hast etwas, was mir gehört. <2:ts>
+    Ihr habt etwas, was mir gehört. <2:tp>
+You haven't got to come tomorrow.
+  Ihr braucht morgen nicht zu kommen. <2:vs|vp>
+  Du brauchst morgen nicht zu kommen. <2:ts>
+    Ihr braucht morgen nicht zu kommen. <2:tp>
+Do you speak Tamil?
+  Sprechen Sie Tamil? <2:vs|vp>
+  Sprichst du Tamil? <2:ts>
+    Sprecht ihr Tamil? <2:tp>
+Do you speak Lao?
+  Sprechen Sie Lao? <2:vs|vp>
+  Sprichst du Lao? <2:ts>
+    Sprecht ihr Lao? <2:tp>
+We wanted to wish you good luck.
+  Wir wollten Ihnen viel Glück wünschen. <2:vs|vp>
+  Wir wollten dir viel Glück wünschen. <2:ts>
+    Wir wollten euch viel Glück wünschen. <2:tp>
+Do you miss your parents?
+  Fehlen Ihnen Ihre Eltern? <2:vs|vp>
+  Fehlen dir deine Eltern? <2:ts>
+    Fehlen euch eure Eltern? <2:tp>
+How do you get on?
+  Wie kommen Sie voran? <2:vs|vp>
+  Wie kommst du voran? <2:ts>
+    Wie kommt ihr voran? <2:tp>
+I didn't understand your letter.
+  Ich verstand Ihren Brief nicht. <2:vs|vp>
+  Ich verstand deinen Brief nicht. <2:ts>
+    Ich verstand euren Brief nicht. <2:tp>
+I think that you really should do this by yourselves.
+  Ich finde, dass Sie das wirklich selbst machen sollten. <2:vs|vp>
+  Ich finde, dass du das wirklich selber machen solltest. <2:ts>
+    Ich finde, dass ihr das wirklich selbst machen solltet. <2:tp>
+You don't need to patronize me.
+  Ihr braucht mich nicht zu bevormunden. <2:vs|vp>
+  Du brauchst mich nicht zu bevormunden. <2:ts>
+    Ihr braucht mich nicht zu bevormunden. <2:tp>
+You loved them, didn't you?
+  Ihr liebtet sie, nicht wahr? <2:vs|vp>
+  Du liebtest sie, nicht wahr? <2:ts>
+    Ihr liebtet sie, nicht wahr? <2:tp>
+How could you say that?
+  Wie haben Sie das sagen können? <2:vs|vp>
+  Wie hast du das sagen können? <2:ts>
+    Wie habt ihr das sagen können? <2:tp>
+Everything I've told you is true.
+  Alles, was ich Ihnen gesagt habe, ist wahr. <2:vs|vp>
+  Alles, was ich dir gesagt habe, ist wahr. <2:ts>
+    Alles, was ich euch gesagt habe, ist wahr. <2:tp>
+You don't really want to live in Australia, do you?
+  Ihr wollt doch nicht wirklich in Australien leben, oder? <2:vs|vp>
+  Du willst doch nicht wirklich in Australien leben, oder? <2:ts>
+    Ihr wollt doch nicht wirklich in Australien leben, oder? <2:tp>
+You were kind to help me.
+  Sie sind so freundlich gewesen, mir zu helfen. <2:vs|vp>
+  Du bist so freundlich gewesen, mir zu helfen. <2:ts>
+    Ihr seid so freundlich gewesen, mir zu helfen. <2:tp>
+I met somebody who knows you.
+  Ich traf jemanden, der Sie kannte. <2:vs|vp>
+  Ich traf jemanden, der dich kannte. <2:ts>
+    Ich traf jemanden, der euch kannte. <2:tp>
+You're worrying way too much.
+  Sie machen sich viel zu viele Gedanken. <2:vs|vp>
+  Du machst dir viel zu viele Gedanken. <2:ts>
+    Ihr macht euch viel zu viele Gedanken. <2:tp>
+My advice to you is to leave immediately.
+  Mein Rat an Sie ist, sofort zu verschwinden. <2:vs|vp>
+  Mein Rat an dich ist, sofort zu verschwinden. <2:ts>
+    Mein Rat an euch ist, sofort zu verschwinden. <2:tp>
+How much did you spend?
+  Wie viel gaben Sie aus? <2:vs|vp>
+  Wie viel gabst du aus? <2:ts>
+    Wie viel gabt ihr aus? <2:tp>
+Nobody forces you to translate that.
+  Keiner zwingt Sie dazu, das zu übersetzen. <2:vs|vp>
+  Keiner zwingt dich dazu, das zu übersetzen. <2:ts>
+    Keiner zwingt euch dazu, das zu übersetzen. <2:tp>
+You said I could see them.
+  Sie haben gesagt, ich könne sie sehen. <2:vs|vp>
+  Du hast gesagt, ich könne sie sehen. <2:ts>
+    Ihr habt gesagt, ich könne sie sehen. <2:tp>
+You don't have anything to say?
+  Ihr habt nichts zu sagen? <2:vs|vp>
+  Du hast nichts zu sagen? <2:ts>
+    Ihr habt nichts zu sagen? <2:tp>
+Did you tell anybody?
+  Haben Sie es jemandem erzählt? <2:vs|vp>
+  Hast du es jemandem erzählt? <2:ts>
+    Habt ihr es jemandem erzählt? <2:tp>
+You have a lot of creative ideas.
+  Ihr habt eine Menge kreativer Ideen. <2:vs|vp>
+  Du hast eine Menge kreativer Ideen. <2:ts>
+    Ihr habt eine Menge kreativer Ideen. <2:tp>
+Would you like to go back to being a child?
+  Möchten Sie gern wieder ein Kind sein? <2:vs|vp>
+  Möchtest du gern wieder ein Kind sein? <2:ts>
+    Möchtet ihr gern wieder ein Kind sein? <2:tp>
