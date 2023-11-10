@@ -146,7 +146,7 @@ How old are you?
   Quel âge avez-vous? <2:vs|p>
 Do you understand?
   Comprenez vous? <2:vs|p>
-    Comprends te? <2:ts>
+    Comprends tu? <2:ts>
 Do you understand?
   Vous comprenez ? <2:vs|p>
     Tu comprends ? <2:ts>
@@ -284,7 +284,7 @@ Do you have a vacancy?
     As-tu un poste à pourvoir ? <2:ts>
 Do you have a vacancy?
   Avez-vous des chambres libres? <2:vs|p>
-    As -te des chambres libres? <2:ts>
+    As-tu des chambres libres? <2:ts>
 Are you hungry?
   Avez-vous faim? <2:vs|p>
     As-tu faim? <2:ts>
@@ -506,16 +506,10 @@ What are you doing here?
   Qu'est-ce que tu fais ici ? <2:ts>
     Qu'est-ce que vous faites ici ? <2:vs|p>
 Fancy meeting you here!
-  Envie de vous rencontrer ici ! <2:vs|p>
-    Envie de te rencontrer ici ! <2:ts>
-Fancy meeting you here!
   Je suis heureux de vous rencontrer ici ! <1:sm> <2:vs|p>
     Je suis heureux de te rencontrer ici ! <1:sm> <2:ts>
     Je suis heureuse de te rencontrer ici ! <1:sf> <2:ts>
     Je suis heureuse de vous rencontrer ici ! <1:sf> <2:vs|p>
-Fancy meeting you here!
-  Envie de vous rencontrer ici! <2:vs|p>
-    Envie de te rencontrer ici! <2:ts>
 Can I get you a drink?
   Puis je vous proposer une boisson? <2:vs|p>
     Puis je te proposer une boisson? <2:ts>
@@ -585,7 +579,7 @@ Is this a problem for you?
     Est-ce un problème pour toi ? <2:ts>
 Don't worry!
   Ne vous inquiétez pas! <2:vs|p>
-    Ne toi inquiète pas! <2:ts>
+    Ne t'inquiète pas! <2:ts>
 Are you scared?
   Es tu effrayé? <2:tsm>
     Es tu effrayée? <2:tsf>
@@ -648,7 +642,7 @@ Are you here on your own?
     Vous êtes ici tout seules ? <2:pf>
 I don't need your help.
   Je n'ai pas besoin de votre aide. <2:vs|p>
-    Je n'ai pas besoin de ta aide. <2:ts>
+    Je n'ai pas besoin de ton aide. <2:ts>
 Please help me.
   Aidez-moi, s'il vous plaît. <2:vs|p>
     Aide-moi, s'il te plaît. <2:ts>
@@ -716,11 +710,11 @@ Am I a good doctor?
   Suis-je un bon médecin ? <1:sm>
   Suis-je une bonne médecine ? <1:sf>
 The police officer was very helpful.
-  Le policier a été très utile. <3:police officer:sm>
-    La policière a été très utile. <3:police officer:sf>
+  Le policier a été très utile. <3:police:sm>
+    La policière a été très utile. <3:police:sf>
 The police officer was very helpful.
-  Le policier était très serviable. <3:police officer:sm>
-    La policière était très serviable. <3:police officer:sf>
+  Le policier était très serviable. <3:police:sm>
+    La policière était très serviable. <3:police:sf>
 You shouldn't guess if you can ask.
   Vous ne devriez pas deviner si vous pouvez demander. <2:vs|p>
     Tu ne devrais pas deviner si tu peux demander. <2:ts>
@@ -1016,7 +1010,7 @@ What is the new teacher's name?
     Quel est le nom de la nouvelle professeure ? <3:teacher:sf>
 What is the new teacher's name?
   Quel est le nom du nouvel enseignant? <3:teacher:sm>
-    Quel est le nom de la nouvel enseignante? <3:teacher:sf>
+    Quel est le nom de la nouvelle enseignante? <3:teacher:sf>
 How do you like your new teacher?
   Comment trouvez-vous votre nouveau professeur ? <2:vs> <3:teacher:sm>
   Comment trouves-tu ton nouveau professeur ? <2:ts> <3:teacher:sm>
